@@ -1,0 +1,158 @@
+{
+  general: {
+    // Add to Vanilla's Options
+    // Whether to add a button to vanilla game's options that opens WTHIT config screen
+    // 標準値: [false]
+    vanillaOptions: false,
+    // ツールヒントの表示
+    // ツールヒントを示す
+    // 標準値: [true]
+    displayTooltip: true,
+    // スニークで詳細を表示
+    // スニークしていないときは詳細を隠す
+    // 標準値: [false]
+    shiftForDetails: false,
+    // スニークテキストを隠す
+    // スニーク時の詳細表示が有効な場合に"スニーク時の詳細表示"を隠す
+    // 標準値: [false]
+    hideShiftText: false,
+    // 表示モード
+    // ツールヒントの表示行動
+    // 切り替え: 表示のキーボードショートカットで切り替え
+    // 固定: 表示のキーボードショートカットを固定するのは必要
+    // 標準値: [TOGGLE]
+    // 利用可能な値: [HOLD_KEY, TOGGLE]
+    displayMode: "TOGGLE",
+    // プレイヤーリストから非表示
+    // ツールヒントはプレイヤーリストを表しながら隠す
+    // 標準値: [true]
+    hideFromPlayerList: true,
+    // デバッグ画面から非表示
+    // ツールヒントはデバッグ画面を表しながら隠す
+    // 標準値: [true]
+    hideFromDebug: true,
+    // 音声読み上げを有効にする
+    // ブロックやエンティティ名などをシステム音声で読み上げます
+    // 標準値: [false]
+    enableTextToSpeech: false,
+    // 速度制限
+    // 各サーバーリクエスト間の遅延を何ミリ秒にするか
+    // 少なくとも250msが必要
+    // 標準値: [250]
+    rateLimit: 250
+  },
+  overlay: {
+    position: {
+      align: {
+        // 標準値: [CENTER]
+        // 利用可能な値: [LEFT, CENTER, RIGHT]
+        x: "CENTER",
+        // 標準値: [TOP]
+        // 利用可能な値: [TOP, MIDDLE, BOTTOM]
+        y: "TOP"
+      },
+      anchor: {
+        // 標準値: [CENTER]
+        // 利用可能な値: [LEFT, CENTER, RIGHT]
+        x: "CENTER",
+        // 標準値: [TOP]
+        // 利用可能な値: [TOP, MIDDLE, BOTTOM]
+        y: "TOP"
+      },
+      // オフセット
+      // 標準値: [0]
+      x: 0,
+      // 標準値: [0]
+      y: 0,
+      // ボスバーの重ね合わせ
+      // オフした場合、ボスバーのある時にツールヒントを下に動かす
+      // 上-中配置の時に限る
+      // 標準値: [false]
+      bossBarsOverlap: false
+    },
+    color: {
+      // 背景の透明
+      // 標準値: [204]
+      backgroundAlpha: 204,
+      // Custom Themes
+      themes: [],
+      // テーマ
+      // 標準値: [waila:vanilla]
+      activeTheme: "waila:vanilla"
+    },
+    // スケール
+    // ツールヒントの大きさはどのように大きくか
+    // 初期値は1.0
+    // 標準値: [1.0]
+    scale: 1.0,
+    // オーバーレイのFPS
+    // オーバーレイのFPSを下げれば、ゲーム全体のFPSが向上することがある
+    // ロックを解除するには 0 を設定する
+    // 標準値: [30]
+    fps: 30
+  },
+  // Text formatters
+  formatter: {
+    // 標準値: [§9§o%s]
+    modName: "§9§o%s",
+    // 標準値: [§f%s]
+    blockName: "§f%s",
+    // 標準値: [§f%s]
+    fluidName: "§f%s",
+    // 標準値: [§f%s]
+    entityName: "§f%s",
+    // 標準値: [§8%s]
+    registryName: "§8%s",
+    // 
+    styles: {
+      // 
+      "§f%s": {
+        // 
+        f_131101_: {
+          // 
+          f_131257_: 16777215,
+          // 
+          f_131258_: "white"
+        },
+        // 
+        f_131102_: false,
+        // 
+        f_131103_: false,
+        // 
+        f_131104_: false,
+        // 
+        f_131105_: false,
+        // 
+        f_131106_: false,
+        // 
+        f_131107_: null,
+        // 
+        f_131108_: null,
+        // 
+        f_131109_: null,
+        // 
+        f_131110_: null
+      }
+    }
+  },
+  keyBinds: {
+    // 設定を開く
+    // 標準値: [key.keyboard.unknown]
+    openConfig: "key.keyboard.unknown",
+    // オーバーレイ表示
+    // 標準値: [key.keyboard.unknown]
+    showOverlay: "key.keyboard.unknown",
+    // 液体の切り替え
+    // 標準値: [key.keyboard.unknown]
+    toggleLiquid: "key.keyboard.unknown",
+    // レシピ使用の表示
+    // 標準値: [key.keyboard.unknown]
+    showRecipeInput: "key.keyboard.unknown",
+    // レシピの表示
+    // 標準値: [key.keyboard.unknown]
+    showRecipeOutput: "key.keyboard.unknown"
+  },
+  // Internal value, DO NOT TOUCH!
+  // 標準値: [0]
+  configVersion: 1
+}

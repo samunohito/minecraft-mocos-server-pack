@@ -1,0 +1,28 @@
+[
+    {
+        "hostile": true,
+        "area": "spawn",
+        "when": "onjoin",
+        "result": "deny"
+    },
+    {
+        "when": "onjoin",
+        "mob": [
+            "minecraft:zombie",
+            "minecraft:husk"
+        ],
+        "spawner": true,
+        "result": "allow",
+        "nbt": "{\"HandDropChances\": [0.0f, 0.0f], \"HandItems\":[{},{}], \"ArmorDropChances\": [0.0f, 0.0f, 0.0f, 0.0f], \"ArmorItems\":[{},{},{},{}]}"
+    },
+    {
+        "when": "onjoin",
+        "mob": [
+            "minecraft:skeleton",
+            "minecraft:stray"
+        ],
+        "spawner": true,
+        "result": "allow",
+        "nbt": "{\"HandItems\":[{\"id\":\"minecraft:bow\", \"Count\":1}, {}], \"ArmorDropChances\": [0.0f, 0.0f, 0.0f, 0.0f], \"ArmorItems\":[{},{},{},{}]}"
+    }
+]

@@ -1,0 +1,343 @@
+{
+  waila: {
+    // ブロックの表示
+    // 標準値: [true]
+    show_blocks: true,
+    // 流体の表示
+    // 流体の表示を試みる
+    // 標準値: [false]
+    show_fluids: false,
+    // エンティティの表示
+    // 標準値: [true]
+    show_entities: true,
+    // アイコンを表示
+    // 標準値: [true]
+    show_icon: true,
+    // アイコン一
+    // 標準値: [MIDDLE]
+    // 利用可能な値: [TOP, MIDDLE, BOTTOM]
+    icon_position: "MIDDLE",
+    // MOD名の表示
+    // 標準値: [true]
+    show_mod_name: true,
+    // アイテムのMOD名を表示
+    // 標準値: [true]
+    show_item_mod_name: true,
+    // レジストリ名の表示
+    // 標準値: [false]
+    show_registry: false
+  },
+  minecraft: {
+    // ブロックの向きを表示
+    // 標準値: [false]
+    "block.position": false,
+    // ブロックの状態を表示
+    // 標準値: [false]
+    "block.state": false,
+    // アイテムのエンティティの表示
+    // この値はサーバーからの値と統合されます。
+    // 標準値: [true]
+    "entity.item_entity": true,
+    // エンティティの一を表示
+    // 標準値: [false]
+    "entity.position": false,
+    // HPを表示
+    // この値はサーバーからの値と統合されます。
+    // 標準値: [true]
+    "entity.health": true,
+    // 吸収したHPを表示
+    // サーバーにWTHITがインストールされている必要があります。インストールされていない場合、[false]に固定されます。
+    // 標準値: [true]
+    "entity.absorption": true,
+    // アーマーポイントを表示
+    // この値はサーバーからの値と統合されます。
+    // 標準値: [true]
+    "entity.armor": true,
+    // コンパクトモード
+    // HPとアーマーポイントをアイコンの代わりに1行の数字として表示。
+    // 標準値: [false]
+    "entity.compact": false,
+    // ラインごとの最大アイコン数
+    // 新しい行を開始する前のHPとアーマーのアイコンの最大数
+    // 標準値: [25]
+    "entity.icon_per_line": 25,
+    // 最大描画HP
+    // 分数表示に切り替わる前にアイコンが描画するヘルスポイントの最大値
+    // 標準値: [100]
+    "entity.long_health_max": 100,
+    // 最大描画アーマーポイント
+    // 数値表示に切り替わる前にアイコンが描画するアーマーポイントの最大値
+    // 標準値: [100]
+    "entity.long_armor_max": 100,
+    // 飼い主の表示
+    // 登録したMinecraftアカウントだけに使用可能
+    // サーバーにWTHITがインストールされている必要があります。インストールされていない場合、[false]に固定されます。
+    // 標準値: [true]
+    "pet.owner": true,
+    // 不明な飼主を表示しない
+    // 標準値: [false]
+    "pet.hide_unknown_owner": false,
+    // ウマのジャンプ高さを表示する
+    // この値はサーバーからの値と統合されます。
+    // 標準値: [true]
+    "horse.jump_height": true,
+    // ウマの速度を表示する
+    // この値はサーバーからの値と統合されます。
+    // 標準値: [true]
+    "horse.speed": true,
+    // パンダの遺伝子を表示する
+    // この値はサーバーからの値と統合されます。
+    // 標準値: [true]
+    "panda.genes": true,
+    // ミツバチの巣の場所を示す
+    // サーバーにWTHITがインストールされている必要があります。インストールされていない場合、[false]に固定されます。
+    // 標準値: [true]
+    "bee.hive_pos": true,
+    // ミツバチの巣の段階を示す
+    // この値はサーバーからの値と統合されます。
+    // 標準値: [true]
+    "bee.hive_honey_level": true,
+    // 蜂の巣の中のミツバチの数を表示
+    // サーバーにWTHITがインストールされている必要があります。インストールされていない場合、[false]に固定されます。
+    // 標準値: [true]
+    "bee.hive_occupants": true,
+    // ビーコンの効果を表示する
+    // サーバーにWTHITがインストールされている必要があります。インストールされていない場合、[false]に固定されます。
+    // 標準値: [true]
+    "effect.beacon": true,
+    // モブの効果を表示する
+    // サーバーにWTHITがインストールされている必要があります。インストールされていない場合、[false]に固定されます。
+    // 標準値: [true]
+    "effect.mob": true,
+    // 隠れているモブの効果を表示する
+    // サーバーにWTHITがインストールされている必要があります。インストールされていない場合、[false]に固定されます。
+    // 標準値: [false]
+    "effect.hidden_mob": false,
+    // レコードの再生を表示
+    // サーバーにWTHITがインストールされている必要があります。インストールされていない場合、[false]に固定されます。
+    // 標準値: [true]
+    "jukebox.record": true,
+    // 成長タイマーを表示
+    // サーバーにWTHITがインストールされている必要があります。インストールされていない場合、[false]に固定されます。
+    // 標準値: [true]
+    "timer.grow": true,
+    // 繁殖クールダウンを表示
+    // サーバーにWTHITがインストールされている必要があります。インストールされていない場合、[false]に固定されます。
+    // 標準値: [true]
+    "timer.breed": true,
+    // 不可視のエンティティを表示しない
+    // この値はサーバーからの値と統合されます。
+    // 標準値: [true]
+    "override.invisible_entity": true,
+    // トラップチェストを普通のチェストとして表示
+    // この値はサーバーからの値と統合されます。
+    // 標準値: [true]
+    "override.trapped_chest": true,
+    // 粉雪を普通の雪として表示
+    // この値はサーバーからの値と統合されます。
+    // 標準値: [true]
+    "override.powder_snow": true,
+    // 虫食い石を普通の石として表示
+    // この値はサーバーからの値と統合されます。
+    // 標準値: [true]
+    "override.infested": true,
+    // 騎乗時に表示しない
+    // トロッコ、馬、その他の騎乗可能なエンティティにプレイヤーが騎乗した際に隠す
+    // 標準値: [true]
+    "override.vehicle": true,
+    // 破壊進捗を表示する
+    // この値はサーバーからの値と統合されます。
+    // 標準値: [true]
+    "breaking_progress.enabled": true,
+    // 破壊進捗の色
+    // 標準値: [-1426063361]
+    "breaking_progress.color": -1426063361,
+    // 中央のみ
+    // 標準値: [false]
+    "breaking_progress.bottom_only": false,
+    // スポナー種類の表示
+    // この値はサーバーからの値と統合されます。
+    // 標準値: [true]
+    "spawner.type": true,
+    // 植物の成長の表示
+    // この値はサーバーからの値と統合されます。
+    // 標準値: [true]
+    "plant.crop_progress": true,
+    // 植物が成長可能かを表示
+    // この値はサーバーからの値と統合されます。
+    // 標準値: [true]
+    "plant.crop_growable": true,
+    // 苗木が成長可能かを表示
+    // この値はサーバーからの値と統合されます。
+    // 標準値: [true]
+    "plant.tree_growable": true,
+    // レバーの状態を表示
+    // この値はサーバーからの値と統合されます。
+    // 標準値: [true]
+    "redstone.lever": true,
+    // リピーター遅延の表示
+    // この値はサーバーからの値と統合されます。
+    // 標準値: [true]
+    "redstone.repeater": true,
+    // コンパレーターモードの表示
+    // この値はサーバーからの値と統合されます。
+    // 標準値: [true]
+    "redstone.comparator": true,
+    // 動力レベルの表示
+    // この値はサーバーからの値と統合されます。
+    // 標準値: [true]
+    "redstone.level": true,
+    // 堆肥レベルの表示
+    // この値はサーバーからの値と統合されます。
+    // 標準値: [true]
+    "level.composter": true,
+    // 楽器と音符の表示
+    // この値はサーバーからの値と統合されます。
+    // 標準値: [true]
+    "note_block.type": true,
+    // 音符の表示モード
+    // 標準値: [SHARP]
+    // 利用可能な値: [SHARP, FLAT]
+    "note_block.note": "SHARP",
+    // 整数値の表示
+    // 標準値: [false]
+    "note_block.int_value": false,
+    // 模様入りの本棚の本を表示する
+    // サーバーにWTHITがインストールされている必要があります。インストールされていない場合、[false]に固定されます。
+    // 標準値: [true]
+    "book.bookshelf": true,
+    // Show Lectern Books
+    // サーバーにWTHITがインストールされている必要があります。インストールされていない場合、[false]に固定されます。
+    // 標準値: [true]
+    "book.lectern": true,
+    // エンチャント表示モード
+    // 標準値: [CYCLE]
+    // 利用可能な値: [SEPARATE, COMBINED, CYCLE, DISABLED]
+    "book.enchantment": "CYCLE",
+    // エンチャントサイクル表示のタイミング(ミリ秒)
+    // 標準値: [500]
+    "book.enchantment_cycle_timing": 500,
+    // Show Book Details
+    // 標準値: [true]
+    "book.details": true
+  },
+  harvest: {
+    // 収穫可能性の表示
+    // この値はサーバーからの値と統合されます。
+    // 標準値: [true]
+    enabled: true,
+    // 表示モード
+    // 標準値: [MODERN]
+    // 利用可能な値: [MODERN, CLASSIC, CLASSIC_MINIMAL]
+    display_mode: "MODERN",
+    // クリエイティブモードで表示する
+    // 標準値: [false]
+    creative: false
+  },
+  mekanism: {
+    // config.waila.plugin_mekanism.energy
+    // 標準値: [true]
+    energy: true,
+    // config.waila.plugin_mekanism.fluid
+    // 標準値: [true]
+    fluid: true,
+    // config.waila.plugin_mekanism.gas
+    // 標準値: [true]
+    gas: true,
+    // config.waila.plugin_mekanism.infuse_type
+    // 標準値: [true]
+    infuse_type: true,
+    // config.waila.plugin_mekanism.pigment
+    // 標準値: [true]
+    pigment: true,
+    // config.waila.plugin_mekanism.slurry
+    // 標準値: [true]
+    slurry: true
+  },
+  wailax: {
+    // ブロックのエネルギー
+    // サーバーにWTHITがインストールされている必要があります。インストールされていない場合、[false]に固定されます。
+    // 標準値: [true]
+    "energy.enabled_block": true,
+    // エンティティのエネルギー
+    // サーバーにWTHITがインストールされている必要があります。インストールされていない場合、[false]に固定されます。
+    // 標準値: [true]
+    "energy.enabled_entity": true,
+    // エネルギーブラックリスト
+    // カスタムコンフィグで、以下のファイルを開きます
+    // extra\energy_blacklist.json5
+    "energy.blacklist": null,
+    // ブロック内の流体を表示する
+    // サーバーにWTHITがインストールされている必要があります。インストールされていない場合、[false]に固定されます。
+    // 標準値: [true]
+    "fluid.enabled_block": true,
+    // エンティティ内の流体を表示する
+    // サーバーにWTHITがインストールされている必要があります。インストールされていない場合、[false]に固定されます。
+    // 標準値: [true]
+    "fluid.enabled_entity": true,
+    // 表示単位
+    // 標準値: [MILLIBUCKETS]
+    // 利用可能な値: [MILLIBUCKETS, DROPLETS]
+    "fluid.display_unit": "MILLIBUCKETS",
+    // 流体表示ブラックリスト
+    // カスタムコンフィグで、以下のファイルを開きます
+    // extra\fluid_blacklist.json5
+    "fluid.blacklist": null,
+    // ブロック内のアイテムを表示
+    // サーバーにWTHITがインストールされている必要があります。インストールされていない場合、[false]に固定されます。
+    // 標準値: [true]
+    "item.enabled_block": true,
+    // エンティティ内のアイテムを表示
+    // サーバーにWTHITがインストールされている必要があります。インストールされていない場合、[false]に固定されます。
+    // 標準値: [true]
+    "item.enabled_entity": true,
+    // NBTデータを同期
+    // サーバーにWTHITがインストールされている必要があります。インストールされていない場合、[false]に固定されます。
+    // 標準値: [true]
+    "item.nbt": true,
+    // 表示モード
+    // グリッド: インベントリーのようにグリッドで表示する
+    // リスト:インラインの縦書きリストとして表示
+    // 動的: 最大高さを超えるとリストからグリッドに切り替わる
+    // 標準値: [DYNAMIC]
+    // 利用可能な値: [GRID, LIST, DYNAMIC]
+    "item.display_mode": "DYNAMIC",
+    // 最大高さ
+    // 標準値: [3]
+    "item.max_height": 3,
+    // 個数でソートする
+    // 標準値: [true]
+    "item.sort_by_count": true,
+    // Grid Mode Scale
+    // 標準値: [1.0]
+    "item.grid_mode_scale": 1.0,
+    // アイテム表示ブラックリスト
+    // カスタムコンフィグで、以下のファイルを開きます
+    // extra\item_blacklist.json5
+    "item.blacklist": null,
+    // ブロックの作業進捗を表示
+    // サーバーにWTHITがインストールされている必要があります。インストールされていない場合、[false]に固定されます。
+    // 標準値: [true]
+    "progress.enabled_block": true,
+    // エンティティの作業進捗を表示
+    // サーバーにWTHITがインストールされている必要があります。インストールされていない場合、[false]に固定されます。
+    // 標準値: [true]
+    "progress.enabled_entity": true,
+    // Show Estimated Time
+    // サーバーにWTHITがインストールされている必要があります。インストールされていない場合、[false]に固定されます。
+    // 標準値: [true]
+    "progress.time": true,
+    // Replace Item Tooltip
+    // If enabled, replace item tooltip when the recipe has item input and/or output. If not enabled or no item input and output, only shows a progress bar.
+    // 標準値: [false]
+    "progress.replace_items": false,
+    // Progress Bar Height
+    // Only for when it shown as a bar and not an arrow
+    // 標準値: [1]
+    "progress.height": 1,
+    // 作業進捗ブラックリスト
+    // カスタムコンフィグで、以下のファイルを開きます
+    // extra\progress_blacklist.json5
+    "progress.blacklist": null
+  }
+}
