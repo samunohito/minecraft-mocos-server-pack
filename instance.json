@@ -56028,13 +56028,2472 @@
             "forge"
           ]
         }
+      },
+      {
+        "name": "Chunk Sending[Forge/Fabric]",
+        "version": "chunksending-1.20.1-2.8.jar",
+        "optional": true,
+        "file": "chunksending-1.20.1-2.8.jar",
+        "type": "mods",
+        "description": "Optimizes chunk packet delivery",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 831663,
+        "curseForgeFileId": 4894789,
+        "curseForgeProject": {
+          "id": 831663,
+          "name": "Chunk Sending[Forge/Fabric]",
+          "authors": [
+            {
+              "id": 100114338,
+              "name": "someaddon",
+              "url": "https://www.curseforge.com/members/someaddon"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Optimizes chunk packet delivery",
+          "categories": [
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 435,
+          "classId": 6,
+          "slug": "chunk-sending-forge-fabric",
+          "isFeatured": false,
+          "dateModified": "2024-08-17T21:58:06.577Z",
+          "dateCreated": "2023-02-26T10:02:56.087Z",
+          "dateReleased": "2024-07-17T17:23:20.913Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/chunk-sending-forge-fabric",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/someaddons/chunksending/issues",
+            "sourceUrl": "https://github.com/someaddons/chunksending"
+          },
+          "logo": {
+            "id": 782744,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/782/744/256/256/638130016628532924.png",
+            "title": "638130016628532924.png",
+            "url": "https://media.forgecdn.net/avatars/782/744/638130016628532924.png",
+            "modId": 831663
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5540775
+        },
+        "curseForgeFile": {
+          "id": 4894789,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "chunksending-1.20.1-2.8.jar",
+          "fileName": "chunksending-1.20.1-2.8.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-11-23T20:23:20.963Z",
+          "fileLength": 11734,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 326652,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1275391362,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 4288801447,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3412049133,
+              "name": "chunksending.mixins.json"
+            },
+            {
+              "fingerprint": 3174262377,
+              "name": "chunksending.refmap.json"
+            },
+            {
+              "fingerprint": 551994492,
+              "name": "com"
+            },
+            {
+              "fingerprint": 1438559181,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "befdcf1c0177c8dd97d68ebb3c5c5581065caefe",
+              "algo": 1
+            },
+            {
+              "value": "550fcf675d0039e7da8336e001db3732",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "NeoForge",
+            "1.20.1",
+            "Forge",
+            "1.20",
+            "Server"
+          ],
+          "fileFingerprint": 2023370360,
+          "modId": 831663
+        }
+      },
+      {
+        "name": "Better chunk loading[Forge/Fabric]",
+        "version": "betterchunkloading-1.20.1-5.4.jar",
+        "optional": true,
+        "file": "betterchunkloading-1.20.1-5.4.jar",
+        "type": "mods",
+        "description": "Predicts player movement to pre-load chunks and increases chunk load speed",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 899487,
+        "curseForgeFileId": 6210180,
+        "curseForgeProject": {
+          "id": 899487,
+          "name": "Better chunk loading[Forge/Fabric]",
+          "authors": [
+            {
+              "id": 100114338,
+              "name": "someaddon",
+              "url": "https://www.curseforge.com/members/someaddon"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Predicts player movement to pre-load chunks and increases chunk load speed",
+          "categories": [
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Biomes",
+              "slug": "world-biomes",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-biomes",
+              "dateModified": "2014-05-08T17:34:59.587Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 407,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/22/635351492995856506.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 407,
+          "classId": 6,
+          "slug": "better-chunk-loading-forge-fabric",
+          "isFeatured": false,
+          "dateModified": "2025-04-07T21:28:58.307Z",
+          "dateCreated": "2023-08-06T13:55:44.17Z",
+          "dateReleased": "2025-04-07T21:16:48.5Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/better-chunk-loading-forge-fabric",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/someaddons/betterchunkloading/issues",
+            "sourceUrl": "https://github.com/someaddons/betterchunkloading"
+          },
+          "logo": {
+            "id": 861519,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/861/519/256/256/638269254479355298.png",
+            "title": "638269254479355298.png",
+            "url": "https://media.forgecdn.net/avatars/861/519/638269254479355298.png",
+            "modId": 899487
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 6396754
+        },
+        "curseForgeFile": {
+          "id": 6210180,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "betterchunkloading-1.20.1-5.4.jar",
+          "fileName": "betterchunkloading-1.20.1-5.4.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-02-19T17:03:30.233Z",
+          "fileLength": 55968,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 326652,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 756530149,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 264956973,
+              "name": "betterchunkloading.mixins.json"
+            },
+            {
+              "fingerprint": 395729233,
+              "name": "betterchunkloading.refmap.json"
+            },
+            {
+              "fingerprint": 2961607088,
+              "name": "com"
+            },
+            {
+              "fingerprint": 46899950,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "cd7e61a4f5eca956094e0844560382ca58d79bc6",
+              "algo": 1
+            },
+            {
+              "value": "0ec0d97c0f52b5b13762b293189487af",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "NeoForge",
+            "1.20.1",
+            "Forge",
+            "Server"
+          ],
+          "fileFingerprint": 1208386908,
+          "modId": 899487
+        }
+      },
+      {
+        "name": "Connectivity",
+        "version": "connectivity-1.20.1-7.6.jar",
+        "optional": true,
+        "file": "connectivity-1.20.1-7.6.jar",
+        "type": "mods",
+        "description": "Fix Login timeouts, Packet sizes errors, Payloads errors, ghostblocks and more.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 470193,
+        "curseForgeFileId": 7366161,
+        "curseForgeProject": {
+          "id": 470193,
+          "name": "Connectivity",
+          "authors": [
+            {
+              "id": 100114338,
+              "name": "someaddon",
+              "url": "https://www.curseforge.com/members/someaddon"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Fix Login timeouts, Packet sizes errors, Payloads errors, ghostblocks and more.",
+          "categories": [
+            {
+              "name": "Player Transport",
+              "slug": "technology-player-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-player-transport",
+              "dateModified": "2014-05-08T17:38:58.357Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 414,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/29/635351495383551178.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 435,
+          "classId": 6,
+          "slug": "connectivity",
+          "isFeatured": false,
+          "dateModified": "2025-12-22T22:55:27.117Z",
+          "dateCreated": "2021-04-12T11:56:50.167Z",
+          "dateReleased": "2025-12-22T22:49:55.063Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/connectivity",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/someaddons/connectivity/issues",
+            "sourceUrl": "https://github.com/someaddons/connectivity"
+          },
+          "logo": {
+            "id": 532325,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/532/325/256/256/637855720922086407.png",
+            "title": "637855720922086407.png",
+            "url": "https://media.forgecdn.net/avatars/532/325/637855720922086407.png",
+            "modId": 470193
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 7367276
+        },
+        "curseForgeFile": {
+          "id": 7366161,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "connectivity-1.20.1-7.6.jar",
+          "fileName": "connectivity-1.20.1-7.6.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-12-22T17:42:29.463Z",
+          "fileLength": 120598,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 326652,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3894697262,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2527225655,
+              "name": "com"
+            },
+            {
+              "fingerprint": 2325399218,
+              "name": "connectivity.mixins.json"
+            },
+            {
+              "fingerprint": 492666712,
+              "name": "connectivity.refmap.json"
+            },
+            {
+              "fingerprint": 2098059805,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "ae69a0712c73411a2d804eec7abce271529e273d",
+              "algo": 1
+            },
+            {
+              "value": "59797700faa0a7b32e0db84b333805a3",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "1.20.1",
+            "Forge",
+            "NeoForge",
+            "Server"
+          ],
+          "fileFingerprint": 2626029621,
+          "modId": 470193
+        }
+      },
+      {
+        "name": "Structure Essentials[Forge/Fabric]",
+        "version": "structureessentials-1.20.1-4.8.jar",
+        "optional": true,
+        "file": "structureessentials-1.20.1-4.8.jar",
+        "type": "mods",
+        "description": "Essential features for structures: Faster locating, distance adjustments, nearby structure command, automatic structure biome compat,  structure overlap prevention, random source crash prevention, debug logging and more",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 832882,
+        "curseForgeFileId": 6732854,
+        "curseForgeProject": {
+          "id": 832882,
+          "name": "Structure Essentials[Forge/Fabric]",
+          "authors": [
+            {
+              "id": 100114338,
+              "name": "someaddon",
+              "url": "https://www.curseforge.com/members/someaddon"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Essential features for structures: Faster locating, distance adjustments, nearby structure command, automatic structure biome compat,  structure overlap prevention, random source crash prevention, debug logging and more",
+          "categories": [
+            {
+              "name": "Structures",
+              "slug": "world-structures",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
+              "dateModified": "2014-05-08T17:37:17.173Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 409,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 409,
+          "classId": 6,
+          "slug": "structure-essentials-forge-fabric",
+          "isFeatured": false,
+          "dateModified": "2025-07-05T11:23:46.27Z",
+          "dateCreated": "2023-03-02T10:28:40.1Z",
+          "dateReleased": "2025-07-05T11:15:59.83Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/someaddons/structureessentials/issues",
+            "sourceUrl": "https://github.com/someaddons/structureessentials"
+          },
+          "logo": {
+            "id": 784172,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/784/172/256/256/638132898813460745.png",
+            "title": "638132898813460745.png",
+            "url": "https://media.forgecdn.net/avatars/784/172/638132898813460745.png",
+            "modId": 832882
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 6732857
+        },
+        "curseForgeFile": {
+          "id": 6732854,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "structureessentials-1.20.1-4.8.jar",
+          "fileName": "structureessentials-1.20.1-4.8.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-07-05T11:14:23.323Z",
+          "fileLength": 63134,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 326652,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1766128561,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 4288801447,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 455490894,
+              "name": "com"
+            },
+            {
+              "fingerprint": 1438559181,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 1651206635,
+              "name": "structureessentials.mixins.json"
+            },
+            {
+              "fingerprint": 1269555882,
+              "name": "structureessentials.refmap.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "1f94d509a6c25fa85b748d3cc3015bbbb977a948",
+              "algo": 1
+            },
+            {
+              "value": "6406a36779802a9de3c993a09b9e9126",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "NeoForge",
+            "1.20.1",
+            "Forge",
+            "Server"
+          ],
+          "fileFingerprint": 4108207651,
+          "modId": 832882
+        }
+      },
+      {
+        "name": "Recipe Essentials[Forge/Fabric]",
+        "version": "recipeessentials-1.20.1-4.0.jar",
+        "optional": true,
+        "file": "recipeessentials-1.20.1-4.0.jar",
+        "type": "mods",
+        "description": "Essential fixes and improvements around recipes and crafting",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 907856,
+        "curseForgeFileId": 6165709,
+        "curseForgeProject": {
+          "id": 907856,
+          "name": "Recipe Essentials[Forge/Fabric]",
+          "authors": [
+            {
+              "id": 100114338,
+              "name": "someaddon",
+              "url": "https://www.curseforge.com/members/someaddon"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Essential fixes and improvements around recipes and crafting",
+          "categories": [
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Automation",
+              "slug": "technology-automation",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-automation",
+              "dateModified": "2021-03-08T14:46:13.24Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 4843,
+              "iconUrl": "https://media.forgecdn.net/avatars/352/517/637508115731820565.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 5191,
+          "classId": 6,
+          "slug": "recipe-essentials-forge-fabric",
+          "isFeatured": false,
+          "dateModified": "2025-03-19T11:34:48.477Z",
+          "dateCreated": "2023-08-29T11:50:53.377Z",
+          "dateReleased": "2025-02-17T09:53:17.23Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/recipe-essentials-forge-fabric",
+            "issuesUrl": "https://github.com/someaddons/recipeessentials/issues/new/choose",
+            "sourceUrl": "https://github.com/someaddons/recipeessentials"
+          },
+          "logo": {
+            "id": 871402,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/871/402/256/256/638289037640254884.png",
+            "title": "638289037640254884.png",
+            "url": "https://media.forgecdn.net/avatars/871/402/638289037640254884.png",
+            "modId": 907856
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 6202572
+        },
+        "curseForgeFile": {
+          "id": 6165709,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "recipeessentials-1.20.1-4.0.jar",
+          "fileName": "recipeessentials-1.20.1-4.0.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-02-06T22:39:36.93Z",
+          "fileLength": 50739,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3057698387,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1932221964,
+              "name": "com"
+            },
+            {
+              "fingerprint": 1722552194,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3869475924,
+              "name": "recipeessentials.mixins.json"
+            },
+            {
+              "fingerprint": 1774027189,
+              "name": "recipeessentials.refmap.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "6e50995efefdef6f77f0289200a17ae4c18cde75",
+              "algo": 1
+            },
+            {
+              "value": "570607c1e36e86f2180fdfb960b50dff",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "NeoForge",
+            "1.20.1",
+            "Forge",
+            "Server"
+          ],
+          "fileFingerprint": 3293360904,
+          "modId": 907856
+        }
+      },
+      {
+        "name": "Almanac Lib",
+        "version": "almanac-1.20.x-forge-1.0.2.jar",
+        "optional": true,
+        "file": "almanac-1.20.x-forge-1.0.2.jar",
+        "type": "mods",
+        "description": "A loader independent library containing shared code reused between mods and a fix for empty nbt issues.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 1115285,
+        "curseForgeFileId": 5803518,
+        "curseForgeProject": {
+          "id": 1115285,
+          "name": "Almanac Lib",
+          "authors": [
+            {
+              "id": 102063023,
+              "name": "frikinjay",
+              "url": "https://www.curseforge.com/members/frikinjay"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A loader independent library containing shared code reused between mods and a fix for empty nbt issues.",
+          "categories": [
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "almanac-lib",
+          "isFeatured": false,
+          "dateModified": "2026-01-20T14:18:05.037Z",
+          "dateCreated": "2024-10-05T08:25:07.24Z",
+          "dateReleased": "2026-01-20T14:14:14.797Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/almanac-lib",
+            "issuesUrl": "https://discord.gg/aPPEPJWG39"
+          },
+          "logo": {
+            "id": 1092511,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1092/511/256/256/638636927832908640.png",
+            "title": "638636927832908640.png",
+            "url": "https://media.forgecdn.net/avatars/1092/511/638636927832908640.png",
+            "modId": 1115285
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 7494295
+        },
+        "curseForgeFile": {
+          "id": 5803518,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "almanac-1.20.x-forge-1.0.2.jar",
+          "fileName": "almanac-1.20.x-forge-1.0.2.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-10-11T18:08:14.653Z",
+          "fileLength": 15906,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2514791754,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 349348865,
+              "name": "almanac-1.20.x-common-common-refmap.json"
+            },
+            {
+              "fingerprint": 2225455917,
+              "name": "almanac.mixins.json"
+            },
+            {
+              "fingerprint": 3639282379,
+              "name": "almanac.png"
+            },
+            {
+              "fingerprint": 4106217406,
+              "name": "architectury_inject_almanac_common_9aa53337a8804a38b7219393c559f02b_92c2bbfae5ff1b0345adac80c5054b2db5cba8e1f0e824c30c42a85a0a34bcc4almanac120xcommon102devjar"
+            },
+            {
+              "fingerprint": 3310835877,
+              "name": "com"
+            },
+            {
+              "fingerprint": 2904875543,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "f0b711df59cd589b088e536ca4134c5e6e73fd58",
+              "algo": 1
+            },
+            {
+              "value": "20f9b054f4caceebda02847c149901af",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000002",
+              "gameVersion": "1.20.2",
+              "gameVersionReleaseDate": "2023-09-21T15:25:15.053Z",
+              "gameVersionName": "1.20.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000003",
+              "gameVersion": "1.20.3",
+              "gameVersionReleaseDate": "2023-12-05T17:24:10.113Z",
+              "gameVersionName": "1.20.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000004",
+              "gameVersion": "1.20.4",
+              "gameVersionReleaseDate": "2023-12-07T15:17:47.907Z",
+              "gameVersionName": "1.20.4"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "1.20.2",
+            "1.20.3",
+            "1.20.1",
+            "Forge",
+            "1.20.4",
+            "Server"
+          ],
+          "fileFingerprint": 409215932,
+          "modId": 1115285
+        },
+        "modrinthProject": {
+          "id": "Gi02250Z",
+          "slug": "almanac",
+          "project_type": "mod",
+          "team": "BGnWjc2l",
+          "title": "Almanac",
+          "description": "Almanac is a library used by my mods with mostly loader independent shared code between multiple mods to avoid duplication of code.",
+          "body": "Almanac is a library used by my mods with mostly loader independent shared code between multiple mods to avoid duplication of code.\n\nAlmanac by itself does not add much other than a fix to empty tags leading to non stackable items.\n\n<a href=\"https://discord.gg/aPPEPJWG39\">\n<img src=\"https://i.ibb.co/GFT3JFP/req-discord-130x130.png\" alt=\"Discord Server Invite Link\">\n</a>",
+          "published": "2024-10-06T07:52:53.443841Z",
+          "updated": "2026-01-20T14:17:07.113609Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "unsupported",
+          "server_side": "required",
+          "categories": [
+            "library",
+            "utility"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge",
+            "quilt"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/Gi02250Z/f0bb3148fcb735bb989ef5723d199114e1f24542.png",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "DnzrwvfD",
+          "project_id": "Gi02250Z",
+          "author_id": "nkUT94hf",
+          "name": "Almanac 1.0.2",
+          "version_number": "1.0.2",
+          "changelog": "- update for 1.20.x",
+          "date_published": "2024-10-11T18:13:58.947870Z",
+          "version_type": "beta",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "f0b711df59cd589b088e536ca4134c5e6e73fd58",
+                "sha512": "58c4dea50fcb17593e2c97a23ce101c62b5b32e2fd71d4bbf323f2778d4474c991caba7234ecf4d06f1e246ccb9ad7f67f2fa73f023cd80ef55333e2ed952f43"
+              },
+              "url": "https://cdn.modrinth.com/data/Gi02250Z/versions/DnzrwvfD/almanac-1.20.x-forge-1.0.2.jar",
+              "filename": "almanac-1.20.x-forge-1.0.2.jar",
+              "primary": true,
+              "size": 15906
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20.1",
+            "1.20.2",
+            "1.20.3",
+            "1.20.4"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
+      },
+      {
+        "name": "Let Me Despawn",
+        "version": "letmedespawn-1.20.x-forge-1.5.0.jar",
+        "optional": true,
+        "file": "letmedespawn-1.20.x-forge-1.5.0.jar",
+        "type": "mods",
+        "description": "Improves performance by tweaking mob despawn rules.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 663477,
+        "curseForgeFileId": 6311230,
+        "curseForgeProject": {
+          "id": 663477,
+          "name": "Let Me Despawn",
+          "authors": [
+            {
+              "id": 102063023,
+              "name": "frikinjay",
+              "url": "https://www.curseforge.com/members/frikinjay"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Improves performance by tweaking mob despawn rules.",
+          "categories": [
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Performance",
+              "slug": "performance",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/performance",
+              "dateModified": "2024-01-16T06:56:01.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 6814,
+              "iconUrl": "https://media.forgecdn.net/avatars/933/987/638409849610531091.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 6814,
+          "classId": 6,
+          "slug": "let-me-despawn",
+          "isFeatured": false,
+          "dateModified": "2026-01-20T15:05:03.093Z",
+          "dateCreated": "2022-08-22T09:18:13.14Z",
+          "dateReleased": "2026-01-20T15:02:18.92Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/let-me-despawn",
+            "wikiUrl": "",
+            "sourceUrl": "https://github.com/frikinjay/let-me-despawn"
+          },
+          "logo": {
+            "id": 594180,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/594/180/256/256/637967642391557499.png",
+            "title": "637967642391557499.png",
+            "url": "https://media.forgecdn.net/avatars/594/180/637967642391557499.png",
+            "modId": 663477
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 7494513
+        },
+        "curseForgeFile": {
+          "id": 6311230,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "letmedespawn-1.20.x-forge-1.5.0.jar",
+          "fileName": "letmedespawn-1.20.x-forge-1.5.0.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-03-16T11:34:03.527Z",
+          "fileLength": 14789,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 1115285,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 321000997,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 4186680271,
+              "name": "architectury.common.json"
+            },
+            {
+              "fingerprint": 2536523654,
+              "name": "architectury_inject_letmedespawn_common_93d346b243064c9cbd0118c8d4ffa042_a8bfeef2742ab49d3bf02d2f205100cdc542cea05dfd4dee1336daf0e113eeb8letmedespawn120xcommon150devjar"
+            },
+            {
+              "fingerprint": 2374095913,
+              "name": "com"
+            },
+            {
+              "fingerprint": 1001919781,
+              "name": "letmedespawn-1.20.x-common-common-refmap.json"
+            },
+            {
+              "fingerprint": 3513247846,
+              "name": "letmedespawn.accesswidener"
+            },
+            {
+              "fingerprint": 1861620674,
+              "name": "letmedespawn.mixins.json"
+            },
+            {
+              "fingerprint": 665519839,
+              "name": "lmd.png"
+            },
+            {
+              "fingerprint": 1694917127,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "878dd35df02e1e17b7eb16113147f964eda8847f",
+              "algo": 1
+            },
+            {
+              "value": "0ff799ece663ddafab61ad32704fc51c",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000002",
+              "gameVersion": "1.20.2",
+              "gameVersionReleaseDate": "2023-09-21T15:25:15.053Z",
+              "gameVersionName": "1.20.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000002",
+              "gameVersion": "1.20.2",
+              "gameVersionReleaseDate": "2023-08-06T00:00:00Z",
+              "gameVersionName": "1.20.2-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000003",
+              "gameVersion": "1.20.3",
+              "gameVersionReleaseDate": "2023-10-05T00:00:00Z",
+              "gameVersionName": "1.20.3-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000003",
+              "gameVersion": "1.20.3",
+              "gameVersionReleaseDate": "2023-12-05T17:24:10.113Z",
+              "gameVersionName": "1.20.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000004",
+              "gameVersion": "1.20.4",
+              "gameVersionReleaseDate": "2023-12-07T15:17:47.907Z",
+              "gameVersionName": "1.20.4"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "1.20.2",
+            "1.20.2-Snapshot",
+            "1.20.3-Snapshot",
+            "1.20.3",
+            "1.20.1",
+            "Forge",
+            "1.20.4",
+            "Server"
+          ],
+          "fileFingerprint": 3850440114,
+          "modId": 663477
+        },
+        "modrinthProject": {
+          "id": "vE2FN5qn",
+          "slug": "lmd",
+          "project_type": "mod",
+          "team": "1Vzc5PLn",
+          "title": "Let Me Despawn",
+          "description": "Improves performance by tweaking mob despawn rules. Say bye to pesky unintentional persistent mobs.",
+          "body": "<center><img src=\"https://media1.tenor.com/images/1a283f70cc1b64b97658c7cf6c16b6cb/tenor.gif?itemid=26530918\"></center>\n<br>\n<center>\n<a href=\"https://modrinth.com/mod/almanac\">\n<img src=\"https://i.ibb.co/M5VsfwPQ/req-al-mr-335x130.png\" alt=\"Requires Almanac\">\n</a>\n<a href=\"https://discord.gg/aPPEPJWG39\">\n<img src=\"https://i.ibb.co/GFT3JFP/req-discord-130x130.png\" alt=\"Discord Server Invite Link\">\n</a>\n<hr>\n<h3>LET ME DESPAWN</h3> \n<hr>\n</center>\n\n**Let Me Despawn** (LMD) is a Minecraft mod designed to address entity lag issues by modifying the despawn mechanics for mobs that have picked up or equipped items.\n\n### Key Features\n\n- Allows mobs with equipped items to despawn naturally\n- Preserves dropped items when mobs despawn\n- Configurable mob exclusion list\n- Server-side functionality (not required on client)\n\n---\n\n## Functionality\n\nIn vanilla Minecraft, mobs that pick up or equip items become persistent and do not despawn naturally. This behavior can significantly contribute to entity lag, especially in modded environments with increased mob variety and spawn rates.\n\nLMD modifies the despawn check to allow these mobs to despawn naturally, like any other mob. To prevent item loss, any picked up or equipped items are dropped when the entity despawns.\n\n> **Note**: Mobs named with a name tag will still be prevented from despawning naturally.\n\n---\n\n## Configuration (Version 1.2.1 and later)\n\n### Config File\n- Location: `config/letmedespawn.json`\n- Reload command: `/almanac reload`\n\n### Commands\n\n| Command | Description |\n|---------|-------------|\n| `/letmedespawn add <mobName>` | Add mobs to the config |\n| `/letmedespawn remove <mobName>` | Remove mobs from the config |\n\nMobs added to the config will retain their vanilla behavior and not despawn after picking up items. All commands update the mob list in real-time, eliminating the need for game restarts or manual reloads.\n\n---\n\n## Installation\n\nThis is a server-side mod and is not required on the client.\n\n---",
+          "published": "2022-08-21T22:24:10.240747Z",
+          "updated": "2026-01-20T15:05:06.753535Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "unsupported",
+          "server_side": "required",
+          "categories": [
+            "optimization"
+          ],
+          "loaders": [
+            "bukkit",
+            "fabric",
+            "forge",
+            "neoforge",
+            "paper",
+            "purpur",
+            "quilt"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/vE2FN5qn/2609f745e46bd92e57a67e1da07319eb2154c6f7.png",
+          "issues_url": "https://github.com/frikinjay/let-me-despawn/issues",
+          "source_url": "https://github.com/frikinjay/let-me-despawn",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/vE2FN5qn/images/c898b895855b6d9f96adfa5f14963c1367bc7463.gif",
+              "raw_url": "https://cdn.modrinth.com/data/vE2FN5qn/images/c898b895855b6d9f96adfa5f14963c1367bc7463.gif",
+              "featured": true,
+              "title": "A zombie finally despawning",
+              "created": "2022-08-22T00:00:04.243531Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "1VmupN41",
+          "project_id": "vE2FN5qn",
+          "author_id": "nkUT94hf",
+          "name": "Let Me Despawn 1.5.0",
+          "version_number": "1.5.0",
+          "changelog": "- added a config option to specify item/s which prevents a mob from despawning if the item/s are equipped in the mob's head slot.",
+          "date_published": "2025-03-16T11:37:47.063456Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "22e5e7a3e4eb1e238ff420108f6fb138e2fc47335a8fbe4cef093cef32d7aaf710de00ba0450bfee570aa2857989b0e9d7abb8600720386e185ffac5670505c1",
+                "sha1": "878dd35df02e1e17b7eb16113147f964eda8847f"
+              },
+              "url": "https://cdn.modrinth.com/data/vE2FN5qn/versions/1VmupN41/letmedespawn-1.20.x-forge-1.5.0.jar",
+              "filename": "letmedespawn-1.20.x-forge-1.5.0.jar",
+              "primary": true,
+              "size": 14789
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "Gi02250Z",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1",
+            "1.20.2",
+            "1.20.3",
+            "1.20.4"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
+      },
+      {
+        "name": "Smooth Boot (Reloaded)",
+        "version": "Smooth Boot (Reloaded) 0.0.4 for MC 1.20.1",
+        "optional": true,
+        "file": "smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
+        "type": "mods",
+        "description": "Tweaks for Minecraft CPU scheduling and unofficial fork of Smooth Boot mod for Minecraft Forge 1.18.2+",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 633412,
+        "curseForgeFileId": 5016280,
+        "curseForgeProject": {
+          "id": 633412,
+          "name": "Smooth Boot (Reloaded)",
+          "authors": [
+            {
+              "id": 101777160,
+              "name": "AbdElAziz333",
+              "url": "https://www.curseforge.com/members/abdelaziz333"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Tweaks for Minecraft CPU scheduling and unofficial fork of Smooth Boot mod for Minecraft Forge 1.18.2+",
+          "categories": [
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 435,
+          "classId": 6,
+          "slug": "smooth-boot-reloaded",
+          "isFeatured": false,
+          "dateModified": "2024-01-08T01:40:58.353Z",
+          "dateCreated": "2022-06-14T08:39:51.787Z",
+          "dateReleased": "2024-01-08T01:30:52.48Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/smooth-boot-reloaded",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/AbdElAziz333/Smooth-Boot-Reloaded/issues",
+            "sourceUrl": "https://github.com/AbdElAziz333/Smooth-Boot-Reloaded"
+          },
+          "logo": {
+            "id": 621778,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/621/778/256/256/638013134878831469.png",
+            "title": "638013134878831469.png",
+            "url": "https://media.forgecdn.net/avatars/621/778/638013134878831469.png",
+            "modId": 633412
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5016280
+        },
+        "curseForgeFile": {
+          "id": 5016280,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Smooth Boot (Reloaded) 0.0.4 for MC 1.20.1",
+          "fileName": "smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-01-08T01:30:52.48Z",
+          "fileLength": 41044,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 665658,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 670986,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 682881,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2115364611,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3881993121,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3149586927,
+              "name": "com"
+            },
+            {
+              "fingerprint": 4257543517,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 24391317,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 2496039448,
+              "name": "smoothboot.mixins.json"
+            },
+            {
+              "fingerprint": 2523810691,
+              "name": "smoothboot.refmap.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "3fd79132dba444bd109b5de4ad75dee06a48e130",
+              "algo": 1
+            },
+            {
+              "value": "c8cd5ae14d99796fd92c95a353e96211",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "1.20.1",
+            "Forge",
+            "Server"
+          ],
+          "fileFingerprint": 2392064616,
+          "modId": 633412
+        },
+        "modrinthProject": {
+          "id": "z53V2L4P",
+          "slug": "smooth-boot-reloaded",
+          "project_type": "mod",
+          "team": "nBB8t1rq",
+          "title": "Smooth Boot (Reloaded)",
+          "description": "Tweaks for Minecraft CPU scheduling and unofficial fork of Smooth Boot mod for Minecraft Forge 1.18.2+",
+          "body": "### Smooth Boot Reloaded for Minecraft Forge 1.18.2+\n\n![Github License](https://img.shields.io/github/license/AbdElAziz333/SmoothBoot-Reloaded)\n![Github Issues](https://img.shields.io/github/issues/AbdElAziz333/SmoothBoot-Reloaded)\n[![This is a Fork](https://img.shields.io/badge/This%20is%20port-Support%20the%20original-orange)](https://github.com/UltimateBoomer/mc-smoothboot)\n\nSmooth Boot (Reloaded) is a optimization mod and unofficial fork of Smooth Boot for Minecraft Forge 1.18.2+, If you have a PC with a older or lower end CPU (ex. CPUs with 8 or less threads), you may have noticed that Minecraft takes up 100% of the CPU when loading into the title screen, causing cursor stutter and makes multitasking painfully difficult. Smooth Boot (Reloaded) solves this problem completely, and loading should be much smoother and potentially faster as well.\n\n### Features\n\nChange amount of threads used for loading\nChange priority of threads used by Minecraft\n\n### How the mod works\n\nMinecraft uses executors to run multithreaded tasks. The problem is that the tasks that are ran during loading are quite heavy on the CPU, so it leads to 100% CPU usage. And, some of the tasks do not necessarily benefit from multithreading. Smooth Boot fixes these problems by change the parameters of the executors, including the number of threads they use and the priority of each thread.\n\nFor more information, please read the [Smooth Boot (Reloaded) wiki](https://github.com/AbdElAziz333/SmoothBoot-Reloaded/wiki).\n\n### Modpack Permissions\n\nSmooth Boot (Reloaded) is a free and open-source project on Modrinth, and as such-- of course you can include it in your modpack!\n\n### Issues and Feature Requests\n\nPlease use the issue tracker linked at the bottom of the page to report bugs, crashes, and if you want to propose new features or otherwise contribute to the mod, i will gladly accept pull requests, as well!\n\nIf you want to support me, use my code **AbdElAziz333** to get 25% off your first month and enjoy playing with your friends!\n\n[![BisectHosting](https://i.imgur.com/ytD8AVA.png)](https://bisecthosting.com/AbdElAziz333)\n\n**Thanks!**",
+          "published": "2022-11-02T05:54:53.998919Z",
+          "updated": "2024-01-08T01:33:07.890390Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "optional",
+          "server_side": "optional",
+          "categories": [
+            "optimization"
+          ],
+          "loaders": [
+            "forge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/z53V2L4P/006b5548281e37fc2dede3c9c10d283c20b51f27_96.webp",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "HkfL3iGO",
+          "project_id": "z53V2L4P",
+          "author_id": "3AXCrCqA",
+          "name": "Smooth Boot (Reloaded) 0.0.4 for MC 1.20.1",
+          "version_number": "mc1.20.1-0.0.4",
+          "changelog": "This update uses a specific amount of main worker threads you can change it in the config, while the old updates uses the number of the available threads, resulting in worse performance.",
+          "date_published": "2024-01-08T01:33:07.890390Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "1cf706491339f3efae0d48d0dd596f27a74fcfa8e94008d7ef55e18be8c6f3c437bb74020e48910e1cc724ad35894bffce94788fe8f765c37048d4cc532ba261",
+                "sha1": "3fd79132dba444bd109b5de4ad75dee06a48e130"
+              },
+              "url": "https://cdn.modrinth.com/data/z53V2L4P/versions/HkfL3iGO/smoothboot%28reloaded%29-mc1.20.1-0.0.4.jar",
+              "filename": "smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
+              "primary": true,
+              "size": 41044
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
+      },
+      {
+        "name": "Saturn",
+        "version": "Saturn 0.1.3 for MC 1.20.1",
+        "optional": true,
+        "file": "saturn-mc1.20.1-0.1.3.jar",
+        "type": "mods",
+        "description": "A performance mod designed to optimize Minecraft's memory usage.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 670986,
+        "curseForgeFileId": 5093785,
+        "curseForgeProject": {
+          "id": 670986,
+          "name": "Saturn",
+          "authors": [
+            {
+              "id": 101777160,
+              "name": "AbdElAziz333",
+              "url": "https://www.curseforge.com/members/abdelaziz333"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A performance mod designed to optimize Minecraft's memory usage.",
+          "categories": [
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "saturn",
+          "isFeatured": false,
+          "dateModified": "2025-01-30T16:00:47.79Z",
+          "dateCreated": "2022-09-11T10:41:49.483Z",
+          "dateReleased": "2025-01-30T15:57:54.08Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/saturn",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/AbdElAziz333/Saturn/issues",
+            "sourceUrl": "https://github.com/AbdElAziz333/Saturn"
+          },
+          "logo": {
+            "id": 930584,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/930/584/256/256/638403456638686065.png",
+            "title": "638403456638686065.png",
+            "url": "https://media.forgecdn.net/avatars/930/584/638403456638686065.png",
+            "modId": 670986
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 6139965
+        },
+        "curseForgeFile": {
+          "id": 5093785,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Saturn 0.1.3 for MC 1.20.1",
+          "fileName": "saturn-mc1.20.1-0.1.3.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-02-09T19:09:28.503Z",
+          "fileLength": 92319,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1851049188,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3873388375,
+              "name": "com"
+            },
+            {
+              "fingerprint": 3843780074,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 2120678827,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 1170738922,
+              "name": "saturn.mixins.json"
+            },
+            {
+              "fingerprint": 4038125691,
+              "name": "saturn.refmap.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "ad93f99d46714c46aaa6a4409aeca506e9fcac99",
+              "algo": 1
+            },
+            {
+              "value": "56a9a1cc126425b04acc5f8bd7ed67f1",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "1.20.1",
+            "Forge",
+            "Server"
+          ],
+          "fileFingerprint": 1313951597,
+          "modId": 670986
+        },
+        "modrinthProject": {
+          "id": "2eT495vq",
+          "slug": "saturn",
+          "project_type": "mod",
+          "team": "kkfGN3VZ",
+          "title": "Saturn",
+          "description": "A performance mod designed to optimize Minecraft's memory usage.",
+          "body": "### Saturn for Minecraft Forge\n**Saturn** is a performance optimization mod designed to optimize Minecraft's memory usage, It can be installed in either client, server or both.\n**Saturn** aims on optimizing memory usage in a lot of ways, such as fixing in-game memory leaks, reducing GC heap and more, if you want to see all the optimizations added by **Saturn**, press [here](https://github.com/AbdElAziz333/Saturn/wiki/Saturn-Optimizations).\n\n### Modpack Permissions\n\nOf Course, You can include it in your modpack.\n\n### Issues and Feature Requests\n\nPlease use the issue tracker linked at the bottom of the page to report bugs, crashes, and if you want to propose new features or otherwise contribute to the mod, i will gladly accept pull requests, as well!\n\nIf you want to support me, use my code **AbdElAziz333** to get 25% off your first month and enjoy playing with your friends!\n\n[![BisectHosting](https://i.imgur.com/ytD8AVA.png)](https://bisecthosting.com/AbdElAziz333)",
+          "published": "2022-11-02T05:46:48.474943Z",
+          "updated": "2025-01-30T17:18:06.747923Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "optional",
+          "server_side": "optional",
+          "categories": [
+            "optimization"
+          ],
+          "loaders": [
+            "forge",
+            "neoforge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/2eT495vq/e031d27b5a54e4a48c014f38407a8cca43f7d6f7_96.webp",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "Yx85DYaG",
+          "project_id": "2eT495vq",
+          "author_id": "3AXCrCqA",
+          "name": "Saturn 0.1.3 for MC 1.20.1",
+          "version_number": "mc1.20.1-0.1.3",
+          "changelog": "- This update adds a new config system, which allows you to enable or disable any optimization through a toml file.\n- You can find the config file in config\\saturn-optimizations.toml.\n\nAdditions\n\n- New: Cache ResourceLocation array creation in advancement usages to improve performance.\n- Change: Upgrade SheepMixin#createSheepColor() method visibility from private to public.",
+          "date_published": "2024-02-09T19:06:56.795182Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "8b4b9a69e7b55df8148e83a6d17ef381b9c412d8730d0068974bd48bbdae1a1a43837a5307471bc5dd2b41d3aa821d73c8683a3f480a9d987b2cf0969aa178cc",
+                "sha1": "ad93f99d46714c46aaa6a4409aeca506e9fcac99"
+              },
+              "url": "https://cdn.modrinth.com/data/2eT495vq/versions/Yx85DYaG/saturn-mc1.20.1-0.1.3.jar",
+              "filename": "saturn-mc1.20.1-0.1.3.jar",
+              "primary": true,
+              "size": 92319
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "I2K4u1Q7",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "qa2H4BS9",
+              "dependency_type": "optional"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
+      },
+      {
+        "name": "Chunky (Forge/NeoForge)",
+        "version": "Chunky 1.3.146",
+        "optional": true,
+        "file": "Chunky-1.3.146.jar",
+        "type": "mods",
+        "description": "Pre-generates chunks, quickly, efficiently, and safely",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 485681,
+        "curseForgeFileId": 5320028,
+        "curseForgeProject": {
+          "id": 485681,
+          "name": "Chunky (Forge/NeoForge)",
+          "authors": [
+            {
+              "id": 43770124,
+              "name": "pop4959",
+              "url": "https://www.curseforge.com/members/pop4959"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Pre-generates chunks, quickly, efficiently, and safely",
+          "categories": [
+            {
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Dimensions",
+              "slug": "world-dimensions",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-dimensions",
+              "dateModified": "2014-05-08T17:37:26.84Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 410,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/25/635351494468414756.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 406,
+          "classId": 6,
+          "slug": "chunky-pregenerator-forge",
+          "isFeatured": false,
+          "dateModified": "2025-12-12T08:52:18.32Z",
+          "dateCreated": "2021-05-24T09:42:38.723Z",
+          "dateReleased": "2025-12-12T08:44:43.03Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator-forge",
+            "wikiUrl": "https://github.com/pop4959/Chunky/wiki",
+            "issuesUrl": "https://github.com/pop4959/Chunky/issues",
+            "sourceUrl": "https://github.com/pop4959/Chunky"
+          },
+          "logo": {
+            "id": 385932,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/385/932/256/256/637574074357834213.png",
+            "title": "637574074357834213.png",
+            "url": "https://media.forgecdn.net/avatars/385/932/637574074357834213.png",
+            "modId": 485681
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 7323694
+        },
+        "curseForgeFile": {
+          "id": 5320028,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Chunky 1.3.146",
+          "fileName": "Chunky-1.3.146.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-05-06T07:10:57.567Z",
+          "fileLength": 341451,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3462674616,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 455959045,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 1610893347,
+              "name": "lang"
+            },
+            {
+              "fingerprint": 2995867911,
+              "name": "org"
+            },
+            {
+              "fingerprint": 3497244563,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 493882741,
+              "name": "version.properties"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "0b782d12b4ac3b03a94c28f32e9b2d5587d1dd50",
+              "algo": 1
+            },
+            {
+              "value": "ed46120ac4f30ec8e03f6416e295577c",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000002",
+              "gameVersion": "1.20.2",
+              "gameVersionReleaseDate": "2023-09-21T15:25:15.053Z",
+              "gameVersionName": "1.20.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000005",
+              "gameVersion": "1.20.5",
+              "gameVersionReleaseDate": "2024-04-23T15:00:48.803Z",
+              "gameVersionName": "1.20.5"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000003",
+              "gameVersion": "1.20.3",
+              "gameVersionReleaseDate": "2023-12-05T17:24:10.113Z",
+              "gameVersionName": "1.20.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000006",
+              "gameVersion": "1.20.6",
+              "gameVersionReleaseDate": "2024-04-29T15:15:44.67Z",
+              "gameVersionName": "1.20.6"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000004",
+              "gameVersion": "1.20.4",
+              "gameVersionReleaseDate": "2023-12-07T15:17:47.907Z",
+              "gameVersionName": "1.20.4"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "1.20.2",
+            "1.20.5",
+            "Client",
+            "1.20.3",
+            "1.20.1",
+            "Forge",
+            "1.20",
+            "1.20.6",
+            "1.20.4",
+            "Server"
+          ],
+          "fileFingerprint": 4160167965,
+          "modId": 485681
+        },
+        "modrinthProject": {
+          "id": "fALzjamp",
+          "slug": "chunky",
+          "project_type": "mod",
+          "team": "CohgUIPJ",
+          "title": "Chunky",
+          "description": "Pre-generates chunks, quickly and efficiently",
+          "body": "<h2>Chunky</h2>\n\nPre-generates chunks, quickly, efficiently, and safely\n\n<h3>Features</h3>\n\n- Start one or several chunk generation tasks at the same time (if you want to leverage your CPU more)\n- Pause chunk generation tasks, saving them for later\n- Shows detailed information such as chunks processed, percent to completion, ETA, chunk processing rate, etc\n- Custom world [shapes](https://github.com/pop4959/Chunky/wiki/Shapes), and optional world border support with [ChunkyBorder](https://modrinth.com/plugin/chunkyborder) installed\n\n<h3>Permissions</h3>\n\nIn order to use chunky you will need to either:\n- Be an operator on a dedicated server. To become an operator, someone with access to the server must run the command *op <username>* from the server console.\n- Be in a singleplayer world. In older versions of chunky you may also need to enable cheats for the world. This can be done during world creation, or by using the \"Open to LAN\" button.\n\n<h3>Commands</h3>\n\n<h4>Task Management</h4>\n\n**chunky start** *Starts a new chunk generation task from the current selection*\n</br>\n**chunky pause** *Pauses the current chunk generation tasks, and saves progress*\n</br>\n**chunky continue** *Continues running current or saved chunk generation tasks*\n</br>\n**chunky cancel** *Stops the current chunk generation tasks, and cancels progress*\n\n<h4>Selection</h4>\n\n**chunky world [world]** *Sets the currently selected world*\n</br>\n**chunky shape <shape>** *Set the [shape](https://github.com/pop4959/Chunky/wiki/Shapes) to generate*\n</br>\n**chunky center [<x> <z>]** *Sets the current center block location*\n</br>\n**chunky radius <radius>** *Sets the current radius*\n</br>\n**chunky worldborder** *Set the center and radius to match the world border in the selected world*\n</br>\n**chunky spawn** *Set the center to the spawn point*\n</br>\n**chunky corners <x1> <z1> <x2> <z2>** *Set the selection by corner coordinates*\n</br>\n**chunky pattern <pattern>** *Set the preferred generation [pattern](https://github.com/pop4959/Chunky/wiki/Patterns)*\n</br>\n**chunky selection** *Display the current selection*\n\n<h4>Miscellaneous</h4>\n\n**chunky silent** *Toggle displaying update messages*\n</br>\n**chunky quiet <interval>** *Set the quiet interval in seconds for update messages*\n</br>\n**chunky progress** *Display pre-generation progress in-game for all tasks*\n</br>\n**chunky reload** *Reloads the configuration*\n</br>\n**chunky trim** *Delete chunks outside selection*\n\n<h3>Examples</h3>\n\n**Generate chunks in a square centered at 0,0 in the overworld with a 1000 block radius**\n```\nchunky radius 1000\nchunky start\n```\n**Generate chunks in a circle centered at spawn in the nether with a 1000 block radius**\n```\nchunky world the_nether\nchunky shape circle\nchunky spawn\nchunky radius 1000\nchunky start\n```\n**Generate chunks inside a world border centered at 0,0 with a 10000 block radius**\n```\nworldborder center 0 0\nworldborder set 20000\nchunky worldborder\nchunky start\n```\n\n<h3>Links</h3>\n\n[**Wiki**](https://github.com/pop4959/Chunky/wiki) Find up-to-date information about plugin features\n</br>\n[**Discord**](https://discord.gg/ZwVJukcNQG) Visit the #chunky channel and ask questions\n</br>\n[**Crowdin**](https://crowdin.com/project/chunky) Help translate the plugin into several languages\n</br>\n[**Donate**](https://www.paypal.me/pop4959) Support the project if you've found it useful\n</br>\n[**bStats**](https://bstats.org/plugin/bukkit/Chunky/8211) Check out some cool stats for the plugin\n</br>\n[**CodeMC**](https://ci.codemc.io/view/Author/job/pop4959/job/Chunky/) Download the latest builds from this mirror\n</br>\n[**ChunkyBorder**](https://modrinth.com/plugin/chunkyborder) Custom world border addon\n\n<h3>Screenshots</h3>\n\nExample pre-generated square world with radius 2000\n</br>![](https://i.imgur.com/ILvHPaE.png)\n\nGenerating 3 worlds simultaneously using a Ryzen 3700X processor + 16GB RAM\n</br>![](https://i.imgur.com/VjKrSY0.png)",
+          "published": "2021-04-04T21:18:30.574917Z",
+          "updated": "2025-12-22T10:43:31.045916Z",
+          "status": "approved",
+          "license": {
+            "id": "GPL-3.0-only",
+            "name": "GNU General Public License v3.0 only"
+          },
+          "client_side": "optional",
+          "server_side": "optional",
+          "categories": [
+            "optimization",
+            "utility",
+            "worldgen"
+          ],
+          "loaders": [
+            "bukkit",
+            "fabric",
+            "folia",
+            "forge",
+            "neoforge",
+            "paper",
+            "spigot",
+            "sponge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/fALzjamp/e1954413665e57b7bae1feef44eda530270c7d47_96.webp",
+          "issues_url": "https://github.com/pop4959/Chunky/issues",
+          "source_url": "https://github.com/pop4959/Chunky",
+          "wiki_url": "https://github.com/pop4959/Chunky/wiki",
+          "discord_url": "https://discord.gg/ZwVJukcNQG",
+          "donation_urls": [
+            {
+              "id": "github",
+              "platform": "Github",
+              "url": "https://github.com/sponsors/pop4959"
+            },
+            {
+              "id": "paypal",
+              "platform": "Paypal",
+              "url": "https://www.paypal.com/paypalme/pop4959"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "4FTDk9wv",
+          "project_id": "fALzjamp",
+          "author_id": "nfBsvT1J",
+          "name": "Chunky 1.3.146",
+          "version_number": "1.3.146",
+          "changelog": "",
+          "date_published": "2024-05-06T07:28:42.102951Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "0b782d12b4ac3b03a94c28f32e9b2d5587d1dd50",
+                "sha512": "13ef9d5bfea1895118eec45aa3071e2d79408241f29990624f67e157d4c525391753b0a1539ff3359dad79a6e5ab5e0b84fffbe528bdefcaaefd579ec794d9c9"
+              },
+              "url": "https://cdn.modrinth.com/data/fALzjamp/versions/4FTDk9wv/Chunky-1.3.146.jar",
+              "filename": "Chunky-1.3.146.jar",
+              "primary": true,
+              "size": 341451
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20",
+            "1.20.1",
+            "1.20.2",
+            "1.20.3",
+            "1.20.4"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
+      },
+      {
+        "name": "Fastload",
+        "version": "Fastload 3.4.0 for MC 1.20.1",
+        "optional": true,
+        "file": "Fastload-Reforged-mc1.20.1-3.4.0.jar",
+        "type": "mods",
+        "description": "Modifies how worlds are loaded to speed up loading times.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 630620,
+        "curseForgeFileId": 4706149,
+        "curseForgeProject": {
+          "id": 630620,
+          "name": "Fastload",
+          "authors": [
+            {
+              "id": 103059364,
+              "name": "StockiesLad",
+              "url": "https://www.curseforge.com/members/stockieslad"
+            },
+            {
+              "id": 103388104,
+              "name": "KirboSoftware",
+              "url": "https://www.curseforge.com/members/kirbosoftware"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Modifies how worlds are loaded to speed up loading times.",
+          "categories": [
+            {
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 406,
+          "classId": 6,
+          "slug": "fastload",
+          "isFeatured": false,
+          "dateModified": "2023-08-15T12:40:53.157Z",
+          "dateCreated": "2022-06-06T07:32:14.103Z",
+          "dateReleased": "2023-08-15T12:39:08.23Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/fastload",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/BumbleSoftware/Fastload/issues",
+            "sourceUrl": "https://github.com/BumbleSoftware/Fastload"
+          },
+          "logo": {
+            "id": 634506,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/634/506/256/256/638035113015596584.png",
+            "title": "638035113015596584.png",
+            "url": "https://media.forgecdn.net/avatars/634/506/638035113015596584.png",
+            "modId": 630620
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4706149
+        },
+        "curseForgeFile": {
+          "id": 4706149,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Fastload 3.4.0 for MC 1.20.1",
+          "fileName": "Fastload-Reforged-mc1.20.1-3.4.0.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-08-15T12:39:08.23Z",
+          "fileLength": 66989,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 934237621,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 773100371,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2671902256,
+              "name": "fastload.mixins.json"
+            },
+            {
+              "fingerprint": 3259892299,
+              "name": "fastload.refmap.json"
+            },
+            {
+              "fingerprint": 1524954375,
+              "name": "io"
+            },
+            {
+              "fingerprint": 1140377876,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 1511128189,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "27d58f123951e0404c94caf16ff9b96b442f371c",
+              "algo": 1
+            },
+            {
+              "value": "3266e638032dc9b957bf1e7372671c05",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "1.20.1",
+            "Forge",
+            "Server"
+          ],
+          "fileFingerprint": 1563375780,
+          "modId": 630620
+        },
+        "modrinthProject": {
+          "id": "kCpssoSb",
+          "slug": "fastload",
+          "project_type": "mod",
+          "team": "MGCy93QI",
+          "title": "Fastload",
+          "description": "Modifies how worlds are loaded to speed up loading times.",
+          "body": "# NOTICE!!!!!!\nI (StockiesLad) have quit modding again. This will explain the absence of updates. Why again? It's just not fun anymore and I am always worried about once again being embedded in annoying discord drama that somehow manages to suck every bit of enjoyment out of modding. There hasn't been anyone willing to step up and take over development and that's partly my fault. This notice is months late. If you enjoy fastload and intend to maintain it, just contact me on discord for a discussion. Please keep in mind that I won't respond quickly because I don't really use discord much at all anymore. Thank you for taking your time to read this!\n\n# Short explanation\nFastload is a *relatively* simple mod that changes some crucial parts of world loading to speed it up.\n\n# Environments\n- Client (Optional)\n- Server (Optional)\n\n# Credits\n- StockiesLad (Owner)\n- JoostMSoftware (Co-Owner)\n- AbdElAziz333 (Forge)\n- VidTu (Ksyxis (Idea))\n- kennytv (Forcecloseloadingscreen (Code))\n\n# Features\n- 441 Pre-generator: Entirely yanks it to sync chunk generation with chunk rendering.\n- Loading Screens: Cancellable (Configurable)\n- Rendering: Pre-rendering Phase (Configurable)\n\n# Suggested With\n- C2ME: Optimises chunk generation.\n- Sodium: Optimises chunk rendering.\n\n# Explanation\nThe 441 chunk loading engine is pretty much what the name is. The reason for it being 441 chunks is that\nit generates chunks in a 10 chunk radius as a square. So multiply that by 2, add 1 (because you are standing\non a chunk) and square it. Fastload removes this *feature* as it is a huge waste of time. Instead, it will\nonly load 1 chunk (the spawn chunk) and loads the rest of the spawn region during early rendering.\n\nAlong with that, it also replaces some of the loading screens with its own implementation. This pretty much\nallows rendering to begin immediately instead of it being halted until the player spawn packet is received.\n\n# Links\n- Modrinth: https://modrinth.com/mod/fastload\n- Curseforge: https://www.curseforge.com/minecraft/mc-mods/fastload\n- Discord: https://discord.gg/fMSnenNSXM\n\n",
+          "published": "2022-06-04T16:09:02.891982Z",
+          "updated": "2023-08-15T12:36:55.631401Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-2.1-only",
+            "name": "GNU Lesser General Public License v2.1 only"
+          },
+          "client_side": "optional",
+          "server_side": "optional",
+          "categories": [
+            "optimization",
+            "worldgen"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "quilt"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/kCpssoSb/47742fe96d19cdad9a3eb6a73bd9c7c1547fb4ad.png",
+          "issues_url": "https://github.com/BumbleSoftware/Fastload/issues",
+          "source_url": "https://github.com/BumbleSoftware/Fastload",
+          "discord_url": "https://discord.gg/fMSnenNSXM",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "5caSj7kt",
+          "project_id": "kCpssoSb",
+          "author_id": "3AXCrCqA",
+          "name": "Fastload 3.4.0 for MC 1.20.1",
+          "version_number": "mc1.20.1-3.4.0",
+          "changelog": "bump version.",
+          "date_published": "2023-08-15T12:36:55.631401Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "b8be6ed0bef707c7c34d84049eb68313a5c787f6e9c9a88fb94daed6bccfedc6c181a1fca431f53b6e8ac03c7baf7653414b5a5792cab6b500c6d66502489431",
+                "sha1": "27d58f123951e0404c94caf16ff9b96b442f371c"
+              },
+              "url": "https://cdn.modrinth.com/data/kCpssoSb/versions/5caSj7kt/Fastload-Reforged-mc1.20.1-3.4.0.jar",
+              "filename": "Fastload-Reforged-mc1.20.1-3.4.0.jar",
+              "primary": true,
+              "size": 66989
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1768951560739,
-    "numPlays": 29
+    "lastPlayed": 1769003974175,
+    "numPlays": 30
   },
   "id": "1.20.1",
   "complianceLevel": 1,
