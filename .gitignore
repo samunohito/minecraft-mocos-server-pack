@@ -1,0 +1,27 @@
+# --- Folders to Ignore ---
+/mods/
+/saves/
+/logs/
+/crash-reports/
+/screenshots/
+/resourcepacks/
+/shaderpacks/
+/xaero/
+/local/
+/data/
+/modernfix/
+/bin/
+
+# --- Files to Ignore ---
+options.txt
+usercache.json
+usernamecache.json
+rhino.local.properties
+.qmenu_opened.marker
+
+# --- Allow these (if previously ignored) ---
+!/config/
+!/kubejs/
+!/defaultconfigs/
+!/patchouli_books/
+!/moonlight-global-datapacks/
