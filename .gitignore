@@ -11,6 +11,8 @@
 /data/
 /modernfix/
 /bin/
+/simplebackups
+/XaeroWaypoints_*
 
 # --- Files to Ignore ---
 options.txt

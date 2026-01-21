@@ -1,0 +1,76 @@
+#ローマ字を漢字混じりの日本語に変換するかどうか。
+#無効にすると、ローマ字変換のみ行います。
+transliterate = true
+#ASCII文字以外を含むメッセージのローマ字変換と日本語変換を無視するかどうか。
+#このオプションは、マークダウン変換を行うかどうかに影響しません。
+ignore_non_ascii = true
+#&を§に変換するかどうか。
+ampersand = true
+#単純なマークダウンを装飾コードに変換するかどうか。
+#複雑なマークダウンはうまく変換されない場合があります。
+markdown = true
+#プレイヤーが /tsukichat で個人設定を変更できるようにするかどうか。
+#無効にした場合でも、ignoreTagとignoreCompletelyTagは使用されます。
+allow_personal_settings = true
+#[非推奨] ローマ字から日本語への変換をTsukiChat側のマルチスレッドで行うかどうか。
+#比較的新しいMinecraftではForgeがイベントをマルチスレッドで処理するため、
+#この設定を有効化する必要はありません。
+multi_threading = false
+#Simple Discord Link上でtsukichatを作用させるかどうか。
+#無効にすると、Simple Discord Linkは従来どおり変換前のメッセージを使用します。
+sdlink_compat = true
+#通常のプレイヤーがサーバー辞書に単語を追加できるようにするかどうか。
+#無効にした場合でも、OP権限を持つプレイヤーは辞書を管理することができます。
+allow_add_global_dictionary = true
+#通常のプレイヤーがサーバー辞書から単語を削除できるようにするかどうか。
+#無効にした場合でも、OP権限を持つプレイヤーは辞書を管理することができます。
+allow_remove_global_dictionary = true
+#Mohist上でSpigotのイベントシステムを使用するかどうか。
+#Mohist上でForgeのServerChatEventが発火しない問題の回避策となります。
+#Mohist環境下でない場合、このオプションは単に無視されます。
+mohist_compat = true
+#TsukiChatは、以下の接頭辞から始まるメッセージのローマ字変換や日本語変換を行いません。
+#ただし、マークダウンの変換は行われます。
+ignore = ["#", ";"]
+#TsukiChatは、以下の接頭辞から始まるメッセージについて、一切の変換を行いません。
+ignore_completely = [":", "./"]
+#メッセージが以下のリストのいずれかと一致する場合、一切の変換を行いません。
+ignore_messages = ["afk", "bad", "brb", "btw", "cool", "ez", "false", "fine", "gg", "gj", "gl", "good", "great", "hello", "hf", "hi", "idk", "jk", "lmao", "lol", "maybe", "nc", "nice", "no", "nope", "np", "nvm", "oh", "ok", "okay", "omg", "please", "pls", "plz", "rofl", "sorry", "sry", "sure", "thanks", "thx", "true", "ty", "tysm", "w", "wow", "wtf", "ww", "www", "wwww", "wwwww", "wwwwww", "wwwwwww", "wwwwwwww", "wwwwwwwww", "wwwwwwwwww", "yay", "yeah", "yes", "yw"]
+#サーバー辞書。ここに登録された単語は、すべてのプレイヤーのメッセージに対して適用されます。
+#キーと値は、タブ文字\tで区切ってください。
+server_dictionary = ["TsukiChat\tTsukiChat", "Minecraft\tMinecraft", "Forge\tForge", "Fabric\tFabric", "Mod\tMod", "NeoForge\tNeoForge", "Google\tGoogle", "GitHub\tGitHub", "Java\tJava", "っw\tww"]
+#変換前のメッセージの長さがこの値以下の場合、ローマ字変換や日本語変換を行いません。
+#ただし、マークダウンの変換は行われます。
+#Range: > 0
+ignore_length = 3
+#変換前のメッセージをどう表示するかを指定します。
+#$0は変換前のメッセージに置き換えられます。
+format_original = "§7$0§r"
+#変換後のメッセージをどう表示するかを指定します。
+#$0は変換後のメッセージに置き換えられます。
+format_converted = "→ $0"
+#コンフィグignoreで設定された接頭辞で始まるメッセージがMarkdown変換されなかった際にどう表示するかを指定します。
+#$0は接頭辞、$1はメッセージのうち接頭辞以外の部分に置き換えられます。
+format_original_ignored = "§7$0§r$1§r"
+#コンフィグignoreで設定された接頭辞から始まるメッセージがMarkdown変換された際にどう表示するかを指定します。
+#$0は接頭辞、$1は変換後のメッセージのうち接頭辞以外の部分に置き換えられます。
+format_converted_ignored = "→ §7$0§r$1"
+#TsukiChatは、以下のタグを持つプレイヤーのメッセージのローマ字変換や日本語変換を行いません。
+#ただし、マークダウンの変換は行われます。
+ignore_tag = "tsukichat_no_romaji"
+#TsukiChatは、以下のタグを持つプレイヤーのメッセージについて、一切の変換を行いません。
+ignore_completely_tag = "tsukichat_ignore"
+#チームメッセージを変換するかどうか。
+format_team_msg = true
+#送信されたメッセージをデフォルトでチームメッセージとして送信するかどうか。
+#チームに所属していない場合は機能しません。
+#コンフィグforce_globalにマッチするメッセージはチームメッセージとして送信されません。
+default_team_msg = false
+#TsukiChatは、以下の接頭辞から始まるメッセージを強制的にグローバルチャットとして扱います。
+#コンフィグdefault_team_msgが無効の場合は機能しません。
+force_global = ["!"]
+#すべてのチームメッセージを指定された権限レベルを持つプレイヤーへ転送します。
+#-1が指定されている場合、チームメッセージは転送されません。
+#Range: > -1
+forward_team_msg_level = -1
+

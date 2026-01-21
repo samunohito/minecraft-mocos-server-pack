@@ -58487,13 +58487,994 @@
             "forge"
           ]
         }
+      },
+      {
+        "name": "FTB Essentials (Forge & Fabric)",
+        "version": "ftb-essentials-forge-2001.2.3.jar",
+        "optional": true,
+        "file": "ftb-essentials-forge-2001.2.3.jar",
+        "type": "mods",
+        "description": "Adds many essential utility commands for servers",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 410811,
+        "curseForgeFileId": 6555287,
+        "curseForgeProject": {
+          "id": 410811,
+          "name": "FTB Essentials (Forge & Fabric)",
+          "authors": [
+            {
+              "id": 17809311,
+              "name": "FTB",
+              "url": "https://www.curseforge.com/members/ftb"
+            },
+            {
+              "id": 129670203,
+              "name": "FTBTeam",
+              "url": "https://www.curseforge.com/members/ftbteam"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Adds many essential utility commands for servers",
+          "categories": [
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Player Transport",
+              "slug": "technology-player-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-player-transport",
+              "dateModified": "2014-05-08T17:38:58.357Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 414,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/29/635351495383551178.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 435,
+          "classId": 6,
+          "slug": "ftb-essentials",
+          "isFeatured": false,
+          "dateModified": "2025-11-11T08:47:39.437Z",
+          "dateCreated": "2020-10-01T20:19:43.767Z",
+          "dateReleased": "2025-11-11T08:43:16.267Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/ftb-essentials",
+            "wikiUrl": "https://go.ftb.team/docs-essentials",
+            "issuesUrl": "https://go.ftb.team/support-mod-issues",
+            "sourceUrl": "https://github.com/FTBTeam/FTB-Essentials"
+          },
+          "logo": {
+            "id": 972569,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/972/569/256/256/638474884133404936.png",
+            "title": "638474884133404936.png",
+            "url": "https://media.forgecdn.net/avatars/972/569/638474884133404936.png",
+            "modId": 410811
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 7209620
+        },
+        "curseForgeFile": {
+          "id": 6555287,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "ftb-essentials-forge-2001.2.3.jar",
+          "fileName": "ftb-essentials-forge-2001.2.3.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-05-22T10:24:39.653Z",
+          "fileLength": 156203,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 404465,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 314905,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3079802658,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 877643962,
+              "name": "architectury_inject_FTBEssentials1201_common_1edfefcb63e64ae7807f35446fef3ad4_c922a4dee93a614b53bf97350215aa6850cb107abacd8b3f8bfc2c4f6625eed7ftbessentials200123devjar"
+            },
+            {
+              "fingerprint": 28964555,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 4144745500,
+              "name": "data"
+            },
+            {
+              "fingerprint": 847977151,
+              "name": "dev"
+            },
+            {
+              "fingerprint": 3723006074,
+              "name": "ftb-essentials-common-refmap.json"
+            },
+            {
+              "fingerprint": 714052242,
+              "name": "ftbessentials-common.mixins.json"
+            },
+            {
+              "fingerprint": 2278401661,
+              "name": "kubejs.classfilter.txt"
+            },
+            {
+              "fingerprint": 131883689,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "460ec092156d6b457bd91dc463ac1ee49e22442d",
+              "algo": 1
+            },
+            {
+              "value": "5d3acae1dc695190604bd4a2f5423d06",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.20.1",
+            "Forge"
+          ],
+          "fileFingerprint": 1973516826,
+          "modId": 410811
+        }
+      },
+      {
+        "name": "Tsuki Chat",
+        "version": "tsukichat-forge-mc1.20.1-v1.4.0-alpha.5.jar",
+        "optional": true,
+        "file": "tsukichat-forge-mc1.20.1-v1.4.0-alpha.5.jar",
+        "type": "mods",
+        "description": "Converts Romaji to Japanese in chat. Highly inspired by the LunaChat plugin.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 1029553,
+        "curseForgeFileId": 6879166,
+        "curseForgeProject": {
+          "id": 1029553,
+          "name": "Tsuki Chat",
+          "authors": [
+            {
+              "id": 104685258,
+              "name": "Meatwo310",
+              "url": "https://www.curseforge.com/members/meatwo310"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Converts Romaji to Japanese in chat. Highly inspired by the LunaChat plugin.",
+          "categories": [
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 435,
+          "classId": 6,
+          "slug": "tsuki-chat",
+          "isFeatured": false,
+          "dateModified": "2025-08-12T16:40:25.617Z",
+          "dateCreated": "2024-06-03T10:00:28.633Z",
+          "dateReleased": "2025-08-12T16:37:08.51Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/tsuki-chat",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Meatwo310/tsuki-chat/issues",
+            "sourceUrl": "https://github.com/Meatwo310/tsuki-chat"
+          },
+          "logo": {
+            "id": 1007079,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1007/79/256/256/638529305761998462.webp",
+            "title": "638529305761998462.webp",
+            "url": "https://media.forgecdn.net/avatars/1007/79/638529305761998462.webp",
+            "modId": 1029553
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 880995,
+              "description": "0.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/880/995/310/172/0.png",
+              "title": "0.png",
+              "url": "https://media.forgecdn.net/attachments/880/995/0.png",
+              "modId": 1029553
+            },
+            {
+              "id": 880996,
+              "description": "1.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/880/996/310/172/1.png",
+              "title": "1.png",
+              "url": "https://media.forgecdn.net/attachments/880/996/1.png",
+              "modId": 1029553
+            },
+            {
+              "id": 880997,
+              "description": "2.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/880/997/310/172/2.png",
+              "title": "2.png",
+              "url": "https://media.forgecdn.net/attachments/880/997/2.png",
+              "modId": 1029553
+            },
+            {
+              "id": 880998,
+              "description": "3.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/880/998/310/172/3.png",
+              "title": "3.png",
+              "url": "https://media.forgecdn.net/attachments/880/998/3.png",
+              "modId": 1029553
+            },
+            {
+              "id": 880999,
+              "description": "4.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/880/999/310/172/4.png",
+              "title": "4.png",
+              "url": "https://media.forgecdn.net/attachments/880/999/4.png",
+              "modId": 1029553
+            },
+            {
+              "id": 881000,
+              "description": "5.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/881/0/310/172/5.png",
+              "title": "5.png",
+              "url": "https://media.forgecdn.net/attachments/881/0/5.png",
+              "modId": 1029553
+            }
+          ],
+          "mainFileId": 6366907
+        },
+        "curseForgeFile": {
+          "id": 6879166,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "tsukichat-forge-mc1.20.1-v1.4.0-alpha.5.jar",
+          "fileName": "tsukichat-forge-mc1.20.1-v1.4.0-alpha.5.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2025-08-12T16:33:47.457Z",
+          "fileLength": 66861,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1249835226,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3621067750,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3467289962,
+              "name": "io"
+            },
+            {
+              "fingerprint": 4018108854,
+              "name": "mixins.tsukichat.json"
+            },
+            {
+              "fingerprint": 1057477467,
+              "name": "mixins.tsukichat.refmap.json"
+            },
+            {
+              "fingerprint": 3648509452,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "eb417e7a57e7652d5b0d0a4f9591d15de747e509",
+              "algo": 1
+            },
+            {
+              "value": "29254e1295ea0e25a6152b0affc9148f",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "1.20.1",
+            "Forge",
+            "Server"
+          ],
+          "fileFingerprint": 2940469676,
+          "modId": 1029553
+        }
+      },
+      {
+        "name": "Fast Async World Save[Forge/Fabric]",
+        "version": "fastasyncworldsave-1.20.1-2.6.jar",
+        "optional": true,
+        "file": "fastasyncworldsave-1.20.1-2.6.jar",
+        "type": "mods",
+        "description": "Prevent lag-spikes and data loss during intermittent world saves",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 951499,
+        "curseForgeFileId": 6935203,
+        "curseForgeProject": {
+          "id": 951499,
+          "name": "Fast Async World Save[Forge/Fabric]",
+          "authors": [
+            {
+              "id": 100114338,
+              "name": "someaddon",
+              "url": "https://www.curseforge.com/members/someaddon"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Prevent lag-spikes and data loss during intermittent world saves",
+          "categories": [
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 435,
+          "classId": 6,
+          "slug": "fast-async-world-save-forge-fabric",
+          "isFeatured": false,
+          "dateModified": "2025-08-27T21:10:56.207Z",
+          "dateCreated": "2023-12-18T14:33:41.753Z",
+          "dateReleased": "2025-08-27T19:37:28.063Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/fast-async-world-save-forge-fabric",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/someaddons/FastAsyncWorldSave/issues",
+            "sourceUrl": "https://github.com/someaddons/FastAsyncWorldSave"
+          },
+          "logo": {
+            "id": 920973,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/920/973/256/256/638384996050010285.png",
+            "title": "638384996050010285.png",
+            "url": "https://media.forgecdn.net/avatars/920/973/638384996050010285.png",
+            "modId": 951499
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 6935208
+        },
+        "curseForgeFile": {
+          "id": 6935203,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "fastasyncworldsave-1.20.1-2.6.jar",
+          "fileName": "fastasyncworldsave-1.20.1-2.6.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-08-27T19:36:05.07Z",
+          "fileLength": 14812,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 326652,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 396856724,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 269258984,
+              "name": "com"
+            },
+            {
+              "fingerprint": 2089655399,
+              "name": "fastasyncworldsave.mixins.json"
+            },
+            {
+              "fingerprint": 242290350,
+              "name": "fastasyncworldsave.refmap.json"
+            },
+            {
+              "fingerprint": 3185219565,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "3a3180f5fc9d1209ca0ad69084afe8ee42ba44d6",
+              "algo": 1
+            },
+            {
+              "value": "6c24d9c3cc17e4e5052c21c2b2d188ad",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "NeoForge",
+            "1.20.1",
+            "Forge",
+            "Server"
+          ],
+          "fileFingerprint": 1473382339,
+          "modId": 951499
+        }
+      },
+      {
+        "name": "spark",
+        "version": "1.10.53 (Forge 1.20.1)",
+        "optional": true,
+        "file": "spark-1.10.53-forge.jar",
+        "type": "mods",
+        "description": "spark is a performance profiler for Minecraft clients, servers and proxies.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 361579,
+        "curseForgeFileId": 4738952,
+        "curseForgeProject": {
+          "id": 361579,
+          "name": "spark",
+          "authors": [
+            {
+              "id": 54676657,
+              "name": "Iucko",
+              "url": "https://www.curseforge.com/members/iucko"
+            }
+          ],
+          "gameId": 432,
+          "summary": "spark is a performance profiler for Minecraft clients, servers and proxies.",
+          "categories": [
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 435,
+          "classId": 6,
+          "slug": "spark",
+          "isFeatured": false,
+          "dateModified": "2025-12-10T09:13:52.303Z",
+          "dateCreated": "2020-02-06T18:52:51.83Z",
+          "dateReleased": "2025-12-10T09:05:41.927Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/spark",
+            "wikiUrl": "https://spark.lucko.me/docs",
+            "issuesUrl": "https://github.com/lucko/spark/issues",
+            "sourceUrl": "https://github.com/lucko/spark"
+          },
+          "logo": {
+            "id": 495151,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/495/151/256/256/637808085409071880.png",
+            "title": "637808085409071880.png",
+            "url": "https://media.forgecdn.net/avatars/495/151/637808085409071880.png",
+            "modId": 361579
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 7315224
+        },
+        "curseForgeFile": {
+          "id": 4738952,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "1.10.53 (Forge 1.20.1)",
+          "fileName": "spark-1.10.53-forge.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-09-05T08:02:20.05Z",
+          "fileLength": 3114590,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3266581010,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2763759627,
+              "name": "google"
+            },
+            {
+              "fingerprint": 1758355692,
+              "name": "me"
+            },
+            {
+              "fingerprint": 875227375,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3177227841,
+              "name": "spark"
+            },
+            {
+              "fingerprint": 2158727245,
+              "name": "win32-x86-64"
+            },
+            {
+              "fingerprint": 2564852001,
+              "name": "win32-x86"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "231fb325368c0660954f47bfb03493f5246fa4d1",
+              "algo": 1
+            },
+            {
+              "value": "95dcd3b5400cc5eb5d0478a744e6ef98",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            }
+          ],
+          "gameVersions": [
+            "1.20.1",
+            "Forge",
+            "1.20"
+          ],
+          "fileFingerprint": 1515254383,
+          "modId": 361579
+        },
+        "modrinthProject": {
+          "id": "l6YH9Als",
+          "slug": "spark",
+          "project_type": "mod",
+          "team": "xI8OXSR4",
+          "title": "spark",
+          "description": "spark is a performance profiler for Minecraft clients, servers and proxies.",
+          "body": "![spark](https://spark.lucko.me/assets/banner.png)\n\n#### spark is a performance profiler for Minecraft clients, servers and proxies.\n\n#### Useful Links\n* [**Website**](https://spark.lucko.me/) - browse the project homepage\n* [**Documentation**](https://spark.lucko.me/docs) - read documentation and usage guides\n* [**Downloads**](https://spark.lucko.me/download) - latest plugin/mod downloads\n\n___\n\n[![](https://www.bisecthosting.com/partners/custom-banners/337246b0-c68e-400f-a40e-427b9a2fc516.png)](https://bisecthosting.com/spark)\n\nspark is proudly sponsored by [BisectHosting](https://bisecthosting.com/spark).​\n\nBisectHosting are Minecraft server hosting experts, ready to help you create and host your very own server! They are a trusted and well-established hosting provider in the community, and provide an outstanding level of service that we are happy to recommend. There is a special 25% off discount available for spark users - click the link above to create your server today.\n\n## What does spark do?\n\nspark is made up of three separate components:\n\n* **CPU Profiler**: Diagnose performance issues.\n* **Memory Inspection**: Diagnose memory issues.\n* **Server Health Reporting**: Keep track of overall server health.\n\n### ⚡ CPU Profiler\n\nspark's profiler can be used to diagnose performance issues: \"lag\", low tick rate, high CPU usage, etc.\n\nIt is:\n\n* **Lightweight** - can be ran in production with minimal impact.\n* **Easy to use** - no configuration or setup necessary, just install the plugin.\n* **Quick to produce results** - running for just ~30 seconds is enough to produce useful insights into problematic areas for performance.\n* **Customisable** - can be tuned to target specific threads, sample at a specific interval, record only \"laggy\" periods, etc\n* **Highly readable** - simple tree structure lends itself to easy analysis and interpretation. The viewer can also apply deobfuscation mappings.\n\nIt works by sampling statistical data about the systems activity, and constructing a call graph based on this data. The call graph is then displayed in an online viewer for further analysis by the user.\n\nThere are two different profiler engines:\n* Native `AsyncGetCallTrace` + `perf_events` - uses [async-profiler](https://github.com/jvm-profiling-tools/async-profiler) (*only available on Linux x86_64 systems*)\n* Built-in Java `ThreadMXBean` - an improved version of the popular [WarmRoast profiler](https://github.com/sk89q/WarmRoast) by sk89q.\n\n### ⚡ Memory Inspection\n\nspark includes a number of tools which are useful for diagnosing memory issues with a server.\n\n* **Heap Summary** - take & analyse a basic snapshot of the servers memory\n  * A simple view of the JVM's heap, see memory usage and instance counts for each class\n  * Not intended to be a full replacement of proper memory analysis tools. (see below)\n* **Heap Dump** - take a full (HPROF) snapshot of the servers memory\n  * Dumps (& optionally compresses) a full snapshot of JVM's heap.\n  * This snapshot can then be inspected using conventional analysis tools.\n* **GC Monitoring** - monitor garbage collection activity on the server\n  * Allows the user to relate GC activity to game server hangs, and easily see how long they are taking & how much memory is being free'd.\n  * Observe frequency/duration of young/old generation garbage collections to inform which GC tuning flags to use\n\n### ⚡ Server Health Reporting\n\nspark can report a number of metrics summarising the servers overall health.\n\nThese metrics include:\n\n* **TPS** - ticks per second, to a more accurate degree indicated by the /tps command\n* **Tick Durations** - how long each tick is taking (min, max and average)\n* **CPU Usage** - how much of the CPU is being used by the server process, and by the overall system\n* **Memory Usage** - how much memory is being used by the process\n* **Disk Usage** - how much disk space is free/being used by the system\n\nAs well as providing tick rate averages, spark can also **monitor individual ticks** - sending a report whenever a single tick's duration exceeds a certain threshold. This can be used to identify trends and the nature of performance issues, relative to other system or game events.\n\n## Usage\nTo install, just add the **.jar** file to your mods directory.\n\nInformation about [how to use commands](https://spark.lucko.me/docs/Command-Usage) can be found in the docs.\n\nIf you’d like help analysing a profiling report, or just want to chat, feel free to join us on [Discord](https://discord.gg/PAGT2fu).\n\n\n## Guides\nThere are a few small \"guides\" available in the docs, covering the following topics.\n* [The tick loop](https://spark.lucko.me/docs/guides/The-tick-loop)\n* [Finding the cause of lag spikes](https://spark.lucko.me/docs/guides/Finding-lag-spikes)",
+          "published": "2021-06-04T13:36:54.735179Z",
+          "updated": "2025-12-10T09:07:26.449358Z",
+          "status": "approved",
+          "license": {
+            "id": "GPL-3.0-only",
+            "name": "GNU General Public License v3.0 only",
+            "url": "https://github.com/lucko/spark/blob/master/LICENSE.txt"
+          },
+          "client_side": "optional",
+          "server_side": "optional",
+          "categories": [
+            "utility"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge",
+            "quilt"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/l6YH9Als/61a777dd08a8447ac93e8b6372e6d27d48cd1e1a_96.webp",
+          "issues_url": "https://github.com/lucko/spark/issues",
+          "source_url": "https://github.com/lucko/spark",
+          "wiki_url": "https://spark.lucko.me/docs",
+          "discord_url": "https://discord.gg/PAGT2fu",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "4FXHDE9F",
+          "project_id": "l6YH9Als",
+          "author_id": "iRtG8gdL",
+          "name": "1.10.53 (Forge 1.20.1)",
+          "version_number": "1.10.53-forge",
+          "changelog": "This update brings the latest version of spark for Minecraft 1.20.1 to Modrinth. The full changelog can be viewed at https://spark.lucko.me/changelog.",
+          "date_published": "2023-09-05T08:02:29.569207Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "15c6a3753dcba380624643a1e19c856240e8f6bed280f908e1be12c6154a86284ac86405c806273842975e0b7270af93ea9b1db5cf575a3853e54e1088cf7343",
+                "sha1": "231fb325368c0660954f47bfb03493f5246fa4d1"
+              },
+              "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/4FXHDE9F/spark-1.10.53-forge.jar",
+              "filename": "spark-1.10.53-forge.jar",
+              "primary": true,
+              "size": 3114590
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
+      },
+      {
+        "name": "Simple Backups",
+        "version": "SimpleBackups-1.20.1-3.1.24.jar",
+        "optional": true,
+        "file": "SimpleBackups-1.20.1-3.1.24.jar",
+        "type": "mods",
+        "description": "A simple mod to create scheduled backups.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 583228,
+        "curseForgeFileId": 7451460,
+        "curseForgeProject": {
+          "id": 583228,
+          "name": "Simple Backups",
+          "authors": [
+            {
+              "id": 28095189,
+              "name": "MelanX",
+              "url": "https://www.curseforge.com/members/melanx"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A simple mod to create scheduled backups.",
+          "categories": [
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 435,
+          "classId": 6,
+          "slug": "simple-backups",
+          "isFeatured": false,
+          "dateModified": "2026-01-12T19:11:46.377Z",
+          "dateCreated": "2022-02-27T09:25:07.603Z",
+          "dateReleased": "2026-01-12T19:05:14.907Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/simple-backups",
+            "wikiUrl": "https://wiki.chaotictrials.de/",
+            "issuesUrl": "https://github.com/ChaoticTrials/SimpleBackups/issues",
+            "sourceUrl": "https://github.com/ChaoticTrials/SimpleBackups"
+          },
+          "logo": {
+            "id": 504213,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/504/213/256/256/637821575420954591.png",
+            "title": "637821575420954591.png",
+            "url": "https://media.forgecdn.net/avatars/504/213/637821575420954591.png",
+            "modId": 583228
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 7151924
+        },
+        "curseForgeFile": {
+          "id": 7451460,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "SimpleBackups-1.20.1-3.1.24.jar",
+          "fileName": "SimpleBackups-1.20.1-3.1.24.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2026-01-12T19:05:14.907Z",
+          "fileLength": 51010,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 308240,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3667044388,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 581575379,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1330900585,
+              "name": "de"
+            },
+            {
+              "fingerprint": 191825105,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "dcbb71212dd474e160152d12c37b807e580f5043",
+              "algo": 1
+            },
+            {
+              "value": "aba4d4986acd996b6340e116d79ab2c5",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.20.1",
+            "Forge"
+          ],
+          "fileFingerprint": 1415372133,
+          "modId": 583228
+        },
+        "modrinthProject": {
+          "id": "fzSKSXVK",
+          "slug": "simple-backups",
+          "project_type": "mod",
+          "team": "eVZlvAUb",
+          "title": "Simple Backups",
+          "description": "A simple mod to create scheduled backups",
+          "body": "[Porting information for 1.21 update](https://wiki.chaotictrials.de/porting/version/1.21/)\n**[![#StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)**\n![Header](https://raw.githubusercontent.com/ChaoticTrials/ModMeta/HEAD/assets/mods/simple-backups/header.png)\n\nThis mod is used to create backups. You can define how many backups should be saved. You can also define how much \nstorage should be used max. The oldest backup files will be deleted.\n\nThis mod can be used on server only.\n\nYou are allowed to put this mod in any modpack you like.\n![[Werbung](https://www.bisecthosting.com/melanx)](https://raw.githubusercontent.com/ChaoticTrials/ModMeta/HEAD/assets/mods/simple-backups/promo.png)\n#Werbung #Ad",
+          "published": "2022-02-25T23:11:18.870451Z",
+          "updated": "2026-01-12T19:05:18.291096Z",
+          "status": "approved",
+          "license": {
+            "id": "Apache-2.0",
+            "name": "Apache License 2.0"
+          },
+          "client_side": "optional",
+          "server_side": "optional",
+          "categories": [
+            "utility"
+          ],
+          "loaders": [
+            "forge",
+            "neoforge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/fzSKSXVK/d50c9ce03f47f141941339cf4d54f8cb6d81b6cf_96.webp",
+          "issues_url": "https://github.com/ChaoticTrials/SimpleBackups/issues",
+          "source_url": "https://github.com/ChaoticTrials/SimpleBackups",
+          "wiki_url": "https://wiki.chaotictrials.de/swl/simple-backups",
+          "discord_url": "https://discord.chaotictrials.de/",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "27zw3anx",
+          "project_id": "fzSKSXVK",
+          "author_id": "BTS0hlQy",
+          "name": "SimpleBackups-1.20.1-3.1.24.jar",
+          "version_number": "1.20.1-3.1.24",
+          "changelog": "- [Fix backups not being created due to inverted JVM disable check](https://github.com/MelanX/SimpleBackups/commit/3ad38220062c71a1096168a91eedb6dde2a796fd) - *MelanX*\n",
+          "date_published": "2026-01-12T19:05:18.291096Z",
+          "version_type": "beta",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "dcbb71212dd474e160152d12c37b807e580f5043",
+                "sha512": "d6f66009bba423f3a3e6bc01f0d0e127de4530ae41d2013bbf520d2d8ef374e021fc63f75c3ba923e8c5ddca18f40fa13f2243ac6fdcc3c7fb79247eb284f66f"
+              },
+              "url": "https://cdn.modrinth.com/data/fzSKSXVK/versions/27zw3anx/SimpleBackups-1.20.1-3.1.24.jar",
+              "filename": "SimpleBackups-1.20.1-3.1.24.jar",
+              "primary": true,
+              "size": 51010
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "3azQ6p0W",
+              "dependency_type": "optional"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge",
+            "neoforge"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1769003974175,
-    "numPlays": 30
+    "lastPlayed": 1769033675063,
+    "numPlays": 32
   },
   "id": "1.20.1",
   "complianceLevel": 1,
