@@ -23,18 +23,18 @@ function convertIngredientObj(input) {
 
   // ItemStackJS (Item.of('name', count)など) の場合
   if ('item' in input && 'count' in input) {
-    let result = {
-      count: input.count
+    let result = [];
+
+    for (let i = 0; i < input.count; i++) {
+      if (typeof input.item === 'string') {
+        result.push({ item: input.item });
+      } else {
+        // ItemStackJSオブジェクトが渡されていると仮定
+        result.push({ item: input.id.toString() });
+      }
     }
 
-    if (typeof input.item === 'string') {
-      result.item = input.item;
-    } else {
-      // ItemStackJSオブジェクトが渡されていると仮定
-      result.item = input.id.toString();
-    }
-
-    return [result];
+    return result;
   }
 
   // 文字列 ('minecraft:dirt' など) の場合
