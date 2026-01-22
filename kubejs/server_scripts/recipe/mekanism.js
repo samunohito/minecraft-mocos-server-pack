@@ -39,7 +39,8 @@ ServerEvents.recipes(event => {
       "mekanism:qio_dashboard",
       "mekanism:qio_importer",
       "mekanism:qio_exporter",
-      "mekanism:qio_redstone_adapter"
+      "mekanism:qio_redstone_adapter",
+      "mekanism:nutritional_liquifier",
     ],
   });
   event.remove({
@@ -49,6 +50,11 @@ ServerEvents.recipes(event => {
       /^mekanism:.+_tier_installer$/,
     ],
   });
+
+  event.recipes.mekanism.crushing(
+    Item.of("mekanism:bio_fuel", 1),
+    Item.of("minecraft:rotten_flesh", 2)
+  );
 
   // 難易度を上げるため、上位工場のレシピを削除して再定義する
 
