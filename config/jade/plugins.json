@@ -69,8 +69,7 @@
   },
   "apotheosis": {
     "adventure": true,
-    "ench": true,
-    "spawner": true
+    "ench": true
   },
   "functionalstorage": {
     "armory": true
@@ -95,6 +94,9 @@
     "villager": true,
     "converter": true,
     "breeder": true
+  },
+  "autoleveling": {
+    "level": true
   },
   "delightful": {
     "crop_progress": true,
