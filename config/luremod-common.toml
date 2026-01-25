@@ -1,379 +1,337 @@
 
 ["Attraction Groups"]
 
-#A list of attraction groups. Each group defines mobs and what they are lured by.
-#      Each group has:
-#     - group_id (string, required): A unique name for the group.
-#     - lure_speed (double, optional, default: 1.2): How fast mobs in this group go to the location.
-#     - search_radius (int, optional, default: 8): How far mobs in this group search for temptation.
-#     - attracted_to_blood (boolean, optional, default: false): If true, and Extra Gore is installed, mobs in this group will be attracted to blood splatters.
-#     - blood_bypasses_los (boolean, optional, default: false): If attracted_to_blood is true, this makes blood act like a "scent", detectable through walls.
-#     - mobs (list, required): A list of mobs in this group. Can specify 'id' and 'nbt'.
-#     - lured_blocks (list, required): Blocks this group are attracted to. Can specify 'id', 'states', and 'nbt' (for block entities).
-#     - lured_items (list, required): Items this group are attracted. Can specify 'id' and 'nbt'.
-#
-#
+	#A list of attraction groups. Each group defines mobs and what they are lured by.
+	#      Each group has:
+	#     - group_id (string, required): A unique name for the group.
+	#     - lure_speed (double, optional, default: 1.2): How fast mobs in this group go to the location.
+	#     - search_radius (int, optional, default: 8): How far mobs in this group search for temptation.
+	#     - attracted_to_blood (boolean, optional, default: false): If true, and Extra Gore is installed, mobs in this group will be attracted to blood splatters.
+	#     - blood_bypasses_los (boolean, optional, default: false): If attracted_to_blood is true, this makes blood act like a "scent", detectable through walls.
+	#     - mobs (list, required): A list of mobs in this group. Can specify 'id' and 'nbt'.
+	#     - lured_blocks (list, required): Blocks this group are attracted to. Can specify 'id', 'states', and 'nbt' (for block entities).
+	#     - lured_items (list, required): Items this group are attracted. Can specify 'id' and 'nbt'.
+	#
+	#
+	[["Attraction Groups".lure_groups]]
+		group_id = "lure_blood"
+		lure_speed = 1.0
+		search_radius = 10
+		attracted_to_blood = true
+		blood_bypasses_los = true
 
-[["Attraction Groups".lure_groups]]
-group_id = "lure_blood"
-lure_speed = 1.0
-search_radius = 10
-attracted_to_blood = true
-blood_bypasses_los = true
+		[["Attraction Groups".lure_groups.mobs]]
+			id = "minecraft:zombie"
 
-[["Attraction Groups".lure_groups.mobs]]
-id = "minecraft:zombie"
+		[["Attraction Groups".lure_groups.mobs]]
+			id = "minecraft:zombie_villager"
 
-[["Attraction Groups".lure_groups.mobs]]
-id = "minecraft:zombie_villager"
+		[["Attraction Groups".lure_groups.mobs]]
+			id = "minecraft:husk"
 
-[["Attraction Groups".lure_groups.mobs]]
-id = "minecraft:husk"
+		[["Attraction Groups".lure_groups.mobs]]
+			id = "minecraft:drowned"
 
-[["Attraction Groups".lure_groups.mobs]]
-id = "minecraft:drowned"
+	[["Attraction Groups".lure_groups]]
+		group_id = "lure_light"
+		lure_speed = 1.0
+		search_radius = 10
 
+		[["Attraction Groups".lure_groups.mobs]]
+			id = "minecraft:spider"
 
-[["Attraction Groups".lure_groups]]
-group_id = "lure_light"
-lure_speed = 1.0
-search_radius = 10
+		[["Attraction Groups".lure_groups.mobs]]
+			id = "minecraft:cave_spider"
 
-[["Attraction Groups".lure_groups.mobs]]
-id = "minecraft:spider"
+	[["Attraction Groups".lure_groups]]
+		group_id = "lure_easy_villagers"
+		lure_speed = 1.0
+		search_radius = 10
 
-[["Attraction Groups".lure_groups.mobs]]
-id = "minecraft:cave_spider"
+		[["Attraction Groups".lure_groups.mobs]]
+			id = "minecraft:creeper"
 
+		[["Attraction Groups".lure_groups.mobs]]
+			id = "minecraft:zombie"
 
-[["Attraction Groups".lure_groups]]
-group_id = "lure_easy_villagers"
-lure_speed = 1.0
-search_radius = 10
+		[["Attraction Groups".lure_groups.mobs]]
+			id = "minecraft:zombie_villager"
 
-[["Attraction Groups".lure_groups.mobs]]
-id = "minecraft:creeper"
+		[["Attraction Groups".lure_groups.lured_blocks]]
+			id = "easy_villagers:trader"
 
-[["Attraction Groups".lure_groups.mobs]]
-id = "minecraft:zombie"
+		[["Attraction Groups".lure_groups.lured_blocks]]
+			id = "easy_villagers:auto_trader"
 
-[["Attraction Groups".lure_groups.mobs]]
-id = "minecraft:zombie_villager"
+		[["Attraction Groups".lure_groups.lured_blocks]]
+			id = "easy_villagers:farmer"
 
-[["Attraction Groups".lure_groups.lured_blocks]]
-id = "easy_villagers:trader"
+		[["Attraction Groups".lure_groups.lured_blocks]]
+			id = "easy_villagers:breeder"
 
-[["Attraction Groups".lure_groups.lured_blocks]]
-id = "easy_villagers:auto_trader"
+		[["Attraction Groups".lure_groups.lured_blocks]]
+			id = "easy_villagers:converter"
 
-[["Attraction Groups".lure_groups.lured_blocks]]
-id = "easy_villagers:farmer"
+		[["Attraction Groups".lure_groups.lured_blocks]]
+			id = "easy_villagers:iron_farm"
 
-[["Attraction Groups".lure_groups.lured_blocks]]
-id = "easy_villagers:breeder"
+		[["Attraction Groups".lure_groups.lured_blocks]]
+			id = "easy_villagers:incubator"
 
-[["Attraction Groups".lure_groups.lured_blocks]]
-id = "easy_villagers:converter"
+	[["Attraction Groups".lure_groups]]
+		group_id = "hostile_lure_artificial"
+		lure_speed = 0.6
+		search_radius = 10
 
-[["Attraction Groups".lure_groups.lured_blocks]]
-id = "easy_villagers:iron_farm"
+		[["Attraction Groups".lure_groups.mobs]]
+			id = "minecraft:zombie"
 
-[["Attraction Groups".lure_groups.lured_blocks]]
-id = "easy_villagers:incubator"
+		[["Attraction Groups".lure_groups.mobs]]
+			id = "minecraft:skeleton"
 
+		[["Attraction Groups".lure_groups.mobs]]
+			id = "minecraft:husk"
 
-[["Attraction Groups".lure_groups]]
-group_id = "hostile_lure_artificial"
-lure_speed = 0.6
-search_radius = 10
+		[["Attraction Groups".lure_groups.mobs]]
+			id = "minecraft:stray"
 
-[["Attraction Groups".lure_groups.mobs]]
-id = "minecraft:zombie"
+		[["Attraction Groups".lure_groups.mobs]]
+			id = "minecraft:zombie_villager"
 
-[["Attraction Groups".lure_groups.mobs]]
-id = "minecraft:skeleton"
+		[["Attraction Groups".lure_groups.mobs]]
+			id = "minecraft:phantom"
 
-[["Attraction Groups".lure_groups.mobs]]
-id = "minecraft:husk"
+		[["Attraction Groups".lure_groups.mobs]]
+			id = "minecraft:drowned"
 
-[["Attraction Groups".lure_groups.mobs]]
-id = "minecraft:stray"
+		[["Attraction Groups".lure_groups.mobs]]
+			id = "minecraft:piglin"
 
-[["Attraction Groups".lure_groups.mobs]]
-id = "minecraft:zombie_villager"
+		[["Attraction Groups".lure_groups.mobs]]
+			id = "minecraft:piglin_brute"
 
-[["Attraction Groups".lure_groups.mobs]]
-id = "minecraft:phantom"
+		[["Attraction Groups".lure_groups.mobs]]
+			id = "minecraft:vindicator"
 
-[["Attraction Groups".lure_groups.mobs]]
-id = "minecraft:drowned"
+		[["Attraction Groups".lure_groups.mobs]]
+			id = "minecraft:evoker"
 
-[["Attraction Groups".lure_groups.mobs]]
-id = "minecraft:piglin"
+		[["Attraction Groups".lure_groups.mobs]]
+			id = "minecraft:illusioner"
 
-[["Attraction Groups".lure_groups.mobs]]
-id = "minecraft:piglin_brute"
+		[["Attraction Groups".lure_groups.mobs]]
+			id = "minecraft:ravager"
 
-[["Attraction Groups".lure_groups.mobs]]
-id = "minecraft:vindicator"
+		[["Attraction Groups".lure_groups.mobs]]
+			id = "minecraft:pillager"
 
-[["Attraction Groups".lure_groups.mobs]]
-id = "minecraft:evoker"
+		[["Attraction Groups".lure_groups.mobs]]
+			id = "minecraft:witch"
 
-[["Attraction Groups".lure_groups.mobs]]
-id = "minecraft:illusioner"
+		[["Attraction Groups".lure_groups.mobs]]
+			id = "minecraft:vex"
 
-[["Attraction Groups".lure_groups.mobs]]
-id = "minecraft:ravager"
+		[["Attraction Groups".lure_groups.mobs]]
+			id = "minecraft:warden"
 
-[["Attraction Groups".lure_groups.mobs]]
-id = "minecraft:pillager"
+		[["Attraction Groups".lure_groups.mobs]]
+			id = "minecraft:wither_skeleton"
 
-[["Attraction Groups".lure_groups.mobs]]
-id = "minecraft:witch"
+		[["Attraction Groups".lure_groups.mobs]]
+			id = "minecraft:slime"
 
-[["Attraction Groups".lure_groups.mobs]]
-id = "minecraft:vex"
+		[["Attraction Groups".lure_groups.mobs]]
+			id = "minecraft:creeper"
 
-[["Attraction Groups".lure_groups.mobs]]
-id = "minecraft:warden"
+		[["Attraction Groups".lure_groups.lured_blocks]]
+			id = "minecraft:torch"
 
-[["Attraction Groups".lure_groups.mobs]]
-id = "minecraft:wither_skeleton"
+		[["Attraction Groups".lure_groups.lured_blocks]]
+			id = "minecraft:redstone_torch"
 
-[["Attraction Groups".lure_groups.mobs]]
-id = "minecraft:slime"
+		[["Attraction Groups".lure_groups.lured_blocks]]
+			id = "minecraft:soul_torch"
 
-[["Attraction Groups".lure_groups.mobs]]
-id = "minecraft:creeper"
+		[["Attraction Groups".lure_groups.lured_blocks]]
+			id = "minecraft:armor_stand"
 
-[["Attraction Groups".lure_groups.lured_blocks]]
-id = "minecraft:torch"
+		[["Attraction Groups".lure_groups.lured_blocks]]
+			id = "minecraft:note_block"
 
-[["Attraction Groups".lure_groups.lured_blocks]]
-id = "minecraft:redstone_torch"
+		[["Attraction Groups".lure_groups.lured_blocks]]
+			id = "minecraft:endchanting_table"
 
-[["Attraction Groups".lure_groups.lured_blocks]]
-id = "minecraft:soul_torch"
+		[["Attraction Groups".lure_groups.lured_blocks]]
+			id = "minecraft:jukebox"
 
-[["Attraction Groups".lure_groups.lured_blocks]]
-id = "minecraft:armor_stand"
+		[["Attraction Groups".lure_groups.lured_blocks]]
+			id = "minecraft:brewing_stand"
 
-[["Attraction Groups".lure_groups.lured_blocks]]
-id = "minecraft:note_block"
+		[["Attraction Groups".lure_groups.lured_blocks]]
+			id = "minecraft:beacon"
 
-[["Attraction Groups".lure_groups.lured_blocks]]
-id = "minecraft:endchanting_table"
+		[["Attraction Groups".lure_groups.lured_blocks]]
+			id = "minecraft:lantern"
 
-[["Attraction Groups".lure_groups.lured_blocks]]
-id = "minecraft:jukebox"
+		[["Attraction Groups".lure_groups.lured_blocks]]
+			id = "minecraft:bell"
 
-[["Attraction Groups".lure_groups.lured_blocks]]
-id = "minecraft:brewing_stand"
+		[["Attraction Groups".lure_groups.lured_blocks]]
+			id = "minecraft:glowstone"
 
-[["Attraction Groups".lure_groups.lured_blocks]]
-id = "minecraft:beacon"
+		[["Attraction Groups".lure_groups.lured_blocks]]
+			id = "minecraft:sea_lantern"
 
-[["Attraction Groups".lure_groups.lured_blocks]]
-id = "minecraft:lantern"
+		[["Attraction Groups".lure_groups.lured_blocks]]
+			id = "minecraft:end_rod"
 
-[["Attraction Groups".lure_groups.lured_blocks]]
-id = "minecraft:bell"
+		[["Attraction Groups".lure_groups.lured_blocks]]
+			id = "minecraft:shroomlight"
 
-[["Attraction Groups".lure_groups.lured_blocks]]
-id = "minecraft:glowstone"
+		[["Attraction Groups".lure_groups.lured_blocks]]
+			id = "minecraft:bed"
 
-[["Attraction Groups".lure_groups.lured_blocks]]
-id = "minecraft:sea_lantern"
+		[["Attraction Groups".lure_groups.lured_blocks]]
+			id = "minecraft:furnace"
 
-[["Attraction Groups".lure_groups.lured_blocks]]
-id = "minecraft:end_rod"
+			["Attraction Groups".lure_groups.lured_blocks.states]
+				lit = "true"
 
-[["Attraction Groups".lure_groups.lured_blocks]]
-id = "minecraft:shroomlight"
+		[["Attraction Groups".lure_groups.lured_blocks]]
+			id = "minecraft:blast_furnace"
 
-[["Attraction Groups".lure_groups.lured_blocks]]
-id = "minecraft:bed"
+			["Attraction Groups".lure_groups.lured_blocks.states]
+				lit = "true"
 
-[["Attraction Groups".lure_groups.lured_blocks]]
-id = "minecraft:furnace"
+		[["Attraction Groups".lure_groups.lured_blocks]]
+			id = "minecraft:smoker"
 
-["Attraction Groups".lure_groups.lured_blocks.states]
-lit = "true"
+			["Attraction Groups".lure_groups.lured_blocks.states]
+				lit = "true"
 
-[["Attraction Groups".lure_groups.lured_blocks]]
-id = "minecraft:blast_furnace"
+		[["Attraction Groups".lure_groups.lured_blocks]]
+			id = "minecraft:respawn_anchor"
 
-["Attraction Groups".lure_groups.lured_blocks.states]
-lit = "true"
+			["Attraction Groups".lure_groups.lured_blocks.states]
+				charges = "1"
 
-[["Attraction Groups".lure_groups.lured_blocks]]
-id = "minecraft:smoker"
+		[["Attraction Groups".lure_groups.lured_blocks]]
+			id = "minecraft:respawn_anchor"
 
-["Attraction Groups".lure_groups.lured_blocks.states]
-lit = "true"
+			["Attraction Groups".lure_groups.lured_blocks.states]
+				charges = "2"
 
-[["Attraction Groups".lure_groups.lured_blocks]]
-id = "minecraft:respawn_anchor"
+		[["Attraction Groups".lure_groups.lured_blocks]]
+			id = "minecraft:respawn_anchor"
 
-["Attraction Groups".lure_groups.lured_blocks.states]
-charges = "1"
+			["Attraction Groups".lure_groups.lured_blocks.states]
+				charges = "3"
 
-[["Attraction Groups".lure_groups.lured_blocks]]
-id = "minecraft:respawn_anchor"
+		[["Attraction Groups".lure_groups.lured_blocks]]
+			id = "minecraft:respawn_anchor"
 
-["Attraction Groups".lure_groups.lured_blocks.states]
-charges = "2"
+			["Attraction Groups".lure_groups.lured_blocks.states]
+				charges = "4"
 
-[["Attraction Groups".lure_groups.lured_blocks]]
-id = "minecraft:respawn_anchor"
+		[["Attraction Groups".lure_groups.lured_blocks]]
+			id = "minecraft:campfire"
 
-["Attraction Groups".lure_groups.lured_blocks.states]
-charges = "3"
+			["Attraction Groups".lure_groups.lured_blocks.states]
+				lit = "true"
 
-[["Attraction Groups".lure_groups.lured_blocks]]
-id = "minecraft:respawn_anchor"
+		[["Attraction Groups".lure_groups.lured_blocks]]
+			id = "minecraft:soul_campfire"
 
-["Attraction Groups".lure_groups.lured_blocks.states]
-charges = "4"
+			["Attraction Groups".lure_groups.lured_blocks.states]
+				lit = "true"
 
-[["Attraction Groups".lure_groups.lured_blocks]]
-id = "minecraft:campfire"
+		[["Attraction Groups".lure_groups.lured_items]]
+			id = "minecraft:torch"
 
-["Attraction Groups".lure_groups.lured_blocks.states]
-lit = "true"
+		[["Attraction Groups".lure_groups.lured_items]]
+			id = "minecraft:redstone_torch"
 
-[["Attraction Groups".lure_groups.lured_blocks]]
-id = "minecraft:soul_campfire"
+		[["Attraction Groups".lure_groups.lured_items]]
+			id = "minecraft:soul_torch"
 
-["Attraction Groups".lure_groups.lured_blocks.states]
-lit = "true"
+		[["Attraction Groups".lure_groups.lured_items]]
+			id = "minecraft:lantern"
 
-[["Attraction Groups".lure_groups.lured_items]]
-id = "minecraft:torch"
+		[["Attraction Groups".lure_groups.lured_items]]
+			id = "minecraft:glowstone"
 
-[["Attraction Groups".lure_groups.lured_items]]
-id = "minecraft:redstone_torch"
+		[["Attraction Groups".lure_groups.lured_items]]
+			id = "minecraft:sea_lantern"
 
-[["Attraction Groups".lure_groups.lured_items]]
-id = "minecraft:soul_torch"
+		[["Attraction Groups".lure_groups.lured_items]]
+			id = "minecraft:end_rod"
 
-[["Attraction Groups".lure_groups.lured_items]]
-id = "minecraft:lantern"
+		[["Attraction Groups".lure_groups.lured_items]]
+			id = "minecraft:shroomlight"
 
-[["Attraction Groups".lure_groups.lured_items]]
-id = "minecraft:glowstone"
+		[["Attraction Groups".lure_groups.lured_items]]
+			id = "minecraft:golden_apple"
 
-[["Attraction Groups".lure_groups.lured_items]]
-id = "minecraft:sea_lantern"
+		[["Attraction Groups".lure_groups.lured_items]]
+			id = "minecraft:enchanted_golden_apple"
 
-[["Attraction Groups".lure_groups.lured_items]]
-id = "minecraft:end_rod"
+		[["Attraction Groups".lure_groups.lured_items]]
+			id = "minecraft:raw_fish"
 
-[["Attraction Groups".lure_groups.lured_items]]
-id = "minecraft:shroomlight"
+		[["Attraction Groups".lure_groups.lured_items]]
+			id = "minecraft:cooked_fish"
 
-[["Attraction Groups".lure_groups.lured_items]]
-id = "minecraft:golden_apple"
+		[["Attraction Groups".lure_groups.lured_items]]
+			id = "minecraft:fish"
 
-[["Attraction Groups".lure_groups.lured_items]]
-id = "minecraft:enchanted_golden_apple"
+		[["Attraction Groups".lure_groups.lured_items]]
+			id = "minecraft:porkchop"
 
-[["Attraction Groups".lure_groups.lured_items]]
-id = "minecraft:raw_fish"
+		[["Attraction Groups".lure_groups.lured_items]]
+			id = "minecraft:cooked_porkchop"
 
-[["Attraction Groups".lure_groups.lured_items]]
-id = "minecraft:cooked_fish"
+		[["Attraction Groups".lure_groups.lured_items]]
+			id = "minecraft:beef"
 
-[["Attraction Groups".lure_groups.lured_items]]
-id = "minecraft:fish"
+		[["Attraction Groups".lure_groups.lured_items]]
+			id = "minecraft:cooked_beef"
 
-[["Attraction Groups".lure_groups.lured_items]]
-id = "minecraft:porkchop"
+		[["Attraction Groups".lure_groups.lured_items]]
+			id = "minecraft:chicken"
 
-[["Attraction Groups".lure_groups.lured_items]]
-id = "minecraft:cooked_porkchop"
+		[["Attraction Groups".lure_groups.lured_items]]
+			id = "minecraft:cooked_chicken"
 
-[["Attraction Groups".lure_groups.lured_items]]
-id = "minecraft:beef"
+		[["Attraction Groups".lure_groups.lured_items]]
+			id = "minecraft:mutton"
 
-[["Attraction Groups".lure_groups.lured_items]]
-id = "minecraft:cooked_beef"
+		[["Attraction Groups".lure_groups.lured_items]]
+			id = "minecraft:cooked_mutton"
 
-[["Attraction Groups".lure_groups.lured_items]]
-id = "minecraft:chicken"
+		[["Attraction Groups".lure_groups.lured_items]]
+			id = "minecraft:rabbit"
 
-[["Attraction Groups".lure_groups.lured_items]]
-id = "minecraft:cooked_chicken"
-
-[["Attraction Groups".lure_groups.lured_items]]
-id = "minecraft:mutton"
-
-[["Attraction Groups".lure_groups.lured_items]]
-id = "minecraft:cooked_mutton"
-
-[["Attraction Groups".lure_groups.lured_items]]
-id = "minecraft:rabbit"
-
-[["Attraction Groups".lure_groups.lured_items]]
-id = "minecraft:cooked_rabbit"
-
-
-# [["Attraction Groups".lure_groups]]
-# group_id = "teaching_example_zombies"
-# lure_speed = 0.6
-# search_radius = 16
-
-# [["Attraction Groups".lure_groups.mobs]]
-# id = "minecraft:zombie"
-# nbt = "{Silent:1b}"
-
-# [["Attraction Groups".lure_groups.mobs]]
-# id = "minecraft:drowned"
-# custom_name = "Patches"
-
-# [["Attraction Groups".lure_groups.lured_blocks]]
-# id = "minecraft:beacon"
-
-# [["Attraction Groups".lure_groups.lured_blocks]]
-# id = "minecraft:conduit"
-
-# ["Attraction Groups".lure_groups.lured_blocks.states]
-# waterlogged = "false"
-
-# [["Attraction Groups".lure_groups.lured_blocks]]
-# id = "minecraft:spawner"
-# nbt = "{SpawnData:{entity:{id:\"minecraft:skeleton\"}}}"
-
-# [["Attraction Groups".lure_groups.lured_items]]
-# id = "minecraft:golden_apple"
-
-# [["Attraction Groups".lure_groups.lured_items]]
-# id = "minecraft:netherite_sword"
-# nbt = "{Enchantments:[{id:\"minecraft:smite\"}]}"
-
-# [["Attraction Groups".lure_groups.lured_items]]
-# id = "minecraft:paper"
-# custom_name = "Exorcism Scroll"
-
+		[["Attraction Groups".lure_groups.lured_items]]
+			id = "minecraft:cooked_rabbit"
 
 [Optimizations]
-#Range: 1 ~ 200
-scanCooldownTicks = 15
-#Range: 1 ~ 64
-playerCheckRadius = 8
-#Range: 1 ~ 64
-playerCheckVertical = 4
-#Range: 1 ~ 64
-blockCheckPlayerRadius = 32
+	#Range: 1 ~ 200
+	scanCooldownTicks = 15
+	#Range: 1 ~ 64
+	playerCheckRadius = 8
+	#Range: 1 ~ 64
+	playerCheckVertical = 4
+	#Range: 1 ~ 64
+	blockCheckPlayerRadius = 32
 
 [Integrations]
-#Settings for integration with other mods.
-#Enable to make mobs attracted to blood splatters from the Extra Gore mod. Requires Extra Gore to be installed.
-enableExtraGoreIntegration = true
-#How long (in ticks) a blood splatter will attract mobs. 20 ticks = 1 second.
-#Range: 0 ~ 72000
-bloodLureLifetimeTicks = 10
-#Multiplier for the search radius specifically for blood. E.g., 2.0 means mobs will detect blood from twice as far away as other lures.
-#Range: 1.0 ~ 5.0
-bloodSearchRadiusMultiplier = 2.0
+	#Settings for integration with other mods.
+	#Enable to make mobs attracted to blood splatters from the Extra Gore mod. Requires Extra Gore to be installed.
+	enableExtraGoreIntegration = true
+	#How long (in ticks) a blood splatter will attract mobs. 20 ticks = 1 second.
+	#Range: 0 ~ 72000
+	bloodLureLifetimeTicks = 10
+	#Multiplier for the search radius specifically for blood. E.g., 2.0 means mobs will detect blood from twice as far away as other lures.
+	#Range: 1.0 ~ 5.0
+	bloodSearchRadiusMultiplier = 2.0
+
