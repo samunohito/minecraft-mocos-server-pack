@@ -21,6 +21,9 @@ usernamecache.json
 rhino.local.properties
 .qmenu_opened.marker
 
+servers.dat
+servers.dat_old
+
 # --- Allow these (if previously ignored) ---
 !/config/
 !/kubejs/
