@@ -43078,391 +43078,6 @@
         }
       },
       {
-        "name": "Iron's Spells 'n Spellbooks",
-        "version": "v1.20.1-3.4.0.11",
-        "optional": true,
-        "file": "irons_spellbooks-1.20.1-3.4.0.11.jar",
-        "type": "mods",
-        "description": "A magic mod bringing back the classic RPG spellcasting fantasy.",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 855414,
-        "curseForgeFileId": 6970299,
-        "curseForgeProject": {
-          "id": 855414,
-          "name": "Iron's Spells 'n Spellbooks",
-          "authors": [
-            {
-              "id": 102277533,
-              "name": "Iron431",
-              "url": "https://www.curseforge.com/members/iron431"
-            },
-            {
-              "id": 104645936,
-              "name": "Sma11s",
-              "url": "https://www.curseforge.com/members/sma11s"
-            }
-          ],
-          "gameId": 432,
-          "summary": "A magic mod bringing back the classic RPG spellcasting fantasy.",
-          "categories": [
-            {
-              "name": "Magic",
-              "slug": "magic",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/magic",
-              "dateModified": "2014-05-08T17:40:24.787Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 419,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/34/635351496247862494.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Adventure and RPG",
-              "slug": "adventure-rpg",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
-              "dateModified": "2014-05-08T17:42:09.54Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 422,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Armor, Tools, and Weapons",
-              "slug": "armor-weapons-tools",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
-              "dateModified": "2014-05-08T17:44:39.057Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 434,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Mobs",
-              "slug": "world-mobs",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
-              "dateModified": "2014-05-08T17:46:59.507Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 411,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
-              "parentCategoryId": 406,
-              "classId": 6
-            },
-            {
-              "name": "Structures",
-              "slug": "world-structures",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
-              "dateModified": "2014-05-08T17:37:17.173Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 409,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
-              "parentCategoryId": 406,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 419,
-          "classId": 6,
-          "slug": "irons-spells-n-spellbooks",
-          "isFeatured": false,
-          "dateModified": "2026-01-15T03:14:56.5Z",
-          "dateCreated": "2023-04-30T09:07:03.75Z",
-          "dateReleased": "2026-01-01T01:32:45.23Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks",
-            "wikiUrl": "https://www.iron.wiki",
-            "issuesUrl": "https://github.com/iron431/Irons-Spells-n-Spellbooks/issues",
-            "sourceUrl": "https://github.com/iron431/Irons-Spells-n-Spellbooks"
-          },
-          "logo": {
-            "id": 871265,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/871/265/256/256/638288661913483053.png",
-            "title": "638288661913483053.png",
-            "url": "https://media.forgecdn.net/avatars/871/265/638288661913483053.png",
-            "modId": 855414
-          },
-          "allowModDistribution": true,
-          "screenshots": [
-            {
-              "id": 656296,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/656/296/310/172/2023-05-03_15.png",
-              "title": "Villagers love helping you make blood vials!",
-              "url": "https://media.forgecdn.net/attachments/656/296/2023-05-03_15.png",
-              "modId": 855414
-            },
-            {
-              "id": 653896,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/653/896/310/172/2023-04-28_17.png",
-              "title": "Fighting the Dead King boss",
-              "url": "https://media.forgecdn.net/attachments/653/896/2023-04-28_17.png",
-              "modId": 855414
-            },
-            {
-              "id": 653528,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/653/528/310/172/2023-04-27_19.png",
-              "title": "Pyromancer Enemy in his Mangrove Hut",
-              "url": "https://media.forgecdn.net/attachments/653/528/2023-04-27_19.png",
-              "modId": 855414
-            },
-            {
-              "id": 653526,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/653/526/310/172/2023-04-27_19.png",
-              "title": "Necromancer Patrolling a Catacombs in a Lush Cave",
-              "url": "https://media.forgecdn.net/attachments/653/526/2023-04-27_19.png",
-              "modId": 855414
-            },
-            {
-              "id": 653521,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/653/521/310/172/2023-04-27_19.png",
-              "title": "Using the Spell Wheel",
-              "url": "https://media.forgecdn.net/attachments/653/521/2023-04-27_19.png",
-              "modId": 855414
-            },
-            {
-              "id": 653515,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/653/515/310/172/2023-04-27_19.png",
-              "title": "Kitted-Out Player",
-              "url": "https://media.forgecdn.net/attachments/653/515/2023-04-27_19.png",
-              "modId": 855414
-            },
-            {
-              "id": 653485,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/653/485/310/172/jei.png",
-              "title": "JEI Support for Arcane Anvil, Scroll Forge, and Spell Descriptions",
-              "url": "https://media.forgecdn.net/attachments/653/485/jei.png",
-              "modId": 855414
-            },
-            {
-              "id": 653396,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/653/396/310/172/2023-04-27_18.png",
-              "title": "Inspecting a Spell Book",
-              "url": "https://media.forgecdn.net/attachments/653/396/2023-04-27_18.png",
-              "modId": 855414
-            },
-            {
-              "id": 653344,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/653/344/310/172/spellbooks-title-small-background.png",
-              "title": "Title",
-              "url": "https://media.forgecdn.net/attachments/653/344/spellbooks-title-small-background.png",
-              "modId": 855414
-            },
-            {
-              "id": 1132602,
-              "description": "Fire Boss",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1132/602/310/172/echo_downscale_4-png.png",
-              "title": "Fire Boss",
-              "url": "https://media.forgecdn.net/attachments/1132/602/echo_downscale_4-png.png",
-              "modId": 855414
-            },
-            {
-              "id": 1467331,
-              "description": "Eldritch Pocket Dimension",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1467/331/310/172/2026-01-14_21-13-53-png.png",
-              "title": "Discover Weird Magics",
-              "url": "https://media.forgecdn.net/attachments/1467/331/2026-01-14_21-13-53-png.png",
-              "modId": 855414
-            }
-          ],
-          "mainFileId": 7402504
-        },
-        "curseForgeFile": {
-          "id": 6970299,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "v1.20.1-3.4.0.11",
-          "fileName": "irons_spellbooks-1.20.1-3.4.0.11.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2025-09-06T20:07:45.727Z",
-          "fileLength": 8784756,
-          "dependencies": [
-            {
-              "fileId": 0,
-              "modId": 309927,
-              "relationType": 3
-            },
-            {
-              "fileId": 0,
-              "modId": 388172,
-              "relationType": 3
-            },
-            {
-              "fileId": 0,
-              "modId": 658587,
-              "relationType": 3
-            }
-          ],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 2886572348,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 3890638357,
-              "name": ".cache"
-            },
-            {
-              "fingerprint": 1335848432,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 1173401785,
-              "name": "builtin_resource_packs"
-            },
-            {
-              "fingerprint": 3901206070,
-              "name": "data"
-            },
-            {
-              "fingerprint": 3664445051,
-              "name": "io"
-            },
-            {
-              "fingerprint": 1396826385,
-              "name": "irons_spellbooks.refmap.json"
-            },
-            {
-              "fingerprint": 512701756,
-              "name": "mixins.irons_spellbooks.json"
-            },
-            {
-              "fingerprint": 2970723852,
-              "name": "pack.mcmeta"
-            },
-            {
-              "fingerprint": 4146249301,
-              "name": "spellbooks title small background low res.png"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "84e0678cdad2c007ee56fa3fef1403a612d07feb",
-              "algo": 1
-            },
-            {
-              "value": "772d419fad82558b4c2ed1753c5e07aa",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000020.0000000001",
-              "gameVersion": "1.20.1",
-              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
-              "gameVersionName": "1.20.1"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            }
-          ],
-          "gameVersions": [
-            "1.20.1",
-            "Forge"
-          ],
-          "fileFingerprint": 80104047,
-          "modId": 855414
-        },
-        "modrinthProject": {
-          "id": "s4OWxYQQ",
-          "slug": "irons-spells-n-spellbooks",
-          "project_type": "mod",
-          "team": "Xd22h5Rp",
-          "title": "Iron's Spells 'n Spellbooks",
-          "description": "A magic mod bringing back the classic RPG spellcasting fantasy. (irons spells and spellbooks)",
-          "body": "![Loader](https://img.shields.io/badge/Loader-NeoForge-ecebe6?labelColor=B446C6&amp;style=for-the-badge)![Available](https://img.shields.io/badge/Available-1.18.2%20%7C%201.19.2%20%7C%201.20.1%20%7C%201.21-ecebe6?labelColor=B446C6&style=for-the-badge)[![Discord](https://img.shields.io/discord/1104430139275743293.svg?label=&amp;logo=discord&amp;logoColor=ffffff&amp;color=7389D8&amp;labelColor=6A7EC2&amp;style=for-the-badge)](https://discord.gg/TRzEdrndM2)[![Patreon](https://shields.io/badge/-Patreon-f86754?style=for-the-badge&amp;logo=patreon&amp;logoColor=white)](https://www.patreon.com/Iron431)\n\n![Logo](https://iron431.github.io/Irons-Spellbooks-Docs/img/spellbooks-title-small-background.png)\n\nIron's Spells 'n Spellbooks introduces the classic RPG spellcasting fantasy to the game. Fight dangerous wizards, raid a plethora of structures, delve through dungeons, collect resources and spells, and find powerful magical artifacts!\n * * *\n\n## Featuring:\n- Over 100 upgradable spells\n- 2 Spellcasting Bosses\n- 9 Spellcasting Enemies/Allies/Merchants\n- 12 wizard armor sets\n- 11 randomly generated structures\n- Weapon Imbuement and Armor Upgrade Systems\n- Extensive configuration options (including per-spell settings)\n- Native compatibility with JEI, JEED, Apotheosis, Tetra, Better Combat, Patchouli, and others!\n- And much more!\n\n* * *\n## FAQ:\nQ: How do I get started with Spells 'n Spellbooks? <br>\nA: https://www.iron.wiki/progression/\n\nQ: Will there be a port to 1.20.1 (or any other versions/modloader) <br>\nA: TLDR: No. These mods are a hobby project and development for a single version takes *months* of personal commitment. However, they are open-source and open to community contributions: https://github.com/iron431/. Early access is available on Patreon (https://www.patreon.com/Iron431)\n\nQ: My Models are are broken/won’t render <br>\nA: If you have Optifine, it’s that. Optifine is meant for vanilla clients. Use the many alternatives (such as Oculus) that work with forge\n* * *\n![Tyros](https://iron.wiki/img/screenshots/echo_of_the_flamebearer.png)\n![Inscription Table](https://iron.wiki/img/screenshots/inscription_table.png)\n![Scroll Forge](https://iron.wiki/img/screenshots/scroll_forge.png)\n![Scroll Forge](https://iron.wiki/img/screenshots/structures.png)\n![Scroll Forge](https://iron.wiki/img/screenshots/magic_loot.png)\n![Scroll Forge](https://iron.wiki/img/screenshots/ancient_city_loot.png)\n* * *\n## For Developers:\n__[https://iron.wiki/developers](https://iron.wiki/developers)__\n* * *\n## Support:\n[![Patreon](https://shields.io/badge/-Patreon-f86754?style=for-the-badge&amp;logo=patreon&amp;logoColor=white)](https://www.patreon.com/Iron431)\n* * *\n[![Essential](https://iron.wiki/img/ad/essential.jpg)](https://essential.gg)\n\n[![Bisect](https://www.bisecthosting.com/partners/custom-banners/1b3bc821-298d-4efc-96d2-7dff77d7069a.png)](https://bisecthosting.com/iron)",
-          "published": "2023-05-07T16:51:17.271987Z",
-          "updated": "2026-01-07T19:43:26.177318Z",
-          "status": "approved",
-          "license": {
-            "id": "LicenseRef-All-Rights-Reserved",
-            "name": "",
-            "url": "https://github.com/iron431/Irons-Spells-n-Spellbooks#readme"
-          },
-          "client_side": "required",
-          "server_side": "required",
-          "categories": [
-            "adventure",
-            "equipment",
-            "magic"
-          ],
-          "loaders": [
-            "forge",
-            "neoforge"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/s4OWxYQQ/6a1f5c6adb434a6c56c1975af6f4fbde3ba907ff.png",
-          "issues_url": "https://github.com/iron431/Irons-Spells-n-Spellbooks/issues",
-          "source_url": "https://github.com/iron431/Irons-Spells-n-Spellbooks",
-          "wiki_url": "https://www.iron.wiki",
-          "discord_url": "https://discord.gg/TRzEdrndM2",
-          "donation_urls": [
-            {
-              "id": "patreon",
-              "platform": "Patreon",
-              "url": "https://www.patreon.com/Iron431"
-            },
-            {
-              "id": "bmac",
-              "platform": "Bmac",
-              "url": "https://www.buymeacoffee.com/iron431"
-            }
-          ],
-          "gallery": []
-        },
-        "modrinthVersion": {
-          "id": "K26TSnWZ",
-          "project_id": "s4OWxYQQ",
-          "author_id": "aeXCUa9J",
-          "name": "Iron's Spells 'n Spellbooks 1.20.1-3.4.0.11",
-          "version_number": "1.20.1-3.4.0.11",
-          "changelog": "",
-          "date_published": "2025-12-07T19:14:54.407331Z",
-          "version_type": "release",
-          "files": [
-            {
-              "hashes": {
-                "sha1": "84e0678cdad2c007ee56fa3fef1403a612d07feb",
-                "sha512": "3c8bd7d071fc5dffe33ec1e49db7996931b058393961e12757272a5b2aebcf657807e31bfb6b41374a6a190bd1efffd52c94a51f0e8e0b900736d05ff681c359"
-              },
-              "url": "https://cdn.modrinth.com/data/s4OWxYQQ/versions/K26TSnWZ/irons_spellbooks-1.20.1-3.4.0.11.jar",
-              "filename": "irons_spellbooks-1.20.1-3.4.0.11.jar",
-              "primary": true,
-              "size": 8784756
-            }
-          ],
-          "dependencies": [],
-          "game_versions": [
-            "1.20.1"
-          ],
-          "loaders": [
-            "forge"
-          ]
-        }
-      },
-      {
         "name": "Caelus API",
         "version": "caelus-forge-3.2.0+1.20.1",
         "optional": true,
@@ -59468,13 +59083,2618 @@
             "neoforge"
           ]
         }
+      },
+      {
+        "name": "Integrated Cataclysm",
+        "version": "integrated_cataclysm_forge-1.0.5+1.20.1.jar",
+        "optional": true,
+        "file": "integrated_cataclysm_forge-1.0.5+1.20.1.jar",
+        "type": "mods",
+        "description": "Overhauling L_Ender's Cataclysm structures with integration",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 1164949,
+        "curseForgeFileId": 7046903,
+        "curseForgeProject": {
+          "id": 1164949,
+          "name": "Integrated Cataclysm",
+          "authors": [
+            {
+              "id": 100087092,
+              "name": "CraisinLord",
+              "url": "https://www.curseforge.com/members/craisinlord"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Overhauling L_Ender's Cataclysm structures with integration",
+          "categories": [
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Create",
+              "slug": "create",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/create",
+              "dateModified": "2023-06-16T15:13:08.513Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 6484,
+              "iconUrl": "https://media.forgecdn.net/avatars/834/490/638225251884617502.png",
+              "parentCategoryId": 426,
+              "classId": 6
+            },
+            {
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 422,
+          "classId": 6,
+          "slug": "integrated-cataclysm",
+          "isFeatured": false,
+          "dateModified": "2025-09-29T22:05:47.783Z",
+          "dateCreated": "2025-01-15T12:07:14.907Z",
+          "dateReleased": "2025-09-29T22:01:36.55Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/integrated-cataclysm"
+          },
+          "socialLinks": [
+            {
+              "type": "2",
+              "url": "https://discord.com/invite/72a7jmc5mb"
+            }
+          ],
+          "logo": {
+            "id": 1156562,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1156/562/256/256/638724401018536100.png",
+            "title": "638724401018536100.png",
+            "url": "https://media.forgecdn.net/avatars/1156/562/638724401018536100.png",
+            "modId": 1164949
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 1067053,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1067/53/310/172/screenshot-2025-01-14-125724.png",
+              "title": "Recipe Changes",
+              "url": "https://media.forgecdn.net/attachments/1067/53/screenshot-2025-01-14-125724.png",
+              "modId": 1164949
+            },
+            {
+              "id": 1067041,
+              "description": "2025-01-13_20.14.23.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1067/41/310/172/2025-01-13_20.png",
+              "title": "Burning Arena 2",
+              "url": "https://media.forgecdn.net/attachments/1067/41/2025-01-13_20.png",
+              "modId": 1164949
+            },
+            {
+              "id": 1067030,
+              "description": "2025-01-02_20.40.23.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1067/30/310/172/2025-01-02_20.png",
+              "title": "Cursed Pyramid 1",
+              "url": "https://media.forgecdn.net/attachments/1067/30/2025-01-02_20.png",
+              "modId": 1164949
+            },
+            {
+              "id": 1067033,
+              "description": "2025-01-14_00.24.02.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1067/33/310/172/2025-01-14_00.png",
+              "title": "Ruined Citadel",
+              "url": "https://media.forgecdn.net/attachments/1067/33/2025-01-14_00.png",
+              "modId": 1164949
+            },
+            {
+              "id": 1067044,
+              "description": "2025-01-14_12.04.23.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1067/44/310/172/2025-01-14_12.png",
+              "title": "Ancient Factory 1",
+              "url": "https://media.forgecdn.net/attachments/1067/44/2025-01-14_12.png",
+              "modId": 1164949
+            },
+            {
+              "id": 1067035,
+              "description": "2025-01-14_11.57.24.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1067/35/310/172/2025-01-14_11.png",
+              "title": "Sunken City 1",
+              "url": "https://media.forgecdn.net/attachments/1067/35/2025-01-14_11.png",
+              "modId": 1164949
+            },
+            {
+              "id": 1067031,
+              "description": "2025-01-02_20.37.50.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1067/31/310/172/2025-01-02_20.png",
+              "title": "Cursed Pyramid 2",
+              "url": "https://media.forgecdn.net/attachments/1067/31/2025-01-02_20.png",
+              "modId": 1164949
+            },
+            {
+              "id": 1067040,
+              "description": "2025-01-14_11.52.28.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1067/40/310/172/2025-01-14_11.png",
+              "title": "Burning Arena 1",
+              "url": "https://media.forgecdn.net/attachments/1067/40/2025-01-14_11.png",
+              "modId": 1164949
+            },
+            {
+              "id": 1067038,
+              "description": "2025-01-14_11.57.53.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1067/38/310/172/2025-01-14_11.png",
+              "title": "Sunken City 2",
+              "url": "https://media.forgecdn.net/attachments/1067/38/2025-01-14_11.png",
+              "modId": 1164949
+            },
+            {
+              "id": 1067039,
+              "description": "2025-01-14_11.50.51.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1067/39/310/172/2025-01-14_11.png",
+              "title": "Soul Black Smith 1",
+              "url": "https://media.forgecdn.net/attachments/1067/39/2025-01-14_11.png",
+              "modId": 1164949
+            },
+            {
+              "id": 1067047,
+              "description": "2025-01-14_12.05.17.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1067/47/310/172/2025-01-14_12.png",
+              "title": "Ancient Factory 3",
+              "url": "https://media.forgecdn.net/attachments/1067/47/2025-01-14_12.png",
+              "modId": 1164949
+            },
+            {
+              "id": 1067042,
+              "description": "2025-01-14_11.52.57.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1067/42/310/172/2025-01-14_11.png",
+              "title": "Burning Arena 3",
+              "url": "https://media.forgecdn.net/attachments/1067/42/2025-01-14_11.png",
+              "modId": 1164949
+            },
+            {
+              "id": 1067045,
+              "description": "2025-01-14_12.04.41.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1067/45/310/172/2025-01-14_12.png",
+              "title": "Ancient Factory 2",
+              "url": "https://media.forgecdn.net/attachments/1067/45/2025-01-14_12.png",
+              "modId": 1164949
+            },
+            {
+              "id": 1067028,
+              "description": "int_cat_banner1.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1067/28/310/172/int_cat_banner1.png",
+              "title": "int_cat_banner1.png",
+              "url": "https://media.forgecdn.net/attachments/1067/28/int_cat_banner1.png",
+              "modId": 1164949
+            }
+          ],
+          "mainFileId": 7046903
+        },
+        "curseForgeFile": {
+          "id": 7046903,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "integrated_cataclysm_forge-1.0.5+1.20.1.jar",
+          "fileName": "integrated_cataclysm_forge-1.0.5+1.20.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-09-29T22:01:36.55Z",
+          "fileLength": 5079044,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 551586,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 412082,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 817709,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 328085,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 243121,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 450586454,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3740546671,
+              "name": "com"
+            },
+            {
+              "fingerprint": 2303465816,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2767198521,
+              "name": "data"
+            },
+            {
+              "fingerprint": 3170290379,
+              "name": "integrated_cataclysm.mixins.json"
+            },
+            {
+              "fingerprint": 1120089153,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "d0092ae1bb847ef7baef59bfa0d6bba22d264b99",
+              "algo": 1
+            },
+            {
+              "value": "f7af9a9ab591b6a717db75ed7750a1bd",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "NeoForge",
+            "1.20.1",
+            "Forge",
+            "Server"
+          ],
+          "fileFingerprint": 988422755,
+          "modId": 1164949
+        }
+      },
+      {
+        "name": "AzureLib",
+        "version": "azurelib-neo-1.20.1-3.1.3.jar",
+        "optional": true,
+        "file": "azurelib-neo-1.20.1-3.1.3.jar",
+        "type": "mods",
+        "description": "Java Minecraft mod using Bedrock models to create custom models and animations for items, blocks, entities",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 817423,
+        "curseForgeFileId": 7371538,
+        "curseForgeProject": {
+          "id": 817423,
+          "name": "AzureLib",
+          "authors": [
+            {
+              "id": 27597203,
+              "name": "AzureDoomC",
+              "url": "https://www.curseforge.com/members/azuredoomc"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Java Minecraft mod using Bedrock models to create custom models and animations for items, blocks, entities",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "azurelib",
+          "isFeatured": false,
+          "dateModified": "2025-12-24T00:15:22.96Z",
+          "dateCreated": "2023-01-24T11:01:34.88Z",
+          "dateReleased": "2025-12-24T00:11:46.26Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/azurelib",
+            "wikiUrl": "https://moddedmc.wiki/en/project/azurelib/docs",
+            "issuesUrl": "https://github.com/AzureDoom/AzureLib",
+            "sourceUrl": "https://github.com/AzureDoom/AzureLib"
+          },
+          "logo": {
+            "id": 826765,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/826/765/256/256/638213292333907530.png",
+            "title": "638213292333907530.png",
+            "url": "https://media.forgecdn.net/avatars/826/765/638213292333907530.png",
+            "modId": 817423
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 7371540
+        },
+        "curseForgeFile": {
+          "id": 7371538,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "azurelib-neo-1.20.1-3.1.3.jar",
+          "fileName": "azurelib-neo-1.20.1-3.1.3.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-12-24T00:11:25.137Z",
+          "fileLength": 1054548,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3935824812,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 179075966,
+              "name": "LICENSE_AzureLib"
+            },
+            {
+              "fingerprint": 4293283957,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1510412713,
+              "name": "azurelib.aw"
+            },
+            {
+              "fingerprint": 1027183387,
+              "name": "azurelib.forge.mixins.json"
+            },
+            {
+              "fingerprint": 1763320799,
+              "name": "azurelib.mixins.json"
+            },
+            {
+              "fingerprint": 1834172962,
+              "name": "azurelib.png"
+            },
+            {
+              "fingerprint": 465165222,
+              "name": "azurelib.refmap.json"
+            },
+            {
+              "fingerprint": 1257564164,
+              "name": "mod"
+            },
+            {
+              "fingerprint": 2969187450,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "37ba8009f7d44db5701738462acc0874e828cf8c",
+              "algo": 1
+            },
+            {
+              "value": "c500cb2d7e6791abfa9be3e5ae55b111",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            }
+          ],
+          "gameVersions": [
+            "1.20.1",
+            "Forge",
+            "NeoForge"
+          ],
+          "fileFingerprint": 1668362222,
+          "modId": 817423
+        },
+        "modrinthProject": {
+          "id": "7zlUOZvb",
+          "slug": "azurelib",
+          "project_type": "mod",
+          "team": "QhkAYHHd",
+          "title": "AzureLib",
+          "description": "Java Minecraft mod using Bedrock models to create custom models and animations for items, blocks, entities",
+          "body": "<center>\n<a href=\"https://wiki.azuredoom.com/\"> <img src=\"https://www.bisecthosting.com/images/CF/AzureLib/BH_AL_header.png\" alt=\"logo\"/> </a>\n\n<a href=\"https://azurelib.azuredoom.com/\"> <img src=\"https://img.shields.io/discord/1323813706286759946?color=red&label=Discord&logo=Discord&logoColor=red&style=for-the-badge\" alt=\"discord\"/> </a>\n</br>\n<font size=+1><b>\n<img src=\"https://www.bisecthosting.com/images/CF/AzureLib/BH_AL_about.png\" alt=\"logo\"/> \nAzureLib represents a branch derived from Geckolib 4.x, serving as an animation engine tailored for Minecraft Mods. It boasts various features, including support for intricate 3D keyframe-driven animations, over 30 different easing functions, concurrent animation capabilities, sound and particle keyframes, event-based keyframes, and numerous other functionalities. Currently, I'll focus on maintaining and supporting AzureLib; no help will be given to Geckolib.\n \n</br>\n\n</br></br>\nAre you a developer and want to use this library in your mod? Add the following to your build.gradle\n</b>\n</br>\n</br>\nFollow the steps [here](https://moddedmc.wiki/en/project/azurelib/docs).\n</br>\n</br>\n\nNeed a server to play with friends? Don't know how to setup one? Just rent an already configured server from BisectHosting!\n<a href=\"https://url-shortener.curseforge.com/z2g8c\"> <img src=\"https://www.bisecthosting.com/images/CF/AzureLib/BH_AL_promo.png\" alt=\"logo\"/> </a>\n\nClick on the picture above, select plan(at least 4GB), and use my code azuredoom to get 25% off your first month and enjoy playing with your friends!\n</font>\n</center>",
+          "published": "2023-01-24T08:01:23.547440Z",
+          "updated": "2025-12-24T00:11:46.720465Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "game-mechanics",
+            "library",
+            "utility"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge",
+            "quilt"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/7zlUOZvb/8b2cb16452c1d3bb33574519a6f5cf4ce86f13a3_96.webp",
+          "issues_url": "https://github.com/AzureDoom/AzureLib/issues",
+          "source_url": "https://github.com/AzureDoom/AzureLib",
+          "wiki_url": "https://wiki.azuredoom.com/",
+          "discord_url": "https://azurelib.azuredoom.com",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/7zlUOZvb/images/5fafb9c438c1d5759ffee5016d517f891d784ac4_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/7zlUOZvb/images/648061e53f606f4c757968ae575b82cfa5d098ab.png",
+              "featured": true,
+              "title": "Header",
+              "created": "2023-06-17T13:22:35.447209Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "A0cHpbIs",
+          "project_id": "7zlUOZvb",
+          "author_id": "eQORCpQI",
+          "name": "azurelib-neo-1.20.1-3.1.3.jar",
+          "version_number": "3.1.3",
+          "changelog": "v3.1.3\n\n***WARNING THIS IS A BREAKING CHANGE FROM 3.0.X, PLEASE ALLOW MOD DEVS TIME TO UPDATE THEIR MOD TO THIS VERSION***\n\n### Fixes\n- Fixed animation issue per https://github.com/AzureDoom/AzureLib/issues/168\n- Fixed animation cache bug.",
+          "date_published": "2025-12-24T00:11:26.495905Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "e153972e8822d01c611b7465fce283482aa681c45287f06aec62687716bf72cfcee98b9659a26ebd31144f03fe16aa69525e13a8bdbc6bcda358aaa33c9c3901",
+                "sha1": "37ba8009f7d44db5701738462acc0874e828cf8c"
+              },
+              "url": "https://cdn.modrinth.com/data/7zlUOZvb/versions/A0cHpbIs/azurelib-neo-1.20.1-3.1.3.jar",
+              "filename": "azurelib-neo-1.20.1-3.1.3.jar",
+              "primary": true,
+              "size": 1054548
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge",
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "Pehkui",
+        "version": "[1.20.1] [Forge] Pehkui 3.8.2",
+        "optional": true,
+        "file": "Pehkui-3.8.2+1.20.1-forge.jar",
+        "type": "mods",
+        "description": "Allows resizing of most entities, shrinking their scale smaller or growing their size larger",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 319596,
+        "curseForgeFileId": 5393101,
+        "curseForgeProject": {
+          "id": 319596,
+          "name": "Pehkui",
+          "authors": [
+            {
+              "id": 8571623,
+              "name": "Virtuoel",
+              "url": "https://www.curseforge.com/members/virtuoel"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Allows resizing of most entities, shrinking their scale smaller or growing their size larger",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "pehkui",
+          "isFeatured": false,
+          "dateModified": "2024-12-22T14:55:56.353Z",
+          "dateCreated": "2019-04-17T03:58:38.91Z",
+          "dateReleased": "2024-06-19T18:12:12.983Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/pehkui",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Virtuoel/Pehkui/issues",
+            "sourceUrl": "https://github.com/Virtuoel/Pehkui"
+          },
+          "logo": {
+            "id": 199987,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/199/987/256/256/636910482436953576.png",
+            "title": "636910482436953576.png",
+            "url": "https://media.forgecdn.net/avatars/199/987/636910482436953576.png",
+            "modId": 319596
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5419266
+        },
+        "curseForgeFile": {
+          "id": 5393101,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[1.20.1] [Forge] Pehkui 3.8.2",
+          "fileName": "Pehkui-3.8.2+1.20.1-forge.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2024-06-02T17:02:54.6Z",
+          "fileLength": 671605,
+          "dependencies": [],
+          "alternateFileId": 5393102,
+          "modules": [
+            {
+              "fingerprint": 1479886584,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 674619773,
+              "name": "LICENSE"
+            },
+            {
+              "fingerprint": 4283397933,
+              "name": "Pehkui-refmap.json"
+            },
+            {
+              "fingerprint": 3613543170,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 417903757,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 1673454095,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 411696918,
+              "name": "pehkui.mixins.json"
+            },
+            {
+              "fingerprint": 1051147518,
+              "name": "pehkui_icon.png"
+            },
+            {
+              "fingerprint": 4014164694,
+              "name": "virtuoel"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "4bc816efdd8e5e2a97423313674401351710e403",
+              "algo": 1
+            },
+            {
+              "value": "95bdd5558d34044f54aab0ce292e679b",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "NeoForge",
+            "1.20.1",
+            "Forge"
+          ],
+          "fileFingerprint": 3398908649,
+          "modId": 319596
+        },
+        "modrinthProject": {
+          "id": "t5W7Jfwy",
+          "slug": "pehkui",
+          "project_type": "mod",
+          "team": "qgpXhvkY",
+          "title": "Pehkui",
+          "description": "Lets you change the size of most entities, shrinking their scale smaller or growing them larger",
+          "body": "&nbsp;  \nThis mod allows for most entities to have their size changed, either enlarging or shrinking them.  \n&nbsp;  \nIt also provides an API that other mods can make use of to manipulate the size of entities and the time it takes for their size to change.  \n&nbsp;  \n&nbsp;  \nThe Quilt/Fabric version is the actively supported version and will receive features, updates, and fixes first. The NeoForge and Forge versions are not supported as actively.  \n&nbsp;  \n&nbsp;  \nFor the ***Quilt/Fabric*** version, the ***most recently released jar*** can be used on: ***1.21, 1.20.6, 1.20.4, 1.20.2, 1.20.1, 1.19.4, 1.19.2, 1.18.2, 1.17.1, 1.16.5, 1.15.2, and 1.14.4***.  \nFor the ***NeoForge*** version, there are ***separate jars*** for each supported Minecraft version. Those jars are for: ***1.21, 1.20.6, 1.20.4, and 1.20.2***.  \nFor the ***Forge*** version, there are ***separate jars*** for each supported Minecraft version. Those jars are for: ***1.20.1, 1.19.4, 1.19.2, 1.18.2, 1.17.1, and 1.16.5***.  \n&nbsp;  \n&nbsp;  \nRemoving this mod will revert entities back to their normal size. Adding it back in will ***not*** restore their size.  \n&nbsp;  \n&nbsp;  \nIf you have no mods that add ways to rescale entities, you can modify and view the scale and scaling delay of an entity in-game using the `/scale` command if you have operator permissions:  \n&nbsp;  \n`/scale set <value> [<entity>]`  \n`/scale set <scale_type> <value> [<entity>]`  \n`/scale (add|subtract|multiply|divide) <value> [<entity>]`  \n`/scale (add|subtract|multiply|divide) <scale_type> <value> [<entity>]`  \n`/scale get [<entity>]`  \n`/scale get <scale_type> [<entity>]`  \n`/scale compute <scale_type> [<entity>]`  \n`/scale delay set <ticks> [<entity>]`  \n`/scale delay set <scale_type> <ticks> [<entity>]`  \n`/scale delay get [<entity>]`  \n`/scale delay get <scale_type> [<entity>]`  \n`/scale reset [<entity>]`  \n`/scale reset <scale_type> [<entity>]`  \n`/scale nbt get [<entity>]`  \n&nbsp;  \n&nbsp;  \nIf you want your scale to persist after you respawn, there's a `/scale` subcommand for that as well:  \n&nbsp;  \n`/scale persist set (true|false) [<entity>]`  \n`/scale persist set <scale_type> (true|false) [<entity>]`  \n`/scale persist get <scale_type> [<entity>]`  \n`/scale persist reset [<entity>]`  \n`/scale persist reset <scale_type> [<entity>]`  \n&nbsp;  \n&nbsp;  \nThe following scale types are added by default:  \n&nbsp;  \n`pehkui:base`: Generic scale type for easily affecting other scales  \n`pehkui:width`: Modifies width/length/depth (affected by `pehkui:base`)  \n`pehkui:height`: Modifies height (affected by `pehkui:base`)  \n`pehkui:hitbox_width`: Modifies width/length/depth of an entity's hitbox (affected by `pehkui:width`)  \n`pehkui:hitbox_height`: Modifies height of an entity's hitbox (affected by `pehkui:height`)  \n`pehkui:eye_height`: Modifies height of an entity's eye position (affected by `pehkui:height`)  \n`pehkui:model_width`: Modifies width/length/depth of an entity's model (affected by `pehkui:width`)  \n`pehkui:model_height`: Modifies height of an entity's model (affected by `pehkui:height`)  \n`pehkui:third_person`: Modifies player third person camera distance (affected by `pehkui:height`)  \n`pehkui:motion`: Modifies movement speed (affected by `pehkui:base`)  \n`pehkui:step_height`: Modifies step height (e.g. walking up slabs, stairs, snow) (affected by `pehkui:motion`)  \n`pehkui:view_bobbing`: Modifies view bobbing (affected by `pehkui:motion`)  \n`pehkui:falling`: Modifies fall damage (affected by `pehkui:motion`)  \n`pehkui:flight`: Modifies creative mode flight speed  \n`pehkui:jump_height`: Modifies jump height  \n`pehkui:visibility`: Modifies distance at which this entity will be targeted by enemies (affected by `pehkui:base`)  \n`pehkui:reach`: Modifies player reach distance (affected by `pehkui:base`)  \n`pehkui:block_reach`: Modifies player block reach distance (affected by `pehkui:reach`)  \n`pehkui:entity_reach`: Modifies player attack reach distance (affected by `pehkui:reach`)  \n`pehkui:held_item`: Modifies the scale of held items  \n`pehkui:drops`: Modifies the scale of dropped items (affected by `pehkui:base`)  \n`pehkui:projectiles`: Modifies the scale of thrown/shot projectiles (affected by `pehkui:base`)  \n`pehkui:explosions`: Modifies the size of the entity's explosion (e.g. Creepers, End Crystals) (affected by `pehkui:base`)  \n`pehkui:attack`: Modifies damage dealt  \n`pehkui:defense`: Modifies damage taken  \n`pehkui:knockback`: Modifies knockback dealt  \n`pehkui:health`: Modifies an entity's health  \n`pehkui:mining_speed`: Modifies block breaking speed  \n`pehkui:attack_speed`: Modifies attack speed  ",
+          "published": "2020-12-08T14:49:03.334837Z",
+          "updated": "2024-06-19T18:12:21.239809Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "game-mechanics",
+            "library"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge",
+            "quilt"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/t5W7Jfwy/icon.png",
+          "issues_url": "https://github.com/Virtuoel/Pehkui/issues",
+          "source_url": "https://github.com/Virtuoel/Pehkui",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "SQpqSgAE",
+          "project_id": "t5W7Jfwy",
+          "author_id": "YhlTas1g",
+          "name": "Pehkui 3.8.2",
+          "version_number": "3.8.2+1.20.1-forge",
+          "changelog": "Additions:  \nEntities with increased scales are now listed in watchdog-related crash reports.  \nOptional java property -Dpehkui.disableThreadSafety=true to disable threaded scale code. May improve performance at the cost of multithreaded stability.  \n&nbsp;  \nBugfixes:  \nN/A  \n&nbsp;  \nChanges:  \nN/A  \n&nbsp;  \nRemovals:  \nN/A  \n&nbsp;  \nLast successfully tested on:  \nMinecraft version `1.20.1`  \nNeoForge `1.20.1-47.1.106`  \nForge `1.20.1-47.1.3`  \nYarn mappings `1.20.1+build.10`  \n",
+          "date_published": "2024-06-02T17:03:04.585606Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "4bc816efdd8e5e2a97423313674401351710e403",
+                "sha512": "e4660f0b5af6bfe2902ab39a6fbfa911856e0567bffc47842b482731da373afa4424b9e7cf47c61a0c2107445520475053709a6671d9eb4b7f4b55597729af3f"
+              },
+              "url": "https://cdn.modrinth.com/data/t5W7Jfwy/versions/SQpqSgAE/Pehkui-3.8.2%2B1.20.1-forge.jar",
+              "filename": "Pehkui-3.8.2+1.20.1-forge.jar",
+              "primary": true,
+              "size": 671605
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge",
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "Attributizer",
+        "version": "attributizer-3.1.jar",
+        "optional": true,
+        "file": "attributizer-3.1.jar",
+        "type": "mods",
+        "description": "json-defined custom item and mob attributes, now with Curios support",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 838573,
+        "curseForgeFileId": 7004542,
+        "curseForgeProject": {
+          "id": 838573,
+          "name": "Attributizer",
+          "authors": [
+            {
+              "id": 9793267,
+              "name": "TheRealJackiecrazy",
+              "url": "https://www.curseforge.com/members/therealjackiecrazy"
+            }
+          ],
+          "gameId": 432,
+          "summary": "json-defined custom item and mob attributes, now with Curios support",
+          "categories": [
+            {
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Mobs",
+              "slug": "world-mobs",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
+              "dateModified": "2014-05-08T17:46:59.507Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 411,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 5191,
+          "classId": 6,
+          "slug": "attributizer",
+          "isFeatured": false,
+          "dateModified": "2025-09-16T23:52:02.507Z",
+          "dateCreated": "2023-03-20T10:13:59.87Z",
+          "dateReleased": "2025-09-16T23:49:37.253Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/attributizer",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Jackiecrazy/attributizer/issues",
+            "sourceUrl": "https://github.com/Jackiecrazy/attributizer"
+          },
+          "logo": {
+            "id": 790681,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/790/681/256/256/638146217364525488.png",
+            "title": "638146217364525488.png",
+            "url": "https://media.forgecdn.net/avatars/790/681/638146217364525488.png",
+            "modId": 838573
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 7004542
+        },
+        "curseForgeFile": {
+          "id": 7004542,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "attributizer-3.1.jar",
+          "fileName": "attributizer-3.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-09-16T23:49:37.253Z",
+          "fileLength": 64264,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3328581672,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 651117847,
+              "name": "jackiecrazy"
+            },
+            {
+              "fingerprint": 2118013663,
+              "name": "data"
+            },
+            {
+              "fingerprint": 2305171440,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "c6a43bb40d8359bff53d6e643564bf25b71522c3",
+              "algo": 1
+            },
+            {
+              "value": "9da9f45bb3eed4c45808e31fbc8bb6cc",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "NeoForge",
+            "1.20.1",
+            "Forge",
+            "Server"
+          ],
+          "fileFingerprint": 63885764,
+          "modId": 838573
+        }
+      },
+      {
+        "name": "Cataclysm Apotheosis Addon (update stop)",
+        "version": "cataclysm_ut_lite-AT - 1.20.1.jar",
+        "optional": true,
+        "file": "cataclysm_ut_lite-AT - 1.20.1.jar",
+        "type": "mods",
+        "description": "More powerful legendary big boss! And much more.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 1009804,
+        "curseForgeFileId": 7094167,
+        "curseForgeProject": {
+          "id": 1009804,
+          "name": "Cataclysm Apotheosis Addon (update stop)",
+          "authors": [
+            {
+              "id": 105101081,
+              "name": "karaagedesu_",
+              "url": "https://www.curseforge.com/members/karaagedesu_"
+            }
+          ],
+          "gameId": 432,
+          "summary": "More powerful legendary big boss! And much more.",
+          "categories": [
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Mobs",
+              "slug": "world-mobs",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
+              "dateModified": "2014-05-08T17:46:59.507Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 411,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 426,
+          "classId": 6,
+          "slug": "cataclysm-apotheosis-addon",
+          "isFeatured": false,
+          "dateModified": "2025-10-11T10:59:30.167Z",
+          "dateCreated": "2024-04-28T07:41:25.907Z",
+          "dateReleased": "2025-10-11T10:56:18.96Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/cataclysm-apotheosis-addon"
+          },
+          "logo": {
+            "id": 987241,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/987/241/256/256/638498180947553506.png",
+            "title": "638498180947553506.png",
+            "url": "https://media.forgecdn.net/avatars/987/241/638498180947553506.png",
+            "modId": 1009804
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 6250451
+        },
+        "curseForgeFile": {
+          "id": 7094167,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "cataclysm_ut_lite-AT - 1.20.1.jar",
+          "fileName": "cataclysm_ut_lite-AT - 1.20.1.jar",
+          "releaseType": 3,
+          "fileStatus": 4,
+          "fileDate": "2025-10-11T10:56:18.96Z",
+          "fileLength": 1020938,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 1101113,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 319596,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 838573,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 898963,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 551586,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 4201165524,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1738251332,
+              "name": "data"
+            },
+            {
+              "fingerprint": 188647226,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3805956967,
+              "name": "net"
+            },
+            {
+              "fingerprint": 3888393594,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "f63f6463cea3add1418351264f8350e28e0e4d51",
+              "algo": 1
+            },
+            {
+              "value": "7ed2c12da4b761ed222551b6d3e999e0",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "1.20.1",
+            "Forge",
+            "Server"
+          ],
+          "fileFingerprint": 1319022165,
+          "modId": 1009804
+        }
+      },
+      {
+        "name": "Cataclysm Weaponery",
+        "version": "CataclysmWeaponery2.0-1.20.1.jar",
+        "optional": true,
+        "file": "CataclysmWeaponery2.0-1.20.1.jar",
+        "type": "mods",
+        "description": "An addon that adds new ignitium tools and weapons for L_Ender's Cataclysm mod",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 792975,
+        "curseForgeFileId": 4960555,
+        "curseForgeProject": {
+          "id": 792975,
+          "name": "Cataclysm Weaponery",
+          "authors": [
+            {
+              "id": 101162356,
+              "name": "eyezlevrai",
+              "url": "https://www.curseforge.com/members/eyezlevrai"
+            }
+          ],
+          "gameId": 432,
+          "summary": "An addon that adds new ignitium tools and weapons for L_Ender's Cataclysm mod",
+          "categories": [
+            {
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "MCreator",
+              "slug": "mc-creator",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-creator",
+              "dateModified": "2021-05-10T11:13:12.27Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 4906,
+              "iconUrl": "https://media.forgecdn.net/avatars/380/489/637562419922532076.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 426,
+          "classId": 6,
+          "slug": "cataclysmweaponery",
+          "isFeatured": false,
+          "dateModified": "2025-05-08T16:19:21.463Z",
+          "dateCreated": "2023-02-01T09:03:27.937Z",
+          "dateReleased": "2025-03-30T13:12:35.713Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/cataclysmweaponery",
+            "wikiUrl": ""
+          },
+          "logo": {
+            "id": 920086,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/920/86/256/256/638383175008373501.png",
+            "title": "638383175008373501.png",
+            "url": "https://media.forgecdn.net/avatars/920/86/638383175008373501.png",
+            "modId": 792975
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 1143292,
+              "description": "Sword crafting recipe.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1143/292/310/172/sword-crafting-recipe-png.png",
+              "title": "Sword",
+              "url": "https://media.forgecdn.net/attachments/1143/292/sword-crafting-recipe-png.png",
+              "modId": 792975
+            },
+            {
+              "id": 1143298,
+              "description": "Pickaxe crafting recipe.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1143/298/310/172/pickaxe-crafting-recipe-png.png",
+              "title": "Pickaxe",
+              "url": "https://media.forgecdn.net/attachments/1143/298/pickaxe-crafting-recipe-png.png",
+              "modId": 792975
+            },
+            {
+              "id": 1143288,
+              "description": "Axe crafting recipe.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1143/288/310/172/axe-crafting-recipe-png.png",
+              "title": "Axe",
+              "url": "https://media.forgecdn.net/attachments/1143/288/axe-crafting-recipe-png.png",
+              "modId": 792975
+            },
+            {
+              "id": 1143291,
+              "description": "Shovel crafting recipe.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1143/291/310/172/shovel-crafting-recipe-png.png",
+              "title": "Shovel",
+              "url": "https://media.forgecdn.net/attachments/1143/291/shovel-crafting-recipe-png.png",
+              "modId": 792975
+            },
+            {
+              "id": 1143289,
+              "description": "Hoe crafting recipe.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1143/289/310/172/hoe-crafting-recipe-png.png",
+              "title": "Hoe",
+              "url": "https://media.forgecdn.net/attachments/1143/289/hoe-crafting-recipe-png.png",
+              "modId": 792975
+            },
+            {
+              "id": 775325,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/775/325/310/172/cataclysm-weaponery-2.PNG",
+              "title": "Old sword",
+              "url": "https://media.forgecdn.net/attachments/775/325/cataclysm-weaponery-2.PNG",
+              "modId": 792975
+            },
+            {
+              "id": 775326,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/775/326/310/172/cataclysm-weaponery-2.PNG",
+              "title": "Old pickaxe",
+              "url": "https://media.forgecdn.net/attachments/775/326/cataclysm-weaponery-2.PNG",
+              "modId": 792975
+            },
+            {
+              "id": 775327,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/775/327/310/172/cataclysm-weaponery-2.PNG",
+              "title": "Old axe",
+              "url": "https://media.forgecdn.net/attachments/775/327/cataclysm-weaponery-2.PNG",
+              "modId": 792975
+            },
+            {
+              "id": 775328,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/775/328/310/172/cataclysm-weaponery-2.PNG",
+              "title": "Old shovel",
+              "url": "https://media.forgecdn.net/attachments/775/328/cataclysm-weaponery-2.PNG",
+              "modId": 792975
+            },
+            {
+              "id": 775329,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/775/329/310/172/cataclysm-weaponery-2.PNG",
+              "title": "Old hoe",
+              "url": "https://media.forgecdn.net/attachments/775/329/cataclysm-weaponery-2.PNG",
+              "modId": 792975
+            }
+          ],
+          "mainFileId": 4960555
+        },
+        "curseForgeFile": {
+          "id": 4960555,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "CataclysmWeaponery2.0-1.20.1.jar",
+          "fileName": "CataclysmWeaponery2.0-1.20.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-12-16T10:17:06.553Z",
+          "fileLength": 41637,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 551586,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 732831897,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 17530418,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2865737958,
+              "name": "data"
+            },
+            {
+              "fingerprint": 3881871336,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 2204834527,
+              "name": "net"
+            },
+            {
+              "fingerprint": 1064346816,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "333dfefa2885966000bcd5a883962cb8ce2ed986",
+              "algo": 1
+            },
+            {
+              "value": "408069da8a091e4e91d9aa30348134d8",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "1.20.1",
+            "Forge",
+            "1.20",
+            "Server"
+          ],
+          "fileFingerprint": 880341699,
+          "modId": 792975
+        },
+        "modrinthProject": {
+          "id": "S5OkaSK0",
+          "slug": "cataclysm-weaponery",
+          "project_type": "mod",
+          "team": "kN5kfZX3",
+          "title": "Cataclysm Weaponery",
+          "description": "New ignitium weapons for L_Ender's Cataclysm mod",
+          "body": "![Cataclysm Weaponery Logo](https://imgur.com/56eunZh.png)\n\nNew ignitium weapons for L_Ender's Cataclysm mod\n\nRequirement : **[L_Ender's Cataclysm]([https://www.curseforge.com/minecraft/mc-mods/l_ender-s-cataclysm](https://modrinth.com/mod/l_enders-cataclysm(cataclysm)))** mod is required in order to use this addon !\n\nThis mod adds new craftable weapons for Ignitium ore in the game, such as a sword, a pickaxe, ...\n\nIn the 3.0.0 update, we added 3D models for the weapons, take a look :\n\n![https://i.imgur.com/tcoD4tL.gif](https://i.imgur.com/tcoD4tL.gif)\n\n**Here some in-game pictures of the recipe :**\n\n![Ignitium Sword](https://i.imgur.com/fTHHwi9.png)\n\n![Ignitium Pickaxe](https://i.imgur.com/qL1EuZp.png)\n\n![Ignitium Axe](https://i.imgur.com/FCXRJvV.png)\n\n![Ignitium Shovel](https://i.imgur.com/CV9GdSV.png)\n\n![Ignitium Hoe](https://i.imgur.com/OcRPHDj.png)\n\n**The addon is _now available_ on Aternos servers !**",
+          "published": "2023-06-21T08:13:14.255466Z",
+          "updated": "2025-03-30T13:23:39.177883Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": ""
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "adventure",
+            "equipment"
+          ],
+          "loaders": [
+            "forge",
+            "neoforge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/S5OkaSK0/0059493211617bbbb62b304a8efabd8811183946_96.webp",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/S5OkaSK0/images/f4ecd7d2121d446c610d249d2014c631d7d349ab.png",
+              "raw_url": "https://cdn.modrinth.com/data/S5OkaSK0/images/f4ecd7d2121d446c610d249d2014c631d7d349ab.png",
+              "featured": false,
+              "title": "New sword craft",
+              "created": "2025-03-30T13:24:30.372603Z",
+              "ordering": -1.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/S5OkaSK0/images/43f82c2121744cecaf2c7f088aac83904b6fad1b.png",
+              "raw_url": "https://cdn.modrinth.com/data/S5OkaSK0/images/43f82c2121744cecaf2c7f088aac83904b6fad1b.png",
+              "featured": false,
+              "title": "New pickaxe craft",
+              "created": "2025-03-30T13:25:31.359446Z",
+              "ordering": 1.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/S5OkaSK0/images/3cfb3b95ee549dd0805174bc998d9d615f39f0b0.png",
+              "raw_url": "https://cdn.modrinth.com/data/S5OkaSK0/images/3cfb3b95ee549dd0805174bc998d9d615f39f0b0.png",
+              "featured": false,
+              "title": "New axe craft",
+              "created": "2025-03-30T13:25:42.450855Z",
+              "ordering": 2.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/S5OkaSK0/images/362e360e15e788ea0097a00ca4485ace1c97af43.png",
+              "raw_url": "https://cdn.modrinth.com/data/S5OkaSK0/images/362e360e15e788ea0097a00ca4485ace1c97af43.png",
+              "featured": false,
+              "title": "New shovel craft",
+              "created": "2025-03-30T13:27:09.600357Z",
+              "ordering": 3.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/S5OkaSK0/images/e2ed4a15a0c3b593532607064f66663d827fe687.png",
+              "raw_url": "https://cdn.modrinth.com/data/S5OkaSK0/images/e2ed4a15a0c3b593532607064f66663d827fe687.png",
+              "featured": false,
+              "title": "New hoe craft",
+              "created": "2025-03-30T13:27:22.017231Z",
+              "ordering": 4.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/S5OkaSK0/images/0ec4e76fc4c746a4fba055683f65a8248350a1fe.png",
+              "raw_url": "https://cdn.modrinth.com/data/S5OkaSK0/images/0ec4e76fc4c746a4fba055683f65a8248350a1fe.png",
+              "featured": true,
+              "title": "Old sword recipe",
+              "created": "2023-06-25T13:10:52.013717Z",
+              "ordering": 5.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/S5OkaSK0/images/6ac824bdfd5f877f72ddf1700cf8779ae7b40a14.png",
+              "raw_url": "https://cdn.modrinth.com/data/S5OkaSK0/images/6ac824bdfd5f877f72ddf1700cf8779ae7b40a14.png",
+              "featured": false,
+              "title": "Old pickaxe recipe",
+              "created": "2023-06-25T13:11:06.824937Z",
+              "ordering": 6.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/S5OkaSK0/images/b4760d511ba17fc7f2f0454d6aae7f14f1317c4b.png",
+              "raw_url": "https://cdn.modrinth.com/data/S5OkaSK0/images/b4760d511ba17fc7f2f0454d6aae7f14f1317c4b.png",
+              "featured": false,
+              "title": "Old axe recipe",
+              "created": "2023-06-25T13:11:20.232441Z",
+              "ordering": 7.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/S5OkaSK0/images/3babf408598762f30f5394ca6414babc4ac0feee.png",
+              "raw_url": "https://cdn.modrinth.com/data/S5OkaSK0/images/3babf408598762f30f5394ca6414babc4ac0feee.png",
+              "featured": false,
+              "title": "Old shovel recipe",
+              "created": "2023-06-25T13:11:36.892973Z",
+              "ordering": 8.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/S5OkaSK0/images/591969f06c24df10b8f8dd7ebc5d290504a9dc97.png",
+              "raw_url": "https://cdn.modrinth.com/data/S5OkaSK0/images/591969f06c24df10b8f8dd7ebc5d290504a9dc97.png",
+              "featured": false,
+              "title": "Old hoe recipe",
+              "created": "2023-06-25T13:11:52.938943Z",
+              "ordering": 9.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "wQGRipgG",
+          "project_id": "S5OkaSK0",
+          "author_id": "LrZmNlXU",
+          "name": "Cataclysm Weaponery 2.0 1.20.1",
+          "version_number": "2.0",
+          "changelog": "2.0 update",
+          "date_published": "2024-04-07T17:41:04.110152Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "333dfefa2885966000bcd5a883962cb8ce2ed986",
+                "sha512": "5beeefb11895f7f5eee8141e2fc71038868ceff27370af430a1a1fee6cbf134ea78ac2bd401175e85a9c703d2535fcb56a1a0af72cf480770c45faadef2d3aa7"
+              },
+              "url": "https://cdn.modrinth.com/data/S5OkaSK0/versions/wQGRipgG/CataclysmWeaponery2.0-1.20.1.jar",
+              "filename": "CataclysmWeaponery2.0-1.20.1.jar",
+              "primary": true,
+              "size": 41637
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
+      },
+      {
+        "name": "Item & Block Attraction",
+        "version": "Item & Block Attraction - 1.20.1 - 3.0.1",
+        "optional": true,
+        "file": "luremod-3.0.1.jar",
+        "type": "mods",
+        "description": "This mod allows specific mobs to be attracted to certain blocks or items held by players. Configurable in a .toml file, you can customize which mobs, blocks, and items act as lures, along with search radius and stop distance for optimized performance",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 1212970,
+        "curseForgeFileId": 7189021,
+        "curseForgeProject": {
+          "id": 1212970,
+          "name": "Item & Block Attraction",
+          "authors": [
+            {
+              "id": 103783667,
+              "name": "Sylsatra",
+              "url": "https://www.curseforge.com/members/sylsatra"
+            }
+          ],
+          "gameId": 432,
+          "summary": "This mod allows specific mobs to be attracted to certain blocks or items held by players. Configurable in a .toml file, you can customize which mobs, blocks, and items act as lures, along with search radius and stop distance for optimized performance",
+          "categories": [
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Mobs",
+              "slug": "world-mobs",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
+              "dateModified": "2014-05-08T17:46:59.507Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 411,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Mobs",
+              "slug": "world-mobs",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
+              "dateModified": "2014-05-08T17:46:59.507Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 411,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 5191,
+          "classId": 6,
+          "slug": "attract-to-item-and-block",
+          "isFeatured": false,
+          "dateModified": "2025-11-05T13:53:17.937Z",
+          "dateCreated": "2025-03-04T14:51:13.173Z",
+          "dateReleased": "2025-11-05T13:51:51.457Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/attract-to-item-and-block",
+            "wikiUrl": "https://stubbily-stereographical-mandie.ngrok-free.app/docs",
+            "sourceUrl": "https://github.com/Sylsatra/lured_into_fire_mod"
+          },
+          "logo": {
+            "id": 1338850,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1338/850/256/256/638870260394339146.png",
+            "title": "638870260394339146.png",
+            "url": "https://media.forgecdn.net/avatars/1338/850/638870260394339146.png",
+            "modId": 1212970
+          },
+          "allowModDistribution": false,
+          "screenshots": [],
+          "mainFileId": 7189021
+        },
+        "curseForgeFile": {
+          "id": 7189021,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Item & Block Attraction - 1.20.1 - 3.0.1",
+          "fileName": "luremod-3.0.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-11-05T13:51:51.457Z",
+          "fileLength": 38739,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 1281049,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 1212919,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 1213051,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 678295,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 218683247,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2289649579,
+              "name": "com"
+            },
+            {
+              "fingerprint": 436341880,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "f404511e1b7a18a8efd5c93d6d7c4da13e59b09c",
+              "algo": 1
+            },
+            {
+              "value": "3c1d641839fa6b5ed0509c04daa2e1af",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "1.20.1",
+            "Forge",
+            "Server"
+          ],
+          "fileFingerprint": 162993440,
+          "modId": 1212970
+        },
+        "modrinthProject": {
+          "id": "hwak8tA1",
+          "slug": "attract-to-item-and-block",
+          "project_type": "mod",
+          "team": "Ks5eN1cG",
+          "title": "Item & Block Attraction",
+          "description": "This mod allows specific mobs to be attracted to certain blocks or items held by players. Configurable in a .toml file, you can customize which mobs, blocks, and items act as lures, along with search radius and stop distance for optimized performance",
+          "body": "***\n\n# **<span style=\"color:#E67E23;\">Lure of Anything</span>**\n\n### **Customize Mob AI to make any mob attracted to any item, block, or player. The ultimate tool for mob farming, automated herding, and decoy-based defense. Server-side, lightweight, and fully configurable.**\n\n***\n\n## Total Control Over Mob AI. You Decide What They're Drawn To.\n\nEver wished you could <span style=\"color:#B96AD9;\">guide</span> mobs exactly where you want them? What if you could turn any item into a powerful beacon, or any block into an irresistible bait? From the creator of *Fear of Anything*, **Lure of Anything** is its powerful counterpart, giving you complete control over mob attraction.\n\nThis server-side mod allows you to create attraction rules for **any mob** in the game, including those from other mods. Make Zombies swarm a block of gold, guide animals to a pen using a specific flower, or lure a powerful modded boss into a trap with a custom-named item. With support for NBT data and block states, the possibilities for hyper-efficient farms, creative automation, and strategic gameplay are truly limitless.\n\n***\n\n## Key Features\n\n*   🧠 **Customizable Mob AI:** The core of the mod. Gain precise control over mob pathfinding by defining what attracts them. A game-changer for technical players and modpack creators.\n*   🎯 **Target Any Mob (with <span style=\"color:#3498DB;\">NBT Support</span>):** Add any mob from vanilla or mods to an attraction group. Lure all skeletons, or only skeletons holding a specific enchanted bow.\n*   🗡️ **Lure of Items (with <span style=\"color:#3498DB;\">NBT Support</span>):** Make mobs hunt for a player holding an item, or pathfind towards an item on the ground. This includes modded items and NBT data, allowing you to create things like a \"Zombie-Calling Bell.\"\n*   🧱 **Lure of Blocks (with <span style=\"color:#3498DB;\">Block State Support</span>):** Designate any block as a lure. The system can check for specific block states, allowing you to create a lure that only activates when a lever is `powered:true`.\n*   ⚙️ **Simple TOML Configuration:** All rules are created in an easy-to-edit `.toml` config file. This makes configuration incredibly flexible and straightforward for server owners and pack makers.\n*   🚀 **<span style=\"color:#2ECC71;\">Server-Side</span> & Lightweight:** The mod runs entirely on the server, so players don't need to install it. The AI checks are highly optimized for minimal performance impact, ensuring a smooth experience on any server.\n\n***\n\n## What Will You Create?\n\nThis is a sandbox for your creativity. Here are just a few ideas:\n\n*   **Hyper-Efficient Mob Farms:** Forget waiting for mobs to wander into your grinder. Use a single block as bait to pull every mob in a huge radius directly into your collection system for maximum efficiency.\n*   **Precise Mob Herding:** Guide Creepers away from your base with a decoy block, or lead a group of sheep into a pen for shearing using a specific \"shepherd's block.\"\n*   **Decoy-Based Defense:** Instead of walls, build traps! Place a \"lure block\" in the center of a pit or lava moat and watch as mobs willingly march to their doom.\n*   **Adventure Map & Quest Design:** Create a quest where the player must find a \"Sacred Conch\" to lure a powerful sea monster out of its temple to retrieve a key.\n*   **Automated Taming & Breeding:** Place an animal's favorite food as a block (e.g., a \"Hay Bale Lure\" for cows) to automatically attract them into a breeding pen from the wild.\n\n***\n\n### FAQ\n\n**Q: How do I configure the mobs and their lures?**\nA: All configuration is done using the **config file**. You'll edit the mod's `luremod-common.toml` file found in your `config` folder to define everything.\n\n**Q: Does this work with mobs and items from other mods?**\nA: **Yes, 100%.** You can target any registered mob, item, or block using its ID (e.g., `thermal:blizz`, `ars_nouveau:source_gem`). The NBT and block state support ensures deep compatibility.\n\n**Q: Is this for Forge or Fabric?**\nA: This mod is currently available for **Forge**.\n\n**Q: Will this lag my server?**\nA: **No.** The mod was built with performance as a top priority. The AI scanning is efficient and lightweight, making it safe for servers of all sizes.",
+          "published": "2025-03-04T10:32:20.961885Z",
+          "updated": "2025-11-05T13:53:43.507624Z",
+          "status": "approved",
+          "license": {
+            "id": "GPL-3.0-only",
+            "name": "GNU General Public License v3.0 only"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "mobs",
+            "utility"
+          ],
+          "loaders": [
+            "forge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/hwak8tA1/efec35a750857ba4f21001ef2d8187265bbac1b6_96.webp",
+          "issues_url": "https://github.com/Sylsatra/lured_into_fire_mod/issues",
+          "source_url": "https://github.com/Sylsatra/lured_into_fire_mod",
+          "wiki_url": "https://stubbily-stereographical-mandie.ngrok-free.app/docs",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "r4uny07i",
+          "project_id": "hwak8tA1",
+          "author_id": "a2DykSUV",
+          "name": "Item & Block Attraction 3.0.1",
+          "version_number": "3.0.1",
+          "changelog": "Uploaded Item & Block Attraction to version 3.0.1.\n\n+ Now, mobs will only be lured if they can actually see it :)\n+ Improve pathfinding.",
+          "date_published": "2025-11-05T13:53:43.507624Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "f404511e1b7a18a8efd5c93d6d7c4da13e59b09c",
+                "sha512": "52f53a86fbbc4d3e4fbdb983261a0fa1c4908595480e3ad556c289b3048c818aff14ba799a721765aefaeb259e765ec0c9e8d6f66e3b33c4f81d83a04d43fa80"
+              },
+              "url": "https://cdn.modrinth.com/data/hwak8tA1/versions/r4uny07i/luremod-3.0.1.jar",
+              "filename": "luremod-3.0.1.jar",
+              "primary": true,
+              "size": 38739
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
+      },
+      {
+        "name": "Iron's Spells 'n Spellbooks",
+        "version": "v1.20.1-3.4.0.11",
+        "optional": true,
+        "file": "irons_spellbooks-1.20.1-3.4.0.11.jar",
+        "type": "mods",
+        "description": "A magic mod bringing back the classic RPG spellcasting fantasy.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 855414,
+        "curseForgeFileId": 6970299,
+        "curseForgeProject": {
+          "id": 855414,
+          "name": "Iron's Spells 'n Spellbooks",
+          "authors": [
+            {
+              "id": 102277533,
+              "name": "Iron431",
+              "url": "https://www.curseforge.com/members/iron431"
+            },
+            {
+              "id": 104645936,
+              "name": "Sma11s",
+              "url": "https://www.curseforge.com/members/sma11s"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A magic mod bringing back the classic RPG spellcasting fantasy.",
+          "categories": [
+            {
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Mobs",
+              "slug": "world-mobs",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
+              "dateModified": "2014-05-08T17:46:59.507Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 411,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Magic",
+              "slug": "magic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/magic",
+              "dateModified": "2014-05-08T17:40:24.787Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 419,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/34/635351496247862494.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Structures",
+              "slug": "world-structures",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
+              "dateModified": "2014-05-08T17:37:17.173Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 409,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 419,
+          "classId": 6,
+          "slug": "irons-spells-n-spellbooks",
+          "isFeatured": false,
+          "dateModified": "2026-01-15T03:14:56.5Z",
+          "dateCreated": "2023-04-30T09:07:03.75Z",
+          "dateReleased": "2026-01-01T01:32:45.23Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks",
+            "wikiUrl": "https://www.iron.wiki",
+            "issuesUrl": "https://github.com/iron431/Irons-Spells-n-Spellbooks/issues",
+            "sourceUrl": "https://github.com/iron431/Irons-Spells-n-Spellbooks"
+          },
+          "logo": {
+            "id": 871265,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/871/265/256/256/638288661913483053.png",
+            "title": "638288661913483053.png",
+            "url": "https://media.forgecdn.net/avatars/871/265/638288661913483053.png",
+            "modId": 855414
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 656296,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/656/296/310/172/2023-05-03_15.png",
+              "title": "Villagers love helping you make blood vials!",
+              "url": "https://media.forgecdn.net/attachments/656/296/2023-05-03_15.png",
+              "modId": 855414
+            },
+            {
+              "id": 653896,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/653/896/310/172/2023-04-28_17.png",
+              "title": "Fighting the Dead King boss",
+              "url": "https://media.forgecdn.net/attachments/653/896/2023-04-28_17.png",
+              "modId": 855414
+            },
+            {
+              "id": 653528,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/653/528/310/172/2023-04-27_19.png",
+              "title": "Pyromancer Enemy in his Mangrove Hut",
+              "url": "https://media.forgecdn.net/attachments/653/528/2023-04-27_19.png",
+              "modId": 855414
+            },
+            {
+              "id": 653526,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/653/526/310/172/2023-04-27_19.png",
+              "title": "Necromancer Patrolling a Catacombs in a Lush Cave",
+              "url": "https://media.forgecdn.net/attachments/653/526/2023-04-27_19.png",
+              "modId": 855414
+            },
+            {
+              "id": 653521,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/653/521/310/172/2023-04-27_19.png",
+              "title": "Using the Spell Wheel",
+              "url": "https://media.forgecdn.net/attachments/653/521/2023-04-27_19.png",
+              "modId": 855414
+            },
+            {
+              "id": 653515,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/653/515/310/172/2023-04-27_19.png",
+              "title": "Kitted-Out Player",
+              "url": "https://media.forgecdn.net/attachments/653/515/2023-04-27_19.png",
+              "modId": 855414
+            },
+            {
+              "id": 653485,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/653/485/310/172/jei.png",
+              "title": "JEI Support for Arcane Anvil, Scroll Forge, and Spell Descriptions",
+              "url": "https://media.forgecdn.net/attachments/653/485/jei.png",
+              "modId": 855414
+            },
+            {
+              "id": 653396,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/653/396/310/172/2023-04-27_18.png",
+              "title": "Inspecting a Spell Book",
+              "url": "https://media.forgecdn.net/attachments/653/396/2023-04-27_18.png",
+              "modId": 855414
+            },
+            {
+              "id": 653344,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/653/344/310/172/spellbooks-title-small-background.png",
+              "title": "Title",
+              "url": "https://media.forgecdn.net/attachments/653/344/spellbooks-title-small-background.png",
+              "modId": 855414
+            },
+            {
+              "id": 1132602,
+              "description": "Fire Boss",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1132/602/310/172/echo_downscale_4-png.png",
+              "title": "Fire Boss",
+              "url": "https://media.forgecdn.net/attachments/1132/602/echo_downscale_4-png.png",
+              "modId": 855414
+            },
+            {
+              "id": 1467331,
+              "description": "Eldritch Pocket Dimension",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1467/331/310/172/2026-01-14_21-13-53-png.png",
+              "title": "Discover Weird Magics",
+              "url": "https://media.forgecdn.net/attachments/1467/331/2026-01-14_21-13-53-png.png",
+              "modId": 855414
+            }
+          ],
+          "mainFileId": 7402504
+        },
+        "curseForgeFile": {
+          "id": 6970299,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "v1.20.1-3.4.0.11",
+          "fileName": "irons_spellbooks-1.20.1-3.4.0.11.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-09-06T20:07:45.727Z",
+          "fileLength": 8784756,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 309927,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 388172,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 658587,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2886572348,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3890638357,
+              "name": ".cache"
+            },
+            {
+              "fingerprint": 1335848432,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1173401785,
+              "name": "builtin_resource_packs"
+            },
+            {
+              "fingerprint": 3901206070,
+              "name": "data"
+            },
+            {
+              "fingerprint": 3664445051,
+              "name": "io"
+            },
+            {
+              "fingerprint": 1396826385,
+              "name": "irons_spellbooks.refmap.json"
+            },
+            {
+              "fingerprint": 512701756,
+              "name": "mixins.irons_spellbooks.json"
+            },
+            {
+              "fingerprint": 2970723852,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 4146249301,
+              "name": "spellbooks title small background low res.png"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "84e0678cdad2c007ee56fa3fef1403a612d07feb",
+              "algo": 1
+            },
+            {
+              "value": "772d419fad82558b4c2ed1753c5e07aa",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.20.1",
+            "Forge"
+          ],
+          "fileFingerprint": 80104047,
+          "modId": 855414
+        },
+        "modrinthProject": {
+          "id": "s4OWxYQQ",
+          "slug": "irons-spells-n-spellbooks",
+          "project_type": "mod",
+          "team": "Xd22h5Rp",
+          "title": "Iron's Spells 'n Spellbooks",
+          "description": "A magic mod bringing back the classic RPG spellcasting fantasy. (irons spells and spellbooks)",
+          "body": "![Loader](https://img.shields.io/badge/Loader-NeoForge-ecebe6?labelColor=B446C6&amp;style=for-the-badge)![Available](https://img.shields.io/badge/Available-1.18.2%20%7C%201.19.2%20%7C%201.20.1%20%7C%201.21-ecebe6?labelColor=B446C6&style=for-the-badge)[![Discord](https://img.shields.io/discord/1104430139275743293.svg?label=&amp;logo=discord&amp;logoColor=ffffff&amp;color=7389D8&amp;labelColor=6A7EC2&amp;style=for-the-badge)](https://discord.gg/TRzEdrndM2)[![Patreon](https://shields.io/badge/-Patreon-f86754?style=for-the-badge&amp;logo=patreon&amp;logoColor=white)](https://www.patreon.com/Iron431)\n\n![Logo](https://iron431.github.io/Irons-Spellbooks-Docs/img/spellbooks-title-small-background.png)\n\nIron's Spells 'n Spellbooks introduces the classic RPG spellcasting fantasy to the game. Fight dangerous wizards, raid a plethora of structures, delve through dungeons, collect resources and spells, and find powerful magical artifacts!\n * * *\n\n## Featuring:\n- Over 100 upgradable spells\n- 2 Spellcasting Bosses\n- 9 Spellcasting Enemies/Allies/Merchants\n- 12 wizard armor sets\n- 11 randomly generated structures\n- Weapon Imbuement and Armor Upgrade Systems\n- Extensive configuration options (including per-spell settings)\n- Native compatibility with JEI, JEED, Apotheosis, Tetra, Better Combat, Patchouli, and others!\n- And much more!\n\n* * *\n## FAQ:\nQ: How do I get started with Spells 'n Spellbooks? <br>\nA: https://www.iron.wiki/progression/\n\nQ: Will there be a port to 1.20.1 (or any other versions/modloader) <br>\nA: TLDR: No. These mods are a hobby project and development for a single version takes *months* of personal commitment. However, they are open-source and open to community contributions: https://github.com/iron431/. Early access is available on Patreon (https://www.patreon.com/Iron431)\n\nQ: My Models are are broken/won’t render <br>\nA: If you have Optifine, it’s that. Optifine is meant for vanilla clients. Use the many alternatives (such as Oculus) that work with forge\n* * *\n![Tyros](https://iron.wiki/img/screenshots/echo_of_the_flamebearer.png)\n![Inscription Table](https://iron.wiki/img/screenshots/inscription_table.png)\n![Scroll Forge](https://iron.wiki/img/screenshots/scroll_forge.png)\n![Scroll Forge](https://iron.wiki/img/screenshots/structures.png)\n![Scroll Forge](https://iron.wiki/img/screenshots/magic_loot.png)\n![Scroll Forge](https://iron.wiki/img/screenshots/ancient_city_loot.png)\n* * *\n## For Developers:\n__[https://iron.wiki/developers](https://iron.wiki/developers)__\n* * *\n## Support:\n[![Patreon](https://shields.io/badge/-Patreon-f86754?style=for-the-badge&amp;logo=patreon&amp;logoColor=white)](https://www.patreon.com/Iron431)\n* * *\n[![Essential](https://iron.wiki/img/ad/essential.jpg)](https://essential.gg)\n\n[![Bisect](https://www.bisecthosting.com/partners/custom-banners/1b3bc821-298d-4efc-96d2-7dff77d7069a.png)](https://bisecthosting.com/iron)",
+          "published": "2023-05-07T16:51:17.271987Z",
+          "updated": "2026-01-07T19:43:26.177318Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": "",
+            "url": "https://github.com/iron431/Irons-Spells-n-Spellbooks#readme"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "equipment",
+            "magic"
+          ],
+          "loaders": [
+            "forge",
+            "neoforge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/s4OWxYQQ/6a1f5c6adb434a6c56c1975af6f4fbde3ba907ff.png",
+          "issues_url": "https://github.com/iron431/Irons-Spells-n-Spellbooks/issues",
+          "source_url": "https://github.com/iron431/Irons-Spells-n-Spellbooks",
+          "wiki_url": "https://www.iron.wiki",
+          "discord_url": "https://discord.gg/TRzEdrndM2",
+          "donation_urls": [
+            {
+              "id": "bmac",
+              "platform": "Bmac",
+              "url": "https://www.buymeacoffee.com/iron431"
+            },
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/Iron431"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "K26TSnWZ",
+          "project_id": "s4OWxYQQ",
+          "author_id": "aeXCUa9J",
+          "name": "Iron's Spells 'n Spellbooks 1.20.1-3.4.0.11",
+          "version_number": "1.20.1-3.4.0.11",
+          "changelog": "",
+          "date_published": "2025-12-07T19:14:54.407331Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "3c8bd7d071fc5dffe33ec1e49db7996931b058393961e12757272a5b2aebcf657807e31bfb6b41374a6a190bd1efffd52c94a51f0e8e0b900736d05ff681c359",
+                "sha1": "84e0678cdad2c007ee56fa3fef1403a612d07feb"
+              },
+              "url": "https://cdn.modrinth.com/data/s4OWxYQQ/versions/K26TSnWZ/irons_spellbooks-1.20.1-3.4.0.11.jar",
+              "filename": "irons_spellbooks-1.20.1-3.4.0.11.jar",
+              "primary": true,
+              "size": 8784756
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
+      },
+      {
+        "name": "Cataclysm: Spellbooks",
+        "version": "cataclysm_spellbooks-1.2.7-1.20.1-all.jar",
+        "optional": true,
+        "file": "cataclysm_spellbooks-1.2.7-1.20.1-all.jar",
+        "type": "mods",
+        "description": "An addon for Iron's Spells and Spellbooks and L_Ender's Cataclysm",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 1099461,
+        "curseForgeFileId": 7131632,
+        "curseForgeProject": {
+          "id": 1099461,
+          "name": "Cataclysm: Spellbooks",
+          "authors": [
+            {
+              "id": 104856734,
+              "name": "StarOcean",
+              "url": "https://www.curseforge.com/members/starocean"
+            },
+            {
+              "id": 103088315,
+              "name": "Ace_The_Eldritch_King",
+              "url": "https://www.curseforge.com/members/ace_the_eldritch_king"
+            }
+          ],
+          "gameId": 432,
+          "summary": "An addon for Iron's Spells and Spellbooks and L_Ender's Cataclysm",
+          "categories": [
+            {
+              "name": "Magic",
+              "slug": "magic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/magic",
+              "dateModified": "2014-05-08T17:40:24.787Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 419,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/34/635351496247862494.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Mobs",
+              "slug": "world-mobs",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
+              "dateModified": "2014-05-08T17:46:59.507Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 411,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 419,
+          "classId": 6,
+          "slug": "cataclysm-spellbooks",
+          "isFeatured": false,
+          "dateModified": "2026-01-11T17:41:32.6Z",
+          "dateCreated": "2024-09-09T08:25:32.48Z",
+          "dateReleased": "2026-01-11T17:37:35.823Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/cataclysm-spellbooks",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/AceTheEldritchKing/Cataclysm_Spellbooks/issues",
+            "sourceUrl": "https://github.com/AceTheEldritchKing/Cataclysm_Spellbooks"
+          },
+          "socialLinks": [
+            {
+              "type": "13",
+              "url": "https://github.com/AceTheEldritchKing/Cataclysm_Spellbooks"
+            }
+          ],
+          "logo": {
+            "id": 1076660,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1076/660/256/256/638614512429384707.png",
+            "title": "638614512429384707.png",
+            "url": "https://media.forgecdn.net/avatars/1076/660/638614512429384707.png",
+            "modId": 1099461
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 1293872,
+              "description": "All available armors in the day",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1293/872/310/172/2025-07-02_16-47-03-png.png",
+              "title": "All Armors (Day)",
+              "url": "https://media.forgecdn.net/attachments/1293/872/2025-07-02_16-47-03-png.png",
+              "modId": 1099461
+            },
+            {
+              "id": 1293871,
+              "description": "All available armors at night",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1293/871/310/172/2025-07-02_16-46-51-png.png",
+              "title": "All Armors (Night)",
+              "url": "https://media.forgecdn.net/attachments/1293/871/2025-07-02_16-46-51-png.png",
+              "modId": 1099461
+            },
+            {
+              "id": 1293873,
+              "description": "All available guns",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1293/873/310/172/2025-07-05_14-34-17-png.png",
+              "title": "Guns",
+              "url": "https://media.forgecdn.net/attachments/1293/873/2025-07-05_14-34-17-png.png",
+              "modId": 1099461
+            },
+            {
+              "id": 1293870,
+              "description": "The Phantom Remnant summon",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1293/870/310/172/2025-06-25_22-55-57-png.png",
+              "title": "Phantom Remnant",
+              "url": "https://media.forgecdn.net/attachments/1293/870/2025-06-25_22-55-57-png.png",
+              "modId": 1099461
+            }
+          ],
+          "mainFileId": 7447221
+        },
+        "curseForgeFile": {
+          "id": 7131632,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "cataclysm_spellbooks-1.2.7-1.20.1-all.jar",
+          "fileName": "cataclysm_spellbooks-1.2.7-1.20.1-all.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-10-21T01:29:00.67Z",
+          "fileLength": 1261502,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 551586,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 817423,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 855414,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 4169274008,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2091012361,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3925554623,
+              "name": "cataclysm_spellbooks.refmap.json"
+            },
+            {
+              "fingerprint": 1389364694,
+              "name": "data"
+            },
+            {
+              "fingerprint": 2100038558,
+              "name": "mixins.cataclysm_spellbooks.json"
+            },
+            {
+              "fingerprint": 1003952044,
+              "name": "net"
+            },
+            {
+              "fingerprint": 101284851,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "16fa5aed8c6834bd56f04f44ebb21c8cb2b2dc8d",
+              "algo": 1
+            },
+            {
+              "value": "41e6ce08b64d5063e56b4584541fdc7f",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "1.20.1",
+            "Forge",
+            "Server"
+          ],
+          "fileFingerprint": 2000277970,
+          "modId": 1099461
+        },
+        "modrinthProject": {
+          "id": "3FEg0A8D",
+          "slug": "cataclysm-spellbooks",
+          "project_type": "mod",
+          "team": "hEf6cfer",
+          "title": "Cataclysm: Spellbooks",
+          "description": "An addon for Iron's Spells and Spellbooks and L_Ender's Cataclysm",
+          "body": "# 📜Description\n![Banner](https://cdn.modrinth.com/data/cached_images/4d8ab12634504d8b62f49d6751a988be719fd379.png)\n**Cataclysm: Spellbooks** is an addon for both [Iron's Spells 'n Spellbooks](https://modrinth.com/mod/irons-spells-n-spellbooks) and [L_Ender's Cataclysm](https://modrinth.com/mod/l_enders-cataclysm).\n\nCurrently this mod adds in a total of 65 new spells, with more planned for development. This mod also adds in two new spell schools: _**Abyssal**_ and _**Technomancy**_. The Abyssal School houses all of the Leviathan based spells, and Technomancy is inspired by The Harbinger.\n\n<center>\n  \n_NOTE: THIS MOD IS STILL BEING DEVELOPED AND SPELLS WILL BE ADDED!_\n\n</center>\n\nIf you would like to see which spells are planned, head over to the [Github Page](https://github.com/AceTheEldritchKing/Cataclysm_Spellbooks) to check!\n\n---\n\n<center>\n\n[![Discord Button (StarOcean)](https://cdn.modrinth.com/data/cached_images/dede1998b3e837f4f2c1d274d06310989ed19e98.png)](https://discord.gg/c8zY8fDYXz)[![Discord Button (Ace)](https://cdn.modrinth.com/data/cached_images/63933d172549dce83eb495866814ae13a7af5884.png)](https://discord.gg/SCprzpvhK8)\n## 🔗Links\n[![Discord Server (StarOcean)](https://cdn.modrinth.com/data/cached_images/4d12af3bac3eac369faeb577e7ef2da2a9b4b83c.png)](https://discord.gg/c8zY8fDYXz)\n[![Discord Server (AcetheEldritchKing)](https://cdn.modrinth.com/data/cached_images/4d12af3bac3eac369faeb577e7ef2da2a9b4b83c.png)](https://discord.gg/SCprzpvhK8)\n[![Github Source](https://cdn.modrinth.com/data/cached_images/da6f6c568220d63db13560469bc71bf6eb2e40e4.png)](https://github.com/AceTheEldritchKing/Cataclysm_Spellbooks)\n[![Curseforge Page](https://cdn.modrinth.com/data/cached_images/2609474d374a02b9d8dae34dfa0e2c523eaaffc1.png)](https://www.curseforge.com/minecraft/mc-mods/cataclysm-spellbooks)",
+          "published": "2024-06-22T01:01:47.815345Z",
+          "updated": "2026-01-11T17:37:28.437118Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-2.1-only",
+            "name": "GNU Lesser General Public License v2.1 only"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "equipment",
+            "magic"
+          ],
+          "loaders": [
+            "forge",
+            "neoforge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/3FEg0A8D/ec63ffe082905379e7061cde6c53b9b7c8d40bb7_96.webp",
+          "issues_url": "https://github.com/AceTheEldritchKing/Cataclysm_Spellbooks/issues",
+          "source_url": "https://github.com/AceTheEldritchKing/Cataclysm_Spellbooks",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "p3IVvh83",
+          "project_id": "3FEg0A8D",
+          "author_id": "AYn9td7t",
+          "name": "Cataclysm: Spellbooks 1.2.7-1.20.1",
+          "version_number": "1.2.7-1.20.1",
+          "changelog": "Changelog:\n\n- Fixed startup crash",
+          "date_published": "2025-10-21T01:29:47.174400Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "16fa5aed8c6834bd56f04f44ebb21c8cb2b2dc8d",
+                "sha512": "17efa640c00617fbfc56161a5fef2c0f4e144f0b5f7f0207e9ef9a466ed2be71a3906c99860be98079514e056d8dde9ff5a2e3e95539a889ffae0eaec714c7ab"
+              },
+              "url": "https://cdn.modrinth.com/data/3FEg0A8D/versions/p3IVvh83/cataclysm_spellbooks-1.2.7-1.20.1-all.jar",
+              "filename": "cataclysm_spellbooks-1.2.7-1.20.1-all.jar",
+              "primary": true,
+              "size": 1261502
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "s4OWxYQQ",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "7zlUOZvb",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "46KJle7n",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1769046399833,
-    "numPlays": 34
+    "lastPlayed": 1769217995225,
+    "numPlays": 43
   },
   "id": "1.20.1",
   "complianceLevel": 1,

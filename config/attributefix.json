@@ -143,6 +143,17 @@
         "value": 100
       }
     },
+    "cataclysm_spellbooks:abyssal_magic_resist": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
+      }
+    },
     "attributeslib:cold_damage": {
       "enabled": false,
       "min": {
@@ -196,6 +207,17 @@
       "max": {
         "default": 1024,
         "value": 1024
+      }
+    },
+    "cataclysm_spellbooks:abyssal_spell_power": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
       }
     },
     "ars_nouveau:ars_nouveau.perk.saturation": {
@@ -616,6 +638,17 @@
         "value": 100
       }
     },
+    "cataclysm_spellbooks:technomancy_spell_power": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
+      }
+    },
     "attributeslib:mining_speed": {
       "enabled": false,
       "min": {
@@ -716,6 +749,17 @@
       }
     },
     "attributeslib:arrow_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
+      }
+    },
+    "cataclysm_spellbooks:technomancy_magic_resist": {
       "enabled": false,
       "min": {
         "default": 0,
