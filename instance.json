@@ -2689,502 +2689,6 @@
         }
       },
       {
-        "name": "Majrusz Library",
-        "version": "Majrusz Library 7.0.8 (Forge)",
-        "optional": true,
-        "file": "majrusz-library-forge-1.20.1-7.0.8.jar",
-        "type": "mods",
-        "description": "Library with common code for some of my modifications.",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 437409,
-        "curseForgeFileId": 5302100,
-        "curseForgeProject": {
-          "id": 437409,
-          "name": "Majrusz Library",
-          "authors": [
-            {
-              "id": 101502746,
-              "name": "Majrusz17",
-              "url": "https://www.curseforge.com/members/majrusz17"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Library with common code for some of my modifications.",
-          "categories": [
-            {
-              "name": "API and Library",
-              "slug": "library-api",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
-              "dateModified": "2014-05-23T03:21:44.06Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 421,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 421,
-          "classId": 6,
-          "slug": "majrusz-library",
-          "isFeatured": false,
-          "dateModified": "2024-04-29T20:52:39.543Z",
-          "dateCreated": "2021-01-19T10:05:15.367Z",
-          "dateReleased": "2024-04-29T20:47:40.637Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/majrusz-library",
-            "wikiUrl": "",
-            "issuesUrl": "https://github.com/Majrusz/MajruszLibrary/issues",
-            "sourceUrl": "https://github.com/Majrusz/MajruszLibrary"
-          },
-          "logo": {
-            "id": 333183,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/333/183/256/256/637465610072157917.jpeg",
-            "title": "637465610072157917.jpeg",
-            "url": "https://media.forgecdn.net/avatars/333/183/637465610072157917.jpeg",
-            "modId": 437409
-          },
-          "allowModDistribution": true,
-          "screenshots": [],
-          "mainFileId": 5302101
-        },
-        "curseForgeFile": {
-          "id": 5302100,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "Majrusz Library 7.0.8 (Forge)",
-          "fileName": "majrusz-library-forge-1.20.1-7.0.8.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2024-04-29T20:47:22.107Z",
-          "fileLength": 437340,
-          "dependencies": [],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 1797795422,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 113034906,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 778656442,
-              "name": "com"
-            },
-            {
-              "fingerprint": 4121177819,
-              "name": "logo.jpg"
-            },
-            {
-              "fingerprint": 2555765422,
-              "name": "majruszlibrary-common.mixins.json"
-            },
-            {
-              "fingerprint": 1724596828,
-              "name": "majruszlibrary-forge.mixins.json"
-            },
-            {
-              "fingerprint": 254777842,
-              "name": "majruszlibrary.refmap.json"
-            },
-            {
-              "fingerprint": 3599595009,
-              "name": "pack.mcmeta"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "be0e1b5808206abcc2ff6a369ce0c2ba53968c55",
-              "algo": 1
-            },
-            {
-              "value": "f41b4aea81b1e3a1538a1beace7f6c7d",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
-              "gameVersionName": "Client"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000020.0000000001",
-              "gameVersion": "1.20.1",
-              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
-              "gameVersionName": "1.20.1"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
-              "gameVersionName": "Server"
-            }
-          ],
-          "gameVersions": [
-            "Client",
-            "1.20.1",
-            "Forge",
-            "Server"
-          ],
-          "fileFingerprint": 2744375869,
-          "modId": 437409
-        },
-        "modrinthProject": {
-          "id": "PYQD8noM",
-          "slug": "majrusz-library",
-          "project_type": "mod",
-          "team": "dx7HTUth",
-          "title": "Majrusz Library",
-          "description": "Library with common code for some of my modifications.",
-          "body": "<center>\n\nLibrary with common code used by my other modifications: \\\n[Majrusz's Enchantments](https://modrinth.com/mod/majruszs-enchantments) v1.0.0+ \\\n[Majrusz's Progressive Difficulty](https://modrinth.com/mod/majruszs-progressive-difficulty) v0.4.0+ \\\n[Majrusz's Accessories](https://modrinth.com/mod/majruszs-accessories)\n\n<br>\n\n[![](https://github.com/Majrusz/MinecraftCommon/blob/main/Library/discord.png?raw=true)](https://discord.gg/9UF774WcuW)\n\n</center>",
-          "published": "2022-11-18T20:27:29.591856Z",
-          "updated": "2024-04-29T20:47:45.528150Z",
-          "status": "approved",
-          "license": {
-            "id": "MIT",
-            "name": "MIT License"
-          },
-          "client_side": "required",
-          "server_side": "required",
-          "categories": [
-            "game-mechanics",
-            "library",
-            "utility"
-          ],
-          "loaders": [
-            "fabric",
-            "forge",
-            "neoforge",
-            "quilt"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/PYQD8noM/9b777d55a8dc12cf42d20da94a3d912a35ee63b2_96.webp",
-          "issues_url": "https://github.com/Majrusz/MajruszLibrary",
-          "source_url": "https://github.com/Majrusz/MajruszLibrary/issues",
-          "discord_url": "https://discord.gg/9UF774WcuW",
-          "donation_urls": [],
-          "gallery": []
-        },
-        "modrinthVersion": {
-          "id": "BZzTRseC",
-          "project_id": "PYQD8noM",
-          "author_id": "AmtDIcYT",
-          "name": "Majrusz Library 7.0.8",
-          "version_number": "7.0.8",
-          "changelog": "- fixed crash when Aquaculture 2 is present (reported by @LilChromie, @Crankonator)",
-          "date_published": "2024-04-29T20:47:27.555331Z",
-          "version_type": "release",
-          "files": [
-            {
-              "hashes": {
-                "sha1": "be0e1b5808206abcc2ff6a369ce0c2ba53968c55",
-                "sha512": "82ec00a6486a67f3270ca3bdf708b1a58fd1e1f7b463e5cd7f5e6189fea57b79a25989f9d0fb5a9aadc323ed2110ab42fe11c740923eb538710059198c5a64a7"
-              },
-              "url": "https://cdn.modrinth.com/data/PYQD8noM/versions/BZzTRseC/majrusz-library-forge-1.20.1-7.0.8.jar",
-              "filename": "majrusz-library-forge-1.20.1-7.0.8.jar",
-              "primary": true,
-              "size": 437340
-            }
-          ],
-          "dependencies": [],
-          "game_versions": [
-            "1.20.1"
-          ],
-          "loaders": [
-            "forge"
-          ]
-        }
-      },
-      {
-        "name": "Majrusz's Progressive Difficulty",
-        "version": "Majrusz's Progressive Difficulty 1.9.10 (Forge)",
-        "optional": true,
-        "file": "majruszs-difficulty-forge-1.20.1-1.9.10.jar",
-        "type": "mods",
-        "description": "Mod that progressively increases the game difficulty over time.",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 430642,
-        "curseForgeFileId": 5293465,
-        "curseForgeProject": {
-          "id": 430642,
-          "name": "Majrusz's Progressive Difficulty",
-          "authors": [
-            {
-              "id": 101502746,
-              "name": "Majrusz17",
-              "url": "https://www.curseforge.com/members/majrusz17"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Mod that progressively increases the game difficulty over time.",
-          "categories": [
-            {
-              "name": "Adventure and RPG",
-              "slug": "adventure-rpg",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
-              "dateModified": "2014-05-08T17:42:09.54Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 422,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Mobs",
-              "slug": "world-mobs",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
-              "dateModified": "2014-05-08T17:46:59.507Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 411,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
-              "parentCategoryId": 406,
-              "classId": 6
-            },
-            {
-              "name": "Armor, Tools, and Weapons",
-              "slug": "armor-weapons-tools",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
-              "dateModified": "2014-05-08T17:44:39.057Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 434,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Structures",
-              "slug": "world-structures",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
-              "dateModified": "2014-05-08T17:37:17.173Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 409,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
-              "parentCategoryId": 406,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 422,
-          "classId": 6,
-          "slug": "majruszs-progressive-difficulty",
-          "isFeatured": false,
-          "dateModified": "2024-04-26T17:04:29.4Z",
-          "dateCreated": "2020-12-24T10:45:32.453Z",
-          "dateReleased": "2024-04-26T17:00:49.777Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/majruszs-progressive-difficulty",
-            "wikiUrl": "https://majruszs-progressive-difficulty.fandom.com/wiki/Majrusz%27s_Progressive_Difficulty_Wiki",
-            "issuesUrl": "https://github.com/Majrusz/MajruszsProgressiveDifficultyMod/issues",
-            "sourceUrl": "https://github.com/Majrusz/MajruszsProgressiveDifficultyMod"
-          },
-          "logo": {
-            "id": 342826,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/342/826/256/256/637487288583365780.png",
-            "title": "637487288583365780.png",
-            "url": "https://media.forgecdn.net/avatars/342/826/637487288583365780.png",
-            "modId": 430642
-          },
-          "allowModDistribution": true,
-          "screenshots": [],
-          "mainFileId": 5293468
-        },
-        "curseForgeFile": {
-          "id": 5293465,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "Majrusz's Progressive Difficulty 1.9.10 (Forge)",
-          "fileName": "majruszs-difficulty-forge-1.20.1-1.9.10.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2024-04-26T17:00:11.25Z",
-          "fileLength": 777242,
-          "dependencies": [
-            {
-              "fileId": 0,
-              "modId": 437409,
-              "relationType": 3
-            }
-          ],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 3709902991,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 1974702748,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 3814481850,
-              "name": "com"
-            },
-            {
-              "fingerprint": 355223076,
-              "name": "data"
-            },
-            {
-              "fingerprint": 2563508171,
-              "name": "logo.png"
-            },
-            {
-              "fingerprint": 3704170742,
-              "name": "majruszsdifficulty-common.mixins.json"
-            },
-            {
-              "fingerprint": 2972465388,
-              "name": "majruszsdifficulty-forge.mixins.json"
-            },
-            {
-              "fingerprint": 1013442618,
-              "name": "majruszsdifficulty.refmap.json"
-            },
-            {
-              "fingerprint": 1736921432,
-              "name": "pack.mcmeta"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "18495da41285e8450d1b5fcd066816f6cf55f3a7",
-              "algo": 1
-            },
-            {
-              "value": "0c7904c13caf349c515270a66356fa09",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
-              "gameVersionName": "Client"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000020.0000000001",
-              "gameVersion": "1.20.1",
-              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
-              "gameVersionName": "1.20.1"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
-              "gameVersionName": "Server"
-            }
-          ],
-          "gameVersions": [
-            "Client",
-            "1.20.1",
-            "Forge",
-            "Server"
-          ],
-          "fileFingerprint": 1868859216,
-          "modId": 430642
-        },
-        "modrinthProject": {
-          "id": "GGDBwjOg",
-          "slug": "majruszs-progressive-difficulty",
-          "project_type": "mod",
-          "team": "5vsu3BcF",
-          "title": "Majrusz's Progressive Difficulty",
-          "description": "Mod that progressively increases the game difficulty over time.",
-          "body": "<center>\n\n![](https://github.com/Majrusz/MinecraftCommon/blob/main/ProgressiveDifficulty/logo.png?raw=true)\n\nThis modification progressively increases the game difficulty over time. It is inspired by the similar \\\nmechanics in [Terraria](https://www.terraria.org), but the difficulty also scales with [Regional Difficulty](https://minecraft.fandom.com/wiki/Difficulty) to keep Minecraft style. \\\nA detailed description of this mod can be found on the [Wiki](https://majruszs-progressive-difficulty.fandom.com/wiki/Majrusz%27s_Progressive_Difficulty_Wiki). \\\n<b>Since version 0.4.0 this mod requires a [Majrusz Library](https://modrinth.com/mod/majrusz-library) to work!</b>\n\n![](https://github.com/Majrusz/MinecraftCommon/blob/main/ProgressiveDifficulty/game_stages.png?raw=true)\n\nProgress in the game is divided into stages, with each stage providing new difficulty tweaks and \\\nimproving previous ones. At the moment there are three stages:\n\n\\- <b>Normal Mode</b>, which starts at the beginning of the game. \\\n\\- <b>Expert Mode</b>, which starts when the first player enters the Nether. \\\n(or any dimension from other mods) \\\n\\- <b>Master Mode</b>, which starts when you defeat the Ender Dragon.\n\n![](https://github.com/Majrusz/MinecraftCommon/blob/main/ProgressiveDifficulty/stuff.png?raw=true)\n\n### Groups of enemies\nEnemies appear in groups with one leader and \\\nfollowers who attack the same target as the leader. \\\nFollowers are more likely to have weapons and leaders to have armors. \\\n![](https://github.com/Majrusz/MinecraftCommon/blob/main/ProgressiveDifficulty/group.gif?raw=true)\n\n### Undead Army\nThe Undead Army is a new raid which starts after killing a certain amount of \\\nundead enemies. It has up to 5 waves, rewards the player with a treasure bag after \\\nfinishing it, scales difficulty over time and scales difficulty with each player participating in!\n![](https://github.com/Majrusz/MinecraftCommon/blob/main/ProgressiveDifficulty/undead_army.gif?raw=true)\n\n### Treasure Bags\nNew Terraria-inspired bags that contain some extra loot and have \\\na chance for one unique item. Each player receives their own Treasure Bag \\\nwhen they help to defeat a raid/boss. Currently, you can acquire them from: \\\n<b>Fishing</b>, <b>Undead Army</b>, <b>Raid</b>, <b>Elder Guardian</b>, <b>Warden</b>, <b>Wither</b> and <b>Ender Dragon</b>.\n![](https://github.com/Majrusz/MinecraftCommon/blob/main/ProgressiveDifficulty/treasure_bags.png?raw=true)\n\n### Bleeding\nEach animal and human being can now bleed. This is an effect that deals damage similar \\\nto poison and can be removed using a new item: <b>Bandage</b>. It is caused by many different sources \\\nsuch as swords, spiders or even cactuses... but the more armor you have, the less likely you are to bleed. \\\nIt is important to keep bandages with you as the Bleeding becomes more deadly with each stage!\n![](https://github.com/Majrusz/MinecraftCommon/blob/main/ProgressiveDifficulty/bleeding.gif?raw=true)\n\n### Enderium Ingots\nHowever, despite all the difficulty tweaks in the late-game, a new ore called <b>Enderium</b> can be found. \\\nWith this ore, you can make Enderium Ingots which are used to upgrade Netherite armor and tools! \\\n<b>Enderium</b> ore generates in End Stone and can be found in End structures as well.\n![](https://github.com/Majrusz/MinecraftCommon/blob/main/ProgressiveDifficulty/enderium_ingot.png?raw=true)\n\n### And much more!\n\n<br>\n\n![](https://github.com/Majrusz/MinecraftCommon/blob/main/ProgressiveDifficulty/languages.png?raw=true)\n\n![](https://github.com/Majrusz/MinecraftCommon/blob/main/ProgressiveDifficulty/thanks.png?raw=true)\n\n\\- [Julia](https://www.instagram.com/musiqeorn/) for sounds \\\n\\- [chechnyacool488](https://www.curseforge.com/members/chechnyacool488), reyzex#1973, LolsShow, Faster Than Light team for the Russian translation \\\n\\- [muraokun](https://www.curseforge.com/members/muraokun/projects) for some of the sprites \\\n\\- [qsefthuopq](https://github.com/qsefthuopq), [1mtwtfss1](https://github.com/1mtwtfss1), [UDTakerBean](https://github.com/UDTakerBean) for the Chinese translation \\\n\\- [kiryonn](https://www.curseforge.com/members/kiryonn), [maximemadani](https://github.com/maximemadani) for the French translation \\\n\\- Wallaby#8683, [luskaner](https://github.com/luskaner), [spliitbtw](https://github.com/spliitbtw) for the Spanish translation \\\n\\- [baooduy](https://github.com/baooduy) for the Vietnamese translation \\\n\\- [IcyCrystal](https://www.planetminecraft.com/member/lcycrystal/) for retexturing all Enderium items and blocks \\\n\\- [unroman](https://github.com/unroman) for the Ukrainian translation \\\n\\- [florian-berger](https://github.com/florian-berger) for the German translation \\\n\\- [zacky0904](https://github.com/zacky0904) for the Traditional Chinese translation \\\n\\- もふざとう (mohuzato) for the Japanese translation\n\n[![](https://github.com/Majrusz/MinecraftCommon/blob/main/Library/discord.png?raw=true)](https://discord.gg/9UF774WcuW)\n\n[![](https://github.com/Majrusz/MinecraftCommon/blob/main/Library/mod_wiki.png?raw=true)](https://majruszs-progressive-difficulty.fandom.com/wiki/Majrusz%27s_Progressive_Difficulty_Wiki)\n\n</center>",
-          "published": "2022-11-19T11:50:49.034492Z",
-          "updated": "2024-04-26T17:00:54.702823Z",
-          "status": "approved",
-          "license": {
-            "id": "MIT",
-            "name": "MIT License"
-          },
-          "client_side": "required",
-          "server_side": "required",
-          "categories": [
-            "adventure",
-            "game-mechanics",
-            "mobs"
-          ],
-          "loaders": [
-            "fabric",
-            "forge",
-            "neoforge",
-            "quilt"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/GGDBwjOg/50803f6db8eaf4b898509b6e2b6d83a21b0e7025.png",
-          "issues_url": "https://github.com/Majrusz/MajruszsProgressiveDifficultyMod/issues",
-          "source_url": "https://github.com/Majrusz/MajruszsProgressiveDifficultyMod",
-          "wiki_url": "https://majruszs-progressive-difficulty.fandom.com/wiki/Majrusz%27s_Progressive_Difficulty_Wiki",
-          "discord_url": "https://discord.gg/9UF774WcuW",
-          "donation_urls": [],
-          "gallery": []
-        },
-        "modrinthVersion": {
-          "id": "IH8yR3yr",
-          "project_id": "GGDBwjOg",
-          "author_id": "AmtDIcYT",
-          "name": "Majrusz's Progressive Difficulty 1.9.10",
-          "version_number": "1.9.10",
-          "changelog": "- added Forge tags to items (thanks to @DiogoSoaresMiranda)\n- added Korean translation (thanks to @glasslim)\n- fixed compatibility crash related to Soul Jar (reported by @𝙿𝙰𝚇𝚇)\n- fixed compatibility error when reloading resources (reported by @SettingDust)\n- fixed compatibility crash with Randomium (reported by @Doom, @ZacGames, @AllyJaxx)",
-          "date_published": "2024-04-26T17:00:15.973569Z",
-          "version_type": "release",
-          "files": [
-            {
-              "hashes": {
-                "sha512": "eae1ea6ec5a2578f8a1d69b1845dc40c3b34529fd87152098904b0f2de702b4c06b873850bf48aaa6c7fe6d604ad31c8d195ab1f0277d76f56b54f689939d232",
-                "sha1": "18495da41285e8450d1b5fcd066816f6cf55f3a7"
-              },
-              "url": "https://cdn.modrinth.com/data/GGDBwjOg/versions/IH8yR3yr/majruszs-difficulty-forge-1.20.1-1.9.10.jar",
-              "filename": "majruszs-difficulty-forge-1.20.1-1.9.10.jar",
-              "primary": true,
-              "size": 777242
-            }
-          ],
-          "dependencies": [
-            {
-              "project_id": "PYQD8noM",
-              "dependency_type": "required"
-            }
-          ],
-          "game_versions": [
-            "1.20.1"
-          ],
-          "loaders": [
-            "forge"
-          ]
-        }
-      },
-      {
         "name": "TenshiLib (Forge/NeoForge)",
         "version": "tenshilib-1.20.1-1.7.6-forge.jar",
         "optional": true,
@@ -36715,241 +36219,6 @@
         }
       },
       {
-        "name": "Loot Integrations: Moog's Voyager, Soaring, End & Nether Structures",
-        "version": "lootintegrations_moog-1.8.jar",
-        "optional": true,
-        "file": "lootintegrations_moog-1.8.jar",
-        "type": "mods",
-        "description": "Adds better loot to Moog's Voyager, Soaring, End & Nether Structures chests, including modded loot",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 1152715,
-        "curseForgeFileId": 7416873,
-        "curseForgeProject": {
-          "id": 1152715,
-          "name": "Loot Integrations: Moog's Voyager, Soaring, End & Nether Structures",
-          "authors": [
-            {
-              "id": 100114338,
-              "name": "someaddon",
-              "url": "https://www.curseforge.com/members/someaddon"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Adds better loot to Moog's Voyager, Soaring, End & Nether Structures chests, including modded loot",
-          "categories": [
-            {
-              "name": "Structures",
-              "slug": "world-structures",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
-              "dateModified": "2014-05-08T17:37:17.173Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 409,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
-              "parentCategoryId": 406,
-              "classId": 6
-            },
-            {
-              "name": "Addons",
-              "slug": "mc-addons",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
-              "dateModified": "2014-05-08T17:09:48.63Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 426,
-              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 426,
-          "classId": 6,
-          "slug": "loot-integrations-moogs-voyager-soaring-end-nether",
-          "isFeatured": false,
-          "dateModified": "2026-01-04T15:21:54.35Z",
-          "dateCreated": "2024-12-03T14:46:41.43Z",
-          "dateReleased": "2026-01-04T15:08:41.813Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/loot-integrations-moogs-voyager-soaring-end-nether"
-          },
-          "logo": {
-            "id": 1129601,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1129/601/256/256/638688199066950369.png",
-            "title": "638688199066950369.png",
-            "url": "https://media.forgecdn.net/avatars/1129/601/638688199066950369.png",
-            "modId": 1152715
-          },
-          "allowModDistribution": true,
-          "screenshots": [],
-          "mainFileId": 7416873
-        },
-        "curseForgeFile": {
-          "id": 7416873,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "lootintegrations_moog-1.8.jar",
-          "fileName": "lootintegrations_moog-1.8.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2026-01-04T15:08:41.813Z",
-          "fileLength": 6300,
-          "dependencies": [],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 2048440778,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 366941038,
-              "name": "data"
-            },
-            {
-              "fingerprint": 1193044625,
-              "name": "fabric.mod.json"
-            },
-            {
-              "fingerprint": 2149286350,
-              "name": "pack.mcmeta"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "1ca2b8ccd82b869fa17b597fa0d29320fcd475bb",
-              "algo": 1
-            },
-            {
-              "value": "7a0c13c06cbe6e53df35baaf4eb497d9",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
-              "gameVersionName": "Fabric"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000021.0000000008",
-              "gameVersion": "1.21.8",
-              "gameVersionReleaseDate": "2025-07-17T14:01:29.007Z",
-              "gameVersionName": "1.21.8"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000021.0000000005",
-              "gameVersion": "1.21.5",
-              "gameVersionReleaseDate": "2025-03-25T16:46:25.94Z",
-              "gameVersionName": "1.21.5"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000021.0000000004",
-              "gameVersion": "1.21.4",
-              "gameVersionReleaseDate": "2024-12-03T16:26:15.35Z",
-              "gameVersionName": "1.21.4"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000020.0000000001",
-              "gameVersion": "1.20.1",
-              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
-              "gameVersionName": "1.20.1"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000021.0000000001",
-              "gameVersion": "1.21.1",
-              "gameVersionReleaseDate": "2024-08-08T15:17:53.787Z",
-              "gameVersionName": "1.21.1"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000021.0000000006",
-              "gameVersion": "1.21.6",
-              "gameVersionReleaseDate": "2025-06-17T19:44:59.623Z",
-              "gameVersionName": "1.21.6"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000021.0000000007",
-              "gameVersion": "1.21.7",
-              "gameVersionReleaseDate": "2025-06-30T14:45:05.54Z",
-              "gameVersionName": "1.21.7"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000018.0000000002",
-              "gameVersion": "1.18.2",
-              "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
-              "gameVersionName": "1.18.2"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000019.0000000002",
-              "gameVersion": "1.19.2",
-              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
-              "gameVersionName": "1.19.2"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
-              "gameVersionName": "NeoForge"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
-              "gameVersionName": "Server"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000021.0000000009",
-              "gameVersion": "1.21.9",
-              "gameVersionReleaseDate": "2025-09-30T15:50:17.583Z",
-              "gameVersionName": "1.21.9"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000021.0000000010",
-              "gameVersion": "1.21.10",
-              "gameVersionReleaseDate": "2025-10-07T14:57:47Z",
-              "gameVersionName": "1.21.10"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000021.0000000011",
-              "gameVersion": "1.21.11",
-              "gameVersionReleaseDate": "2025-12-09T16:42:14.27Z",
-              "gameVersionName": "1.21.11"
-            }
-          ],
-          "gameVersions": [
-            "Fabric",
-            "1.21.8",
-            "1.21.5",
-            "1.21.4",
-            "1.20.1",
-            "Forge",
-            "1.21.1",
-            "1.21.6",
-            "1.21.7",
-            "1.18.2",
-            "1.19.2",
-            "NeoForge",
-            "Server",
-            "1.21.9",
-            "1.21.10",
-            "1.21.11"
-          ],
-          "fileFingerprint": 1421125696,
-          "modId": 1152715
-        }
-      },
-      {
         "name": "Create: Steam 'n' Rails",
         "version": "Steam 'n' Rails 1.6.15-beta Forge 1.20.1",
         "optional": true,
@@ -58237,182 +57506,6 @@
         }
       },
       {
-        "name": "Fast Async World Save[Forge/Fabric]",
-        "version": "fastasyncworldsave-1.20.1-2.6.jar",
-        "optional": true,
-        "file": "fastasyncworldsave-1.20.1-2.6.jar",
-        "type": "mods",
-        "description": "Prevent lag-spikes and data loss during intermittent world saves",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 951499,
-        "curseForgeFileId": 6935203,
-        "curseForgeProject": {
-          "id": 951499,
-          "name": "Fast Async World Save[Forge/Fabric]",
-          "authors": [
-            {
-              "id": 100114338,
-              "name": "someaddon",
-              "url": "https://www.curseforge.com/members/someaddon"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Prevent lag-spikes and data loss during intermittent world saves",
-          "categories": [
-            {
-              "name": "Server Utility",
-              "slug": "server-utility",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
-              "dateModified": "2014-05-08T17:44:55.057Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 435,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Map and Information",
-              "slug": "map-information",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
-              "dateModified": "2014-05-08T17:42:23.74Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 423,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Utility & QoL",
-              "slug": "utility-qol",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
-              "dateModified": "2021-11-17T11:45:09.143Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 5191,
-              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 435,
-          "classId": 6,
-          "slug": "fast-async-world-save-forge-fabric",
-          "isFeatured": false,
-          "dateModified": "2025-08-27T21:10:56.207Z",
-          "dateCreated": "2023-12-18T14:33:41.753Z",
-          "dateReleased": "2025-08-27T19:37:28.063Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/fast-async-world-save-forge-fabric",
-            "wikiUrl": "",
-            "issuesUrl": "https://github.com/someaddons/FastAsyncWorldSave/issues",
-            "sourceUrl": "https://github.com/someaddons/FastAsyncWorldSave"
-          },
-          "logo": {
-            "id": 920973,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/920/973/256/256/638384996050010285.png",
-            "title": "638384996050010285.png",
-            "url": "https://media.forgecdn.net/avatars/920/973/638384996050010285.png",
-            "modId": 951499
-          },
-          "allowModDistribution": true,
-          "screenshots": [],
-          "mainFileId": 6935208
-        },
-        "curseForgeFile": {
-          "id": 6935203,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "fastasyncworldsave-1.20.1-2.6.jar",
-          "fileName": "fastasyncworldsave-1.20.1-2.6.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2025-08-27T19:36:05.07Z",
-          "fileLength": 14812,
-          "dependencies": [
-            {
-              "fileId": 0,
-              "modId": 326652,
-              "relationType": 3
-            }
-          ],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 396856724,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 269258984,
-              "name": "com"
-            },
-            {
-              "fingerprint": 2089655399,
-              "name": "fastasyncworldsave.mixins.json"
-            },
-            {
-              "fingerprint": 242290350,
-              "name": "fastasyncworldsave.refmap.json"
-            },
-            {
-              "fingerprint": 3185219565,
-              "name": "pack.mcmeta"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "3a3180f5fc9d1209ca0ad69084afe8ee42ba44d6",
-              "algo": 1
-            },
-            {
-              "value": "6c24d9c3cc17e4e5052c21c2b2d188ad",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
-              "gameVersionName": "NeoForge"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000020.0000000001",
-              "gameVersion": "1.20.1",
-              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
-              "gameVersionName": "1.20.1"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
-              "gameVersionName": "Server"
-            }
-          ],
-          "gameVersions": [
-            "NeoForge",
-            "1.20.1",
-            "Forge",
-            "Server"
-          ],
-          "fileFingerprint": 1473382339,
-          "modId": 951499
-        }
-      },
-      {
         "name": "spark",
         "version": "1.10.53 (Forge 1.20.1)",
         "optional": true,
@@ -63371,13 +62464,2703 @@
             "forge"
           ]
         }
+      },
+      {
+        "name": "Villages&Pillages",
+        "version": "Villages & Pillages 1.0.2",
+        "optional": true,
+        "file": "villagesandpillages-forge-mc1.20.1-1.0.2.jar",
+        "type": "mods",
+        "description": "Structure mod that brings an exciting twist to Minecraft by introducing hostile and unfriendly pillages, providing a thrilling contrast to the peaceful villages.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 915531,
+        "curseForgeFileId": 5933305,
+        "curseForgeProject": {
+          "id": 915531,
+          "name": "Villages&Pillages",
+          "authors": [
+            {
+              "id": 102166932,
+              "name": "Faboslav",
+              "url": "https://www.curseforge.com/members/faboslav"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Structure mod that brings an exciting twist to Minecraft by introducing hostile and unfriendly pillages, providing a thrilling contrast to the peaceful villages.",
+          "categories": [
+            {
+              "name": "Structures",
+              "slug": "world-structures",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
+              "dateModified": "2014-05-08T17:37:17.173Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 409,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 409,
+          "classId": 6,
+          "slug": "villages-and-pillages",
+          "isFeatured": false,
+          "dateModified": "2025-10-01T08:09:29.723Z",
+          "dateCreated": "2023-09-26T06:59:53.993Z",
+          "dateReleased": "2025-06-13T11:09:41.093Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/villages-and-pillages",
+            "wikiUrl": "https://github.com/Faboslav/villages-and-pillages/wiki",
+            "issuesUrl": "https://github.com/Faboslav/villages-and-pillages/issues",
+            "sourceUrl": "https://github.com/Faboslav/villages-and-pillages"
+          },
+          "socialLinks": [
+            {
+              "type": "2",
+              "url": "https://discord.com/invite/QGwFvvMQCn"
+            },
+            {
+              "type": "3",
+              "url": "https://github.com/Faboslav/villages-and-pillages"
+            },
+            {
+              "type": "7",
+              "url": "https://www.patreon.com/Faboslav"
+            }
+          ],
+          "logo": {
+            "id": 1452092,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1452/92/256/256/638942184548049224.png",
+            "title": "638942184548049224.png",
+            "url": "https://media.forgecdn.net/avatars/1452/92/638942184548049224.png",
+            "modId": 915531
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 733980,
+              "description": "Attic",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/733/980/310/172/witch_village_6.png",
+              "title": "Witch Village house interior",
+              "url": "https://media.forgecdn.net/attachments/733/980/witch_village_6.png",
+              "modId": 915531
+            },
+            {
+              "id": 733979,
+              "description": "Brewing room",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/733/979/310/172/witch_village_5.png",
+              "title": "Witch Village house interior",
+              "url": "https://media.forgecdn.net/attachments/733/979/witch_village_5.png",
+              "modId": 915531
+            },
+            {
+              "id": 733978,
+              "description": "Dark ritual",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/733/978/310/172/witch_village_4.png",
+              "title": "Witch Village house interior",
+              "url": "https://media.forgecdn.net/attachments/733/978/witch_village_4.png",
+              "modId": 915531
+            },
+            {
+              "id": 733973,
+              "description": "Mangrove swamp",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/733/973/310/172/witch_village_3_day.png",
+              "title": "Witch Village at day",
+              "url": "https://media.forgecdn.net/attachments/733/973/witch_village_3_day.png",
+              "modId": 915531
+            },
+            {
+              "id": 733972,
+              "description": "Mangrove swamp",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/733/972/310/172/witch_village_3_night.png",
+              "title": "Witch Village at night",
+              "url": "https://media.forgecdn.net/attachments/733/972/witch_village_3_night.png",
+              "modId": 915531
+            },
+            {
+              "id": 733971,
+              "description": "Swamp",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/733/971/310/172/witch_village_2_day.png",
+              "title": "Witch Village at day",
+              "url": "https://media.forgecdn.net/attachments/733/971/witch_village_2_day.png",
+              "modId": 915531
+            },
+            {
+              "id": 733970,
+              "description": "Swamp",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/733/970/310/172/witch_village_2_night.png",
+              "title": "Witch Village at night",
+              "url": "https://media.forgecdn.net/attachments/733/970/witch_village_2_night.png",
+              "modId": 915531
+            },
+            {
+              "id": 733969,
+              "description": "Swamp",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/733/969/310/172/witch_village_1_day.png",
+              "title": "Witch Village at day",
+              "url": "https://media.forgecdn.net/attachments/733/969/witch_village_1_day.png",
+              "modId": 915531
+            },
+            {
+              "id": 733968,
+              "description": "Swamp",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/733/968/310/172/witch_village_1_night.png",
+              "title": "Witch Village at night",
+              "url": "https://media.forgecdn.net/attachments/733/968/witch_village_1_night.png",
+              "modId": 915531
+            }
+          ],
+          "mainFileId": 6646642
+        },
+        "curseForgeFile": {
+          "id": 5933305,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Villages & Pillages 1.0.2",
+          "fileName": "villagesandpillages-forge-mc1.20.1-1.0.2.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-11-24T11:12:23.153Z",
+          "fileLength": 243628,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 485316271,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1911368975,
+              "name": "architectury_inject_villagesandpillages_common_75ac7cac06d9404286c158345d03d60f_22ac3f214bbc7b4adb847e959276c73d723203b024af8c62749149bbcbe91e38villagesandpillagesmc1201102devjar"
+            },
+            {
+              "fingerprint": 2482640754,
+              "name": "com"
+            },
+            {
+              "fingerprint": 399361396,
+              "name": "data"
+            },
+            {
+              "fingerprint": 216638670,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 140919653,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 4079362561,
+              "name": "villagesandpillages-common.mixins.json"
+            },
+            {
+              "fingerprint": 3636256062,
+              "name": "villagesandpillages-mc1.20.1-common-refmap.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "f80991a44ece347f0be2724c63159b6e46ae8393",
+              "algo": 1
+            },
+            {
+              "value": "43bd901f6f20031baf2ad25ba9694dd7",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            }
+          ],
+          "gameVersions": [
+            "1.20.1",
+            "Forge",
+            "1.20"
+          ],
+          "fileFingerprint": 4093311014,
+          "modId": 915531
+        },
+        "modrinthProject": {
+          "id": "klXONLDA",
+          "slug": "villages-and-pillages",
+          "project_type": "mod",
+          "team": "E3xHYoLn",
+          "title": "Villages&Pillages",
+          "description": "Structure mod that brings an exciting twist to Minecraft by introducing hostile and unfriendly pillages, providing a thrilling contrast to the peaceful villages.",
+          "body": "<h1>🛖 Villages & Pillages</h1>\n\n<p style=\"text-align: center;\">\n\t<a style=\"text-decoration: none;\" href=\"https://ko-fi.com/faboslav\">\n\t\t<img src=\"https://img.shields.io/static/v1?label=&amp;message=Ko-fi&amp;color=ff5f5f&amp;labelColor=111214&amp;logoColor=white&amp;style=for-the-badge&amp;logo=ko-fi\" height=\"28\" />\n\t</a>\n\t<a style=\"text-decoration: none;\" href=\"https://www.patreon.com/Faboslav\">\n\t\t<img src=\"https://img.shields.io/endpoint.svg?url=https://shieldsio-patreon.vercel.app/api/?username=Faboslav&amp;type=patrons?color=c9d1d9&amp;label=&amp;labelColor=111214&amp;logoColor=white&amp;style=for-the-badge\" height=\"28\" />\n\t</a>\n\t<a style=\"text-decoration: none;\" href=\"https://discord.gg/QGwFvvMQCn\">\n\t\t<img src=\"https://img.shields.io/discord/924964658169913404?color=5865F2&amp;label=&amp;labelColor=111214&amp;logoColor=white&amp;style=for-the-badge&amp;logo=discord\" height=\"28\" />\n\t</a>\n\t<a style=\"text-decoration: none;\" href=\"https://modrinth.com/mod/fabric-api\">\n\t\t<img src=\"https://img.shields.io/static/v1?label=&amp;message=Requires Fabric API&amp;color=c9d1d9&amp;labelColor=111214&amp;logoColor=white&amp;style=for-the-badge&amp;logo=curseforge\" height=\"28\" />\n\t</a>\n\t<a style=\"text-decoration: none;\" href=\"https://modrinth.com/mod/yungs-api\">\n\t\t<img src=\"https://img.shields.io/static/v1?label=&amp;message=Requires YUNGs APIs&amp;color=c9d1d9&amp;labelColor=111214&amp;logoColor=white&amp;style=for-the-badge&amp;logo=curseforge\" height=\"28\" />\n\t</a>\n</p>\n\n<br>\n\n<p>Villages&Pillages is a structure mod that brings an exciting twist to Minecraft by introducing hostile and unfriendly pillages, providing a thrilling contrast to the peaceful villages.</p>\n\n<p>The mod will receive seasonal updates, with the first season featuring the addition of Witch Villages!</p>\n\n<br>\n\n<h2>🧹 Season 1: Witch Village</h2>\n\nExplore the spine-chilling Witch Village hidden deep within swamps and mangrove biomes. Wander through mossy houses and bubbling cauldrons, navigate treacherous bogs to reveal the village's dark secrets.\n\n<p>\n\t<img src=\"https://raw.githubusercontent.com/Faboslav/villages-and-pillages/master//.github/assets/images/witch_village.png\" width=\"876\" />\n</p>\n\n<br>\n\n<h2>⚙️ Compatibility</h2>\n\n<p>Villages&Pillages is designed to be fully compatible with all world generation mods, and it currently offers enhanced compatibility with the Waystones mod.</p>\n\n<br>\n\n<h2>💬 Community</h2>\n\n<p>Feel free to <a href=\"https://discord.gg/QGwFvvMQCn\">join our community at the discord server</a> to chat, share your creations, ask any question or to simply be updated about the latest development of the mod and notified when the new release is out. Also don't hesitate to <a href=\"https://github.com/Faboslav/villages-and-pillages/issues\">report any crash or bug via GitHub issues</a>.</p>\n\n<br>\n\n<h2>👋 Support</h2>\n\n<p>I will continue developing my mods as a hobby because I truly enjoy it. If you'd like to support me, you can do so on <a href=\"https://www.patreon.com/Faboslav\">Patreon</a> or <a href=\"https://ko-fi.com/faboslav\">Ko-fi</a>. Your support is greatly appreciated.</p>\n\n<br>\n\n<h2>📜 License</h2>\n\n<p>\n\tThe mod is licensed with <a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/LICENSE.txt\">CC BY-NC-ND 4.0</a> license.\n</p>\n<p>\n\tPlease feel free to explore my code for examples of how I've tackled and solved various challenges while developing this mod. You're welcome to incorporate code snippets into your own projects. Also feel free to use this mod in any modpack (although credit/link back to this page will be greatly appreciated).\n</p>",
+          "published": "2023-09-23T14:57:12.291681Z",
+          "updated": "2025-06-13T11:09:43.286362Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-CC-BY-NC-ND-4.0",
+            "name": "",
+            "url": "https://github.com/Faboslav/villages-and-pillages/blob/master/LICENSE.txt"
+          },
+          "client_side": "unsupported",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "decoration",
+            "worldgen"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge",
+            "quilt"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/klXONLDA/a191b9401c0868a549252c8538cec2fbf552853d_96.webp",
+          "issues_url": "https://github.com/Faboslav/villages-and-pillages/issues",
+          "source_url": "https://github.com/Faboslav/villages-and-pillages",
+          "discord_url": "https://discord.com/invite/QGwFvvMQCn",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/Faboslav"
+            },
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/faboslav"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/klXONLDA/images/952e52ff3bce717b2bd58af9d0ee5146f69fac02_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/klXONLDA/images/d8a82324f5eaad0135b92257ca60dce8f4d80f5d.png",
+              "featured": false,
+              "title": "Witch Village at night",
+              "description": "Swamp",
+              "created": "2023-09-25T07:44:42.056881Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/klXONLDA/images/fd08da5c0291a18882769f8497d4c99f74acef07_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/klXONLDA/images/6810c17042bb269efbf39028650fa3ba4d8113a8.png",
+              "featured": true,
+              "title": "Witch Village at day",
+              "description": "Swamp",
+              "created": "2023-09-25T07:44:58.876595Z",
+              "ordering": 1.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/klXONLDA/images/ba0d6bebf24c8293452d98ec16d7ef4714831b86_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/klXONLDA/images/37b5ac603bd94948e353249a5789a190b3ad02d8.png",
+              "featured": false,
+              "title": "Witch Village at night",
+              "description": "Swamp",
+              "created": "2023-09-25T07:45:13.572835Z",
+              "ordering": 3.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/klXONLDA/images/0379156c3958a8b3f0b1c1b281c0c4bc99846dac_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/klXONLDA/images/5d48cb70dc64b6459d9230a938c0fdcadf002738.png",
+              "featured": false,
+              "title": "Witch Village at day",
+              "description": "Swamp",
+              "created": "2023-09-25T07:45:42.834910Z",
+              "ordering": 4.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/klXONLDA/images/4593c99d4cb728cd19bdfe1cbb5b09cb9425c18a_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/klXONLDA/images/cf1b7dcc780408cbc6a55c12c79acb13da381f7f.png",
+              "featured": false,
+              "title": "Witch Village at night",
+              "description": "Mangrove swamp",
+              "created": "2023-09-25T07:46:08.329199Z",
+              "ordering": 5.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/klXONLDA/images/f426c99690fc4c8ebac527af05d26063d7817178_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/klXONLDA/images/d9154fdcecebb593706a0fd4fdcc9e86727f713a.png",
+              "featured": false,
+              "title": "Witch Village at day",
+              "description": "Mangrove swamp",
+              "created": "2023-09-25T07:46:29.039120Z",
+              "ordering": 6.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/klXONLDA/images/483e0e2e86992a6e3304baa9dd621ce25e9f8f49_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/klXONLDA/images/90060fde717d8799bfeec65819ec3ad1e67b8306.png",
+              "featured": false,
+              "title": "Witch Village house interior",
+              "description": "Dark ritual",
+              "created": "2023-09-25T07:56:30.023453Z",
+              "ordering": 7.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/klXONLDA/images/c61cf5d90c45beb434f8e43be80d0f1aa75a3270_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/klXONLDA/images/815a6d42e458722a1c281adc7464b89d9ffcbe08.png",
+              "featured": false,
+              "title": "Witch Village house interior",
+              "description": "Brewing room",
+              "created": "2023-09-25T07:57:12.225889Z",
+              "ordering": 8.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/klXONLDA/images/c0be75c3c7818a1bf5b6354f5c96b538c0d520be_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/klXONLDA/images/60f2544215e1778ae78c0517659d80896654c33a.png",
+              "featured": false,
+              "title": "Witch Village house interior",
+              "description": "Attic",
+              "created": "2023-09-25T07:57:58.465877Z",
+              "ordering": 9.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "6vHMXtim",
+          "project_id": "klXONLDA",
+          "author_id": "CGl7vZ8J",
+          "name": "Villages & Pillages 1.0.2",
+          "version_number": "forge-mc1.20.1-1.0.2",
+          "changelog": "- Fixed possible deadlocks on worldgen (Thanks to pietro-lopes)\n",
+          "date_published": "2024-11-24T11:12:24.886400Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "f80991a44ece347f0be2724c63159b6e46ae8393",
+                "sha512": "d2aa572dde135610c9d1288f9e76604a447a935a2c2b88ea67585dd2922fe9d8401c6812f33b45107debe46c026ffd8acb866eaadab8ceddecf37e3cf4651a20"
+              },
+              "url": "https://cdn.modrinth.com/data/klXONLDA/versions/6vHMXtim/villagesandpillages-forge-mc1.20.1-1.0.2.jar",
+              "filename": "villagesandpillages-forge-mc1.20.1-1.0.2.jar",
+              "primary": true,
+              "size": 243628
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
+      },
+      {
+        "name": "End Villager Outpost",
+        "version": "end_villager_outpost-1.0.0-forge-1.20.1.jar",
+        "optional": true,
+        "file": "end_villager_outpost-1.0.0-forge-1.20.1.jar",
+        "type": "mods",
+        "description": "Adds a large Villager moon outpost to the End",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 1341317,
+        "curseForgeFileId": 6964719,
+        "curseForgeProject": {
+          "id": 1341317,
+          "name": "End Villager Outpost",
+          "authors": [
+            {
+              "id": 110539587,
+              "name": "SuperWarioModTeam",
+              "url": "https://www.curseforge.com/members/superwariomodteam"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Adds a large Villager moon outpost to the End",
+          "categories": [
+            {
+              "name": "Structures",
+              "slug": "world-structures",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
+              "dateModified": "2014-05-08T17:37:17.173Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 409,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Biomes",
+              "slug": "world-biomes",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-biomes",
+              "dateModified": "2014-05-08T17:34:59.587Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 407,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/22/635351492995856506.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 422,
+          "classId": 6,
+          "slug": "end-villager-outpost",
+          "isFeatured": false,
+          "dateModified": "2026-01-10T01:20:08.063Z",
+          "dateCreated": "2025-09-05T13:42:18.56Z",
+          "dateReleased": "2026-01-10T01:12:35.62Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/end-villager-outpost"
+          },
+          "logo": {
+            "id": 1429860,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1429/860/256/256/638926354027506620.png",
+            "title": "638926354027506620.png",
+            "url": "https://media.forgecdn.net/avatars/1429/860/638926354027506620.png",
+            "modId": 1341317
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 1313363,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1313/363/310/172/inside-4.png",
+              "title": "Inside",
+              "url": "https://media.forgecdn.net/attachments/1313/363/inside-4.png",
+              "modId": 1341317
+            },
+            {
+              "id": 1313362,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1313/362/310/172/inside-3.png",
+              "title": "Inside",
+              "url": "https://media.forgecdn.net/attachments/1313/362/inside-3.png",
+              "modId": 1341317
+            },
+            {
+              "id": 1313361,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1313/361/310/172/inside-2.png",
+              "title": "Inside",
+              "url": "https://media.forgecdn.net/attachments/1313/361/inside-2.png",
+              "modId": 1341317
+            },
+            {
+              "id": 1313360,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1313/360/310/172/inside.png",
+              "title": "Inside",
+              "url": "https://media.forgecdn.net/attachments/1313/360/inside.png",
+              "modId": 1341317
+            },
+            {
+              "id": 1313359,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1313/359/310/172/outpost.png",
+              "title": "Outpost",
+              "url": "https://media.forgecdn.net/attachments/1313/359/outpost.png",
+              "modId": 1341317
+            }
+          ],
+          "mainFileId": 7439924
+        },
+        "curseForgeFile": {
+          "id": 6964719,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "end_villager_outpost-1.0.0-forge-1.20.1.jar",
+          "fileName": "end_villager_outpost-1.0.0-forge-1.20.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-09-05T02:17:02.84Z",
+          "fileLength": 68019,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2629409918,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 118629613,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2744962974,
+              "name": "data"
+            },
+            {
+              "fingerprint": 2200285033,
+              "name": "endvillageroutpost"
+            },
+            {
+              "fingerprint": 3475882590,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "f4989918c04f52f3c9f2503f4c1074bd0944df3a",
+              "algo": 1
+            },
+            {
+              "value": "5cf1b78b683dbc93a5a5761eae39d2ed",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.20.1",
+            "Forge"
+          ],
+          "fileFingerprint": 4102913452,
+          "modId": 1341317
+        },
+        "modrinthProject": {
+          "id": "J90dLs0h",
+          "slug": "end-villager-outpost",
+          "project_type": "mod",
+          "team": "HJLOLGbr",
+          "title": "End Villager Outpost",
+          "description": "Adds a large Villager moon outpost to the End",
+          "body": "### End Villager Outpost\n\n**This mod adds a large Villager moon outpost to the End.**\n![Outpost](https://cdn.modrinth.com/data/cached_images/70075ada75b432aa56abe1e768109166f19f722d.jpeg)\n\n\n\n- Villagers of different professions live and trade inside this floating moon base.\n- The interior is nicely decorated, and you’ll also find some End themed loot throughout the outpost.\n  \n![Inside](https://cdn.modrinth.com/data/cached_images/b2a1e32c19d808aa2e518df14122fb772a03bb4d.jpeg)\n\n- There are even hidden loot secrets waiting to be discovered inside.\n\n![Inside](https://cdn.modrinth.com/data/cached_images/080396d01c3fc1c16edde6ce64a44c2edf0ef815.jpeg)\n  \n\nFeel free to use this mod in your modpacks",
+          "published": "2025-09-05T15:46:45.973002Z",
+          "updated": "2026-01-10T01:11:56.168026Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": ""
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "worldgen"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/J90dLs0h/28131ac7e4b91bb9aecab13df6ebe79d786d48d9_96.webp",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/J90dLs0h/images/080396d01c3fc1c16edde6ce64a44c2edf0ef815_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/J90dLs0h/images/080396d01c3fc1c16edde6ce64a44c2edf0ef815.jpeg",
+              "featured": false,
+              "created": "2025-09-05T15:59:36.458406Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/J90dLs0h/images/59d96fb619bec0a7dbcdbecda7cd256e3d048926_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/J90dLs0h/images/59d96fb619bec0a7dbcdbecda7cd256e3d048926.jpeg",
+              "featured": false,
+              "created": "2025-09-05T15:59:32.465818Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/J90dLs0h/images/70075ada75b432aa56abe1e768109166f19f722d_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/J90dLs0h/images/70075ada75b432aa56abe1e768109166f19f722d.jpeg",
+              "featured": false,
+              "created": "2025-09-05T15:59:20.820419Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/J90dLs0h/images/b2a1e32c19d808aa2e518df14122fb772a03bb4d_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/J90dLs0h/images/b2a1e32c19d808aa2e518df14122fb772a03bb4d.jpeg",
+              "featured": false,
+              "created": "2025-09-05T15:59:28.108418Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "NXqC4mhE",
+          "project_id": "J90dLs0h",
+          "author_id": "s1BIyphj",
+          "name": "End Villager Outpost 1.0.0",
+          "version_number": "1.0.0",
+          "changelog": "",
+          "date_published": "2025-09-05T15:47:06.140944Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "f4989918c04f52f3c9f2503f4c1074bd0944df3a",
+                "sha512": "e8fc760ef2b154869954dc779f2428f54e06641000d587dd2285e83ed3e870bdc10f909dd6085bf6c644a97e1832512038da32ccb45410d8e2a3015b56c3ecb0"
+              },
+              "url": "https://cdn.modrinth.com/data/J90dLs0h/versions/NXqC4mhE/end_villager_outpost-1.0.0-forge-1.20.1.jar",
+              "filename": "end_villager_outpost-1.0.0-forge-1.20.1.jar",
+              "primary": true,
+              "size": 68019
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
+      },
+      {
+        "name": "Hostile Villages[Forge/Fabric]",
+        "version": "hostilevillages-1.20.1-5.7.jar",
+        "optional": true,
+        "file": "hostilevillages-1.20.1-5.7.jar",
+        "type": "mods",
+        "description": "Mobs overrun Villages!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 473345,
+        "curseForgeFileId": 5480855,
+        "curseForgeProject": {
+          "id": 473345,
+          "name": "Hostile Villages[Forge/Fabric]",
+          "authors": [
+            {
+              "id": 100114338,
+              "name": "someaddon",
+              "url": "https://www.curseforge.com/members/someaddon"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Mobs overrun Villages!",
+          "categories": [
+            {
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Mobs",
+              "slug": "world-mobs",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
+              "dateModified": "2014-05-08T17:46:59.507Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 411,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 411,
+          "classId": 6,
+          "slug": "hostile-villages",
+          "isFeatured": false,
+          "dateModified": "2024-08-17T22:22:57.72Z",
+          "dateCreated": "2021-04-19T07:27:31.897Z",
+          "dateReleased": "2024-07-31T17:31:06.993Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/hostile-villages",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/someaddons/HostileVillages/issues",
+            "sourceUrl": "https://github.com/someaddons/HostileVillages"
+          },
+          "logo": {
+            "id": 531172,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/531/172/256/256/637852837955420739.png",
+            "title": "637852837955420739.png",
+            "url": "https://media.forgecdn.net/avatars/531/172/637852837955420739.png",
+            "modId": 473345
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 358137,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/358/137/310/172/desc6.png",
+              "title": "Illager Village",
+              "url": "https://media.forgecdn.net/attachments/358/137/desc6.png",
+              "modId": 473345
+            },
+            {
+              "id": 358136,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/358/136/310/172/desc5.png",
+              "title": "Snowmen Village",
+              "url": "https://media.forgecdn.net/attachments/358/136/desc5.png",
+              "modId": 473345
+            },
+            {
+              "id": 358135,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/358/135/310/172/desc3.png",
+              "title": "Creeper Village",
+              "url": "https://media.forgecdn.net/attachments/358/135/desc3.png",
+              "modId": 473345
+            },
+            {
+              "id": 358134,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/358/134/310/172/desc2.png",
+              "title": "Witch village",
+              "url": "https://media.forgecdn.net/attachments/358/134/desc2.png",
+              "modId": 473345
+            },
+            {
+              "id": 358133,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/358/133/310/172/desc1.png",
+              "title": "Desert Village",
+              "url": "https://media.forgecdn.net/attachments/358/133/desc1.png",
+              "modId": 473345
+            }
+          ],
+          "mainFileId": 5584613
+        },
+        "curseForgeFile": {
+          "id": 5480855,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "hostilevillages-1.20.1-5.7.jar",
+          "fileName": "hostilevillages-1.20.1-5.7.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-06-27T22:43:33.51Z",
+          "fileLength": 31961,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 326652,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3563819071,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 939415815,
+              "name": "com"
+            },
+            {
+              "fingerprint": 4182884558,
+              "name": "hostilevillages.mixins.json"
+            },
+            {
+              "fingerprint": 552498051,
+              "name": "hostilevillages.refmap.json"
+            },
+            {
+              "fingerprint": 1438559181,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "f28233811d3c942dd87d274981c2f8ddac547660",
+              "algo": 1
+            },
+            {
+              "value": "5b4cc5af9ea9c5789fdbea9066019bb5",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "NeoForge",
+            "1.20.1",
+            "Forge",
+            "Server"
+          ],
+          "fileFingerprint": 298623225,
+          "modId": 473345
+        }
+      },
+      {
+        "name": "Better Villages - Forge",
+        "version": "Better village 3.3.1 - Forge 1.20.1",
+        "optional": true,
+        "file": "bettervillage-forge-1.20.1-3.3.1-all.jar",
+        "type": "mods",
+        "description": "This mod enhances the villages in Minecraft by improving existing structure, making them feel more alive and engaging to explore.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 615352,
+        "curseForgeFileId": 6563409,
+        "curseForgeProject": {
+          "id": 615352,
+          "name": "Better Villages - Forge",
+          "authors": [
+            {
+              "id": 102184735,
+              "name": "jtl_elisa",
+              "url": "https://www.curseforge.com/members/jtl_elisa"
+            },
+            {
+              "id": 103805015,
+              "name": "jtl_tom",
+              "url": "https://www.curseforge.com/members/jtl_tom"
+            }
+          ],
+          "gameId": 432,
+          "summary": "This mod enhances the villages in Minecraft by improving existing structure, making them feel more alive and engaging to explore.",
+          "categories": [
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Structures",
+              "slug": "world-structures",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
+              "dateModified": "2014-05-08T17:37:17.173Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 409,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 406,
+          "classId": 6,
+          "slug": "better-village-forge",
+          "isFeatured": false,
+          "dateModified": "2025-10-13T03:40:33.52Z",
+          "dateCreated": "2022-04-20T08:00:58.59Z",
+          "dateReleased": "2025-10-13T03:33:44.09Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/better-village-forge",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/jtorleon-studios-team/bettervillages/issues"
+          },
+          "logo": {
+            "id": 1206480,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1206/480/256/256/638784637234942922.jpeg",
+            "title": "638784637234942922.jpeg",
+            "url": "https://media.forgecdn.net/avatars/1206/480/638784637234942922.jpeg",
+            "modId": 615352
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 1129568,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1129/568/310/172/savanna_2.png",
+              "title": "banner better village",
+              "url": "https://media.forgecdn.net/attachments/1129/568/savanna_2.png",
+              "modId": 615352
+            },
+            {
+              "id": 1098218,
+              "description": "Taiga Village",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1098/218/310/172/taigavillage0_optimized_2000-png.png",
+              "title": "Taiga Village",
+              "url": "https://media.forgecdn.net/attachments/1098/218/taigavillage0_optimized_2000-png.png",
+              "modId": 615352
+            },
+            {
+              "id": 1098217,
+              "description": "Taiga Village",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1098/217/310/172/taigavillage1_optimized_2000-png.png",
+              "title": "Taiga Village",
+              "url": "https://media.forgecdn.net/attachments/1098/217/taigavillage1_optimized_2000-png.png",
+              "modId": 615352
+            },
+            {
+              "id": 1098216,
+              "description": "Taiga Village",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1098/216/310/172/taigavillage2_optimized_2000-png.png",
+              "title": "Taiga Village",
+              "url": "https://media.forgecdn.net/attachments/1098/216/taigavillage2_optimized_2000-png.png",
+              "modId": 615352
+            },
+            {
+              "id": 648629,
+              "description": "https://www.curseforge.com/minecraft/texture-packs/better-villages-bountiful",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/648/629/310/172/example_bounti.png",
+              "title": "Bountiful Compat",
+              "url": "https://media.forgecdn.net/attachments/648/629/example_bounti.png",
+              "modId": 615352
+            },
+            {
+              "id": 645630,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/645/630/310/172/savanna_4.png",
+              "title": "Savanna Village",
+              "url": "https://media.forgecdn.net/attachments/645/630/savanna_4.png",
+              "modId": 615352
+            },
+            {
+              "id": 645628,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/645/628/310/172/savanna_3.png",
+              "title": "Savanna Village",
+              "url": "https://media.forgecdn.net/attachments/645/628/savanna_3.png",
+              "modId": 615352
+            },
+            {
+              "id": 645626,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/645/626/310/172/savanna_2.png",
+              "title": "Savanna Village",
+              "url": "https://media.forgecdn.net/attachments/645/626/savanna_2.png",
+              "modId": 615352
+            },
+            {
+              "id": 645624,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/645/624/310/172/savanna_1.png",
+              "title": "Savanna Village",
+              "url": "https://media.forgecdn.net/attachments/645/624/savanna_1.png",
+              "modId": 615352
+            },
+            {
+              "id": 466401,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/466/401/310/172/snow_1.png",
+              "title": "Snowy village",
+              "url": "https://media.forgecdn.net/attachments/466/401/snow_1.png",
+              "modId": 615352
+            },
+            {
+              "id": 466399,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/466/399/310/172/snow_0.png",
+              "title": "Snowy village",
+              "url": "https://media.forgecdn.net/attachments/466/399/snow_0.png",
+              "modId": 615352
+            },
+            {
+              "id": 466397,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/466/397/310/172/snow_3.png",
+              "title": "Snowy village",
+              "url": "https://media.forgecdn.net/attachments/466/397/snow_3.png",
+              "modId": 615352
+            },
+            {
+              "id": 466395,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/466/395/310/172/snow_2.png",
+              "title": "Snowy village",
+              "url": "https://media.forgecdn.net/attachments/466/395/snow_2.png",
+              "modId": 615352
+            },
+            {
+              "id": 458251,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/458/251/310/172/2.png",
+              "title": "Plains Village",
+              "url": "https://media.forgecdn.net/attachments/458/251/2.png",
+              "modId": 615352
+            },
+            {
+              "id": 458249,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/458/249/310/172/1.png",
+              "title": "Plains Village",
+              "url": "https://media.forgecdn.net/attachments/458/249/1.png",
+              "modId": 615352
+            },
+            {
+              "id": 458247,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/458/247/310/172/0.png",
+              "title": "Plains Village",
+              "url": "https://media.forgecdn.net/attachments/458/247/0.png",
+              "modId": 615352
+            },
+            {
+              "id": 458136,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/458/136/310/172/ethandstrue.png",
+              "title": "Plains Village",
+              "url": "https://media.forgecdn.net/attachments/458/136/ethandstrue.png",
+              "modId": 615352
+            }
+          ],
+          "mainFileId": 7101616
+        },
+        "curseForgeFile": {
+          "id": 6563409,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Better village 3.3.1 - Forge 1.20.1",
+          "fileName": "bettervillage-forge-1.20.1-3.3.1-all.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-05-25T04:06:05.887Z",
+          "fileLength": 2612506,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 532727,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 4168534265,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1125111891,
+              "name": "bettervillage.mixins.json"
+            },
+            {
+              "fingerprint": 1328004577,
+              "name": "changelog.md"
+            },
+            {
+              "fingerprint": 2963091986,
+              "name": "com"
+            },
+            {
+              "fingerprint": 1022818249,
+              "name": "data"
+            },
+            {
+              "fingerprint": 498058124,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 812343042,
+              "name": "license_bettervillage.txt"
+            },
+            {
+              "fingerprint": 3279286523,
+              "name": "mixins.bettervillage.refmap.json"
+            },
+            {
+              "fingerprint": 4044829369,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 498058124,
+              "name": "pack.png"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "0c2f647cec98c3a4ca6d05b7a2f14962e66ad824",
+              "algo": 1
+            },
+            {
+              "value": "7d46cc7c55571ae66cd40c5dcbc27014",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.20.1",
+            "Forge"
+          ],
+          "fileFingerprint": 1644471708,
+          "modId": 615352
+        }
+      },
+      {
+        "name": "ATO - All the Ores",
+        "version": "Unknown",
+        "optional": true,
+        "file": "alltheores-1.20.1-47.1.3-2.2.4.jar",
+        "type": "mods",
+        "description": "All the Ores Unified ",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 405593,
+        "curseForgeFileId": 5348605,
+        "curseForgeProject": {
+          "id": 405593,
+          "name": "ATO - All the Ores",
+          "authors": [
+            {
+              "id": 36387323,
+              "name": "ATMTeam",
+              "url": "https://www.curseforge.com/members/atmteam"
+            },
+            {
+              "id": 100737837,
+              "name": "thevortexFoxTopia",
+              "url": "https://www.curseforge.com/members/thevortexfoxtopia"
+            }
+          ],
+          "gameId": 432,
+          "summary": "All the Ores Unified ",
+          "categories": [
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Ores and Resources",
+              "slug": "world-ores-resources",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-ores-resources",
+              "dateModified": "2014-05-08T17:36:41.233Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 408,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/23/635351494012336510.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 424,
+          "classId": 6,
+          "slug": "ato",
+          "isFeatured": false,
+          "dateModified": "2025-09-23T23:53:47.157Z",
+          "dateCreated": "2020-08-31T22:31:53.7Z",
+          "dateReleased": "2025-09-23T23:46:41.223Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/ato",
+            "wikiUrl": ""
+          },
+          "logo": {
+            "id": 297396,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/297/396/256/256/637344417617385107.jpeg",
+            "title": "637344417617385107.jpeg",
+            "url": "https://media.forgecdn.net/avatars/297/396/637344417617385107.jpeg",
+            "modId": 405593
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 7027340
+        },
+        "curseForgeFile": {
+          "id": 5348605,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "alltheores-1.20.1-47.1.3-2.2.4.jar",
+          "fileName": "alltheores-1.20.1-47.1.3-2.2.4.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-05-16T15:42:49.31Z",
+          "fileLength": 1073852,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1091335521,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1900402450,
+              "name": ".cache"
+            },
+            {
+              "fingerprint": 3936843813,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3944207026,
+              "name": "data"
+            },
+            {
+              "fingerprint": 558855748,
+              "name": "net"
+            },
+            {
+              "fingerprint": 3311154274,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "acb6b854e441014ad864c10ff2f42444e8754ebb",
+              "algo": 1
+            },
+            {
+              "value": "1e40d66af7014dc35845db4f1bfb4dce",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "NeoForge",
+            "1.20.1",
+            "Forge"
+          ],
+          "fileFingerprint": 2672921062,
+          "modId": 405593
+        }
+      },
+      {
+        "name": "TimberReplant",
+        "version": "Unknown",
+        "optional": true,
+        "file": "TimberReplant-1.8.0.jar",
+        "type": "mods",
+        "description": "Automatically fell entire trees and replant saplings with one block break! Sustainable forestry made easy with configurable settings and proper tool durability.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 1356053,
+        "curseForgeFileId": 7063895,
+        "curseForgeProject": {
+          "id": 1356053,
+          "name": "TimberReplant(Fabric/Forge/NeoForge)",
+          "authors": [
+            {
+              "id": 120785301,
+              "name": "OSAMA_OM",
+              "url": "https://www.curseforge.com/members/osama_om"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Automatically fell entire trees and replant saplings with one block break! Sustainable forestry made easy with configurable settings and proper tool durability.",
+          "categories": [
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Food",
+              "slug": "mc-food",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-food",
+              "dateModified": "2014-05-08T17:45:26.55Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 436,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/49/635351499265510402.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 5191,
+          "classId": 6,
+          "slug": "timberreplant",
+          "isFeatured": false,
+          "dateModified": "2025-12-19T15:35:03.24Z",
+          "dateCreated": "2025-10-01T08:24:59.63Z",
+          "dateReleased": "2025-12-19T14:31:27.023Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/timberreplant"
+          },
+          "logo": {
+            "id": 1462842,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1462/842/256/256/638949504954319171_animated.gif",
+            "title": "638949504954319171.gif",
+            "url": "https://media.forgecdn.net/avatars/1462/842/638949504954319171.gif",
+            "modId": 1356053
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 7353711
+        },
+        "curseForgeFile": {
+          "id": 7063895,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "TimberReplant-1.8.0.jar",
+          "fileName": "TimberReplant-1.8.0.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-10-04T00:46:37.727Z",
+          "fileLength": 16628,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1252883982,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2143913980,
+              "name": "com"
+            },
+            {
+              "fingerprint": 16476693,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "2fb3cb7d629787f56610150886fdded1c98e84d7",
+              "algo": 1
+            },
+            {
+              "value": "b533c9f1703e1c6fcb4f6fde41829c8c",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000002",
+              "gameVersion": "1.20.2",
+              "gameVersionReleaseDate": "2023-09-21T15:25:15.053Z",
+              "gameVersionName": "1.20.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000003",
+              "gameVersion": "1.20.3",
+              "gameVersionReleaseDate": "2023-12-05T17:24:10.113Z",
+              "gameVersionName": "1.20.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000004",
+              "gameVersion": "1.20.4",
+              "gameVersionReleaseDate": "2023-12-07T15:17:47.907Z",
+              "gameVersionName": "1.20.4"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "1.20.2",
+            "1.20.3",
+            "1.20.1",
+            "Forge",
+            "1.20",
+            "1.20.4",
+            "Server"
+          ],
+          "fileFingerprint": 2310554965,
+          "modId": 1356053
+        },
+        "modrinthProject": {
+          "id": "nd3r1Uep",
+          "slug": "timberreplant",
+          "project_type": "mod",
+          "team": "7PGfSzVz",
+          "title": "TimberReplant",
+          "description": "Automatically fell entire trees and replant saplings with one block break! Sustainable forestry made easy with configurable settings and proper tool durability.",
+          "body": "# 🌲 TimberReplant\n\n**✨ Revolutionize tree harvesting in Minecraft with efficiency, sustainability, and automation. ✨**\n\nTimberReplant makes wood gathering smarter: fell entire trees with a single block break and automatically replant saplings to keep your world green . Perfect for players who want **efficiency without harming the environment**.\n\n***\n\n## 🌳 Key Features\n\n### 🔍 Intelligent Tree Detection\n\n*   Detects **complete tree structures** from any log block\n*   Supports all vanilla tree types: Oak, Birch, Spruce, Jungle, Acacia, Dark Oak, Cherry, Mangrove\n*   Configurable **detection radius** and **maximum tree size** for optimal performance\n\n### ⚡ Automated Harvesting\n\n*   Break **one log → entire tree falls**\n*   Preserves all standard drops: logs, leaves, sticks, saplings\n*   Compatible with **vanilla drop rates and enchantments**\n\n### 🌱 Sustainable Replanting\n\n*   Automatically plants the correct **sapling type** at the tree’s base\n*   Intelligent **ground validation** ensures successful planting\n*   Drops the sapling as an item if conditions are unsuitable\n\n### 🛠 Tool Integration\n\n*   Realistic **durability consumption** based on harvested logs\n*   Respects **tool effectiveness and enchantments**\n*   Optional **tool requirement enforcement** configurable in settings\n\n***\n\n## ⚙️ Technical Specifications\n\n### 🚀 Performance Optimization\n\n*   Efficient **breadth-first search algorithm** with configurable limits\n*   **Server-side processing** with client sync\n*   Memory-conscious design prevents lag in large forests\n\n### 📝 Configuration System\n\nCustomize via `timberreplant-common.toml`:\n\n*   **Tree Felling**: Enable/disable automatic harvesting\n*   **Replanting**: Toggle sapling auto-placement\n*   **Detection Limits**: Max tree size & search radius\n*   **Tool Requirements**: Enforce tool usage\n*   **Durability System**: Control tool wear\n*   **Audio Effects**: Configure harvesting sounds\n*   **Leaf Processing**: Include/exclude leaf collection\n\n***\n\n## 💡 Use Cases\n\n*   **Survival Players**: Efficient resource gathering while preserving nature\n*   **Builders**: Quickly collect wood for construction projects\n*   **Server Administrators**: Reduce deforestation with auto-replanting\n*   **Modpack Creators**: Enhance gameplay flow without breaking vanilla balance\n\n***\n\n## 📦 Installation Requirements\n\n*   Install on **server**\n\n***\n\n## 💬 Support & Community\n\nFor technical support, feature requests, or community discussion, join our Discord:\n\n**[Osama's Mod Hub](https://discord.gg/JQqdDp9hzb)**",
+          "published": "2025-10-04T12:37:09.016278Z",
+          "updated": "2025-12-19T14:34:07.980132Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": ""
+          },
+          "client_side": "unsupported",
+          "server_side": "required",
+          "categories": [
+            "food",
+            "utility"
+          ],
+          "loaders": [
+            "bukkit",
+            "fabric",
+            "forge",
+            "paper",
+            "purpur",
+            "quilt",
+            "spigot"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/nd3r1Uep/cf4e3d7a7be331c10217472736189b71a21c218a_96.webp",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "8vHOCu9W",
+          "project_id": "nd3r1Uep",
+          "author_id": "J85xWVgY",
+          "name": "TimberReplant-1.8.0",
+          "version_number": "1.8.0",
+          "changelog": "",
+          "date_published": "2025-10-04T12:56:50.272897Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "2fb3cb7d629787f56610150886fdded1c98e84d7",
+                "sha512": "8b58ce7eef5fa7c6286928b3bfee14708cbc8875daaa964fc843f97d30681d5c6071fbffb344ef28a1f751747788b8e8600a4f4832fd0fa165c8e3a134731c6a"
+              },
+              "url": "https://cdn.modrinth.com/data/nd3r1Uep/versions/8vHOCu9W/TimberReplant-1.8.0.jar",
+              "filename": "TimberReplant-1.8.0.jar",
+              "primary": true,
+              "size": 16628
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20.1",
+            "1.20.2",
+            "1.20.3",
+            "1.20.4"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
+      },
+      {
+        "name": "Dynamic FPS",
+        "version": "v3.11.3",
+        "optional": true,
+        "file": "dynamic-fps-3.11.3+minecraft-1.20.0-forge.jar",
+        "type": "mods",
+        "description": "Improve performance when Minecraft is in the background",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 335493,
+        "curseForgeFileId": 7412979,
+        "curseForgeProject": {
+          "id": 335493,
+          "name": "Dynamic FPS",
+          "authors": [
+            {
+              "id": 6835575,
+              "name": "juliand665",
+              "url": "https://www.curseforge.com/members/juliand665"
+            },
+            {
+              "id": 102765053,
+              "name": "LostLuma",
+              "url": "https://www.curseforge.com/members/lostluma"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Improve performance when Minecraft is in the background",
+          "categories": [
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "dynamic-fps",
+          "isFeatured": false,
+          "dateModified": "2026-01-03T16:52:09.747Z",
+          "dateCreated": "2019-08-14T20:41:50.45Z",
+          "dateReleased": "2026-01-03T16:46:04.2Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/dynamic-fps",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/juliand665/Dynamic-FPS/issues",
+            "sourceUrl": "https://github.com/juliand665/Dynamic-FPS"
+          },
+          "logo": {
+            "id": 218967,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/218/967/256/256/637013973797981040.png",
+            "title": "637013973797981040.png",
+            "url": "https://media.forgecdn.net/avatars/218/967/637013973797981040.png",
+            "modId": 335493
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 811031,
+              "description": "The main config screen allows disabling the mod, choosing an amount of time until the idle configuration is activated, and whether the 60 FPS limit in the main menu should be removed.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/811/31/310/172/2024-02-19_23.png",
+              "title": "Main Config Screen",
+              "url": "https://media.forgecdn.net/attachments/811/31/2024-02-19_23.png",
+              "modId": 335493
+            },
+            {
+              "id": 811032,
+              "description": "Choose a target frame rate, the volume for each sound category, and whether toast notifications are active while the window is being hovered over, unfocused, invisible, or you're idle.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/811/32/310/172/2024-02-19_23.png",
+              "title": "Per-Status Config",
+              "url": "https://media.forgecdn.net/attachments/811/32/2024-02-19_23.png",
+              "modId": 335493
+            },
+            {
+              "id": 811033,
+              "description": "For each window status you're able to set a multiplier per sound category (from vanilla and mods!) to either highlight or de-emphasize certain sounds.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/811/33/310/172/2024-02-19_23.png",
+              "title": "Sound Categories",
+              "url": "https://media.forgecdn.net/attachments/811/33/2024-02-19_23.png",
+              "modId": 335493
+            },
+            {
+              "id": 1079532,
+              "description": "An optional HUD element showing the current battery charge in percent, as well as whether it's charging or discharging.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1079/532/310/172/2025-01-27_14.png",
+              "title": "Battery Indicator HUD",
+              "url": "https://media.forgecdn.net/attachments/1079/532/2025-01-27_14.png",
+              "modId": 335493
+            }
+          ],
+          "mainFileId": 7413062
+        },
+        "curseForgeFile": {
+          "id": 7412979,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "v3.11.3",
+          "fileName": "dynamic-fps-3.11.3+minecraft-1.20.0-forge.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2026-01-03T16:38:10.653Z",
+          "fileLength": 402512,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 348521,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 7412980,
+          "modules": [
+            {
+              "fingerprint": 923176585,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1355493921,
+              "name": "architectury_inject_dynamicfps_common_2ab2f29987994d1aa043ae783e739d83_bc3d1897430245c972000ca21636c11b33502f8fa75642511e309397777c8703dynamicfps3113devjar"
+            },
+            {
+              "fingerprint": 3155506766,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 878990426,
+              "name": "dynamic_fps-common.mixins.json"
+            },
+            {
+              "fingerprint": 886044151,
+              "name": "dynamic_fps.mixins.json"
+            },
+            {
+              "fingerprint": 3515290794,
+              "name": "dynamic_fps"
+            },
+            {
+              "fingerprint": 1842089429,
+              "name": "net"
+            },
+            {
+              "fingerprint": 2415388098,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "0c191f164b1433dff4e8c95417100a108b3c276b",
+              "algo": 1
+            },
+            {
+              "value": "dfac36dc7c5ec3314c61eba15119c641",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "1.20.1",
+            "Forge",
+            "1.20"
+          ],
+          "fileFingerprint": 804889767,
+          "modId": 335493
+        },
+        "modrinthProject": {
+          "id": "LQ3K71Q1",
+          "slug": "dynamic-fps",
+          "project_type": "mod",
+          "team": "qgYomxyl",
+          "title": "Dynamic FPS",
+          "description": "Reduce resource usage while Minecraft is in the background, idle, or on battery.",
+          "body": "# Dynamic FPS\n\nReduce resource usage while Minecraft is in the background, idle, or on battery.\n\n## Features\n\nDynamic FPS will detect whether the Minecraft window is currently active, being hovered over, unfocused, or invisible.  \nFor each of these states you're able to adjust the frame rate, volume, and whether [toast notifications](https://minecraft.wiki/w/Toasts) are temporarily paused.\n\nYou can also configure these settings for when you're idling (with a custom timeout) or while your laptop / handheld is on battery.  \nOptionally you may also display the current battery status on the in-game HUD and receive toast notifications about battery activity.\n\n---\n\nIn addition to this Dynamic FPS fixes a vanilla bug causing higher-than-necessary background CPU usage and stops\nrendering the world while it's being obscured by resource loading overlay, helping especially on low-end systems.\n\n## Installation\n\nDynamic FPS is available for download on [GitHub](https://github.com/juliand665/Dynamic-FPS/releases), [Modrinth](https://modrinth.com/mod/dynamic-fps), and [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps).  \nTo access the in-game config screen you'll also need to install [Mod Menu](https://modrinth.com/mod/modmenu) and [Cloth Config](https://modrinth.com/mod/cloth-config).\n\n## Frequently Asked Questions\n\n- Why is Minecraft still running at 15 FPS?\n\nDynamic FPS will only slow the client render loop to a minimum of 15 cycles per second.\nLower frame rates are achieved by then cancelling the rendering of all superfluous frames, e.g. 14 out of 15 frames are cancelled for 1 FPS.\n\nThis lets you resume playing almost instantly after switching back to the game:\nInstead of having to wait for up to a second until the next rendered frame comes along, the game checks back within 1/15th of a second.\n\n## Disclaimer\n\nEnabling the battery integration requires downloading an additional library at runtime.  \nThe mod contains the hashes for these files ahead of time and will verify them before usage.\n\nYou may disable this behavior in the mod's settings, or [install the library yourself](https://github.com/juliand665/Dynamic-FPS/blob/main/docs/manual-natives-install.md) if you wish.\n",
+          "published": "2020-12-01T15:57:46.862046Z",
+          "updated": "2026-01-03T16:46:04.925755Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "management",
+            "optimization",
+            "utility"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge",
+            "quilt"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/LQ3K71Q1/5056368d0d87c1a9f3efead0cb48ab39a4ea87bf_96.webp",
+          "issues_url": "https://github.com/juliand665/Dynamic-FPS/issues",
+          "source_url": "https://github.com/juliand665/Dynamic-FPS",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/LQ3K71Q1/images/c573174da856093809d5fba6a36539fcf986c40b.png",
+              "raw_url": "https://cdn.modrinth.com/data/LQ3K71Q1/images/c573174da856093809d5fba6a36539fcf986c40b.png",
+              "featured": false,
+              "title": "Main Config Screen",
+              "description": "The main config screen allows disabling the mod, choosing an amount of time until the idle configuration is activated, and whether the 60 FPS limit in the main menu should be removed.",
+              "created": "2024-02-19T22:34:10.594442Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/LQ3K71Q1/images/dec5db3fb1b64d8e95292a9c93fa257e2dd0aaa2.png",
+              "raw_url": "https://cdn.modrinth.com/data/LQ3K71Q1/images/dec5db3fb1b64d8e95292a9c93fa257e2dd0aaa2.png",
+              "featured": false,
+              "title": "Per Status Config",
+              "description": "Choose a target frame rate, the volume for each sound category, and whether toast notifications are active while the window is being hovered over, unfocused, invisible, or you're idle.",
+              "created": "2024-02-19T22:37:28.575914Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/LQ3K71Q1/images/e8cc9af2ed7fced3b342f82e94f65fdde63eca17.png",
+              "raw_url": "https://cdn.modrinth.com/data/LQ3K71Q1/images/e8cc9af2ed7fced3b342f82e94f65fdde63eca17.png",
+              "featured": false,
+              "title": "Sound Categories",
+              "description": "For each window status you're able to set a multiplier per sound category (from vanilla and mods!) to either highlight or de-emphasize certain sounds.",
+              "created": "2024-02-19T22:42:31.541768Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/LQ3K71Q1/images/2ed4181d5bba2d01aaa45b3bcd04ac3be49d87dc_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/LQ3K71Q1/images/2ed4181d5bba2d01aaa45b3bcd04ac3be49d87dc.png",
+              "featured": false,
+              "title": "Battery Indicator HUD",
+              "description": "An optional HUD element showing the current battery charge in percent, as well as whether it's charging or discharging.",
+              "created": "2025-01-27T14:10:11.488483Z",
+              "ordering": 3.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "Rg5gEnYb",
+          "project_id": "LQ3K71Q1",
+          "author_id": "HXiopoLj",
+          "name": "v3.11.3",
+          "version_number": "3.11.3",
+          "changelog": "- Update Spanish Translations ([Issue 279](https://github.com/juliand665/Dynamic-FPS/issues/279) by @pilahito)\n- Fix battery charge display not accounting for multiple batteries ([commit c2c32379ea](https://github.com/juliand665/Dynamic-FPS/commit/c2c32379ea1fa02be8c4f607562b779412a942d4) by @LostLuma)\n- Fix the loading overlay fading to a black screen while inside a world ([PR 282](https://github.com/juliand665/Dynamic-FPS/pull/282) by @LostLuma)\n  - Dynamic FPS skips rendering the world while resources are reloading, but did so too eagerly before\n- Update battery library to 2.0.0 ([commit a76cd4a069](https://github.com/juliand665/Dynamic-FPS/commit/a76cd4a069a14d6cc8cf9e0dc55d9a8ef1d03062) by @LostLuma)\n  - There is now another error toast when enabling the feature fails ([commit 535fe9c2f8](https://github.com/juliand665/Dynamic-FPS/commit/535fe9c2f8b6385e5b145d71bcb044839af0b4b3) by @LostLuma)\n",
+          "date_published": "2026-01-03T16:35:24.155834Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "9642eca0b67de0a8942e2d22faebd5a9fe7b2e43991f10fa0d879d1eced24ae7195d0b8c5e46d7b8e4aecce3d54bbc89d993e3fde0f94d501f6f91364c85898a",
+                "sha1": "0c191f164b1433dff4e8c95417100a108b3c276b"
+              },
+              "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/Rg5gEnYb/dynamic-fps-3.11.3%2Bminecraft-1.20.0-forge.jar",
+              "filename": "dynamic-fps-3.11.3+minecraft-1.20.0-forge.jar",
+              "primary": true,
+              "size": 402512
+            },
+            {
+              "hashes": {
+                "sha1": "e896b77056ce279f1604ba29bc728c45aa96f510",
+                "sha512": "5340c86b1ae21a45eb3a377db24249863b3d983586d324cc9b530f9d5046eb45cb999fa09775d057abf6c47f438fc46040696baf71152b7ab59d84db2de5f9ed"
+              },
+              "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/Rg5gEnYb/dynamic-fps-3.11.3%2Bminecraft-1.20.0-forge-sources.jar",
+              "filename": "dynamic-fps-3.11.3+minecraft-1.20.0-forge-sources.jar",
+              "primary": false,
+              "size": 135934
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "9s6osm5g",
+              "dependency_type": "optional"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
+      },
+      {
+        "name": "Farsight [Forge/Neo]",
+        "version": "farsight-1.20.1-4.5.jar",
+        "optional": true,
+        "file": "farsight-1.20.1-4.5.jar",
+        "type": "mods",
+        "description": "See far chunks on clientside, even if the server has low view distance",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 495693,
+        "curseForgeFileId": 7016585,
+        "curseForgeProject": {
+          "id": 495693,
+          "name": "Farsight [Forge/Neo]",
+          "authors": [
+            {
+              "id": 100114338,
+              "name": "someaddon",
+              "url": "https://www.curseforge.com/members/someaddon"
+            }
+          ],
+          "gameId": 432,
+          "summary": "See far chunks on clientside, even if the server has low view distance",
+          "categories": [
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 424,
+          "classId": 6,
+          "slug": "farsight",
+          "isFeatured": false,
+          "dateModified": "2025-09-20T20:07:20.807Z",
+          "dateCreated": "2021-06-21T10:29:11.637Z",
+          "dateReleased": "2025-09-20T20:02:35.973Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/farsight",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/someaddons/farsight/issues",
+            "sourceUrl": "https://github.com/someaddons/farsight"
+          },
+          "logo": {
+            "id": 532489,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/532/489/256/256/637856138513958598.png",
+            "title": "637856138513958598.png",
+            "url": "https://media.forgecdn.net/avatars/532/489/637856138513958598.png",
+            "modId": 495693
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 7016590
+        },
+        "curseForgeFile": {
+          "id": 7016585,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "farsight-1.20.1-4.5.jar",
+          "fileName": "farsight-1.20.1-4.5.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-09-20T20:01:18.167Z",
+          "fileLength": 441356,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 486056170,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2192630554,
+              "name": "com"
+            },
+            {
+              "fingerprint": 618571777,
+              "name": "farsight.mixins.json"
+            },
+            {
+              "fingerprint": 3174392871,
+              "name": "farsight.refmap.json"
+            },
+            {
+              "fingerprint": 1438559181,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "985eb925a7d8e3d3eca79f7759f59d0af09e3831",
+              "algo": 1
+            },
+            {
+              "value": "92abe14e6a34c2b93e0074c0583cd25c",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "NeoForge",
+            "1.20.1",
+            "Forge"
+          ],
+          "fileFingerprint": 597355476,
+          "modId": 495693
+        }
+      },
+      {
+        "name": "Better Fps - Render Distance[Forge]",
+        "version": "betterfpsdist-1.20.1-6.0.jar",
+        "optional": true,
+        "file": "betterfpsdist-1.20.1-6.0.jar",
+        "type": "mods",
+        "description": "Better fps for 1.16+ minecraft, improved render distances",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 551520,
+        "curseForgeFileId": 5723247,
+        "curseForgeProject": {
+          "id": 551520,
+          "name": "Better Fps - Render Distance[Forge]",
+          "authors": [
+            {
+              "id": 100114338,
+              "name": "someaddon",
+              "url": "https://www.curseforge.com/members/someaddon"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Better fps for 1.16+ minecraft, improved render distances",
+          "categories": [
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "better-fps-render-distance",
+          "isFeatured": false,
+          "dateModified": "2024-09-14T20:09:27.52Z",
+          "dateCreated": "2021-12-02T12:15:00.793Z",
+          "dateReleased": "2024-09-14T19:30:01.483Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/someaddons/betterfpsdistances/issues",
+            "sourceUrl": "https://github.com/someaddons/betterfpsdistances"
+          },
+          "logo": {
+            "id": 531771,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/531/771/256/256/637854357042030339.png",
+            "title": "637854357042030339.png",
+            "url": "https://media.forgecdn.net/avatars/531/771/637854357042030339.png",
+            "modId": 551520
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5723250
+        },
+        "curseForgeFile": {
+          "id": 5723247,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "betterfpsdist-1.20.1-6.0.jar",
+          "fileName": "betterfpsdist-1.20.1-6.0.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-09-14T19:29:26.02Z",
+          "fileLength": 19917,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 326652,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3606503980,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 4013170233,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 576717991,
+              "name": "betterfpsdist.mixins.json"
+            },
+            {
+              "fingerprint": 339364846,
+              "name": "betterfpsdist.refmap.json"
+            },
+            {
+              "fingerprint": 971862411,
+              "name": "com"
+            },
+            {
+              "fingerprint": 2233392733,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "8e4fe2cd85c08c24ab363b47a63d1c872fc3cc1e",
+              "algo": 1
+            },
+            {
+              "value": "34280e25bfb67f8ce08157129c8cb09d",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "NeoForge",
+            "1.20.1",
+            "Forge"
+          ],
+          "fileFingerprint": 514915357,
+          "modId": 551520
+        }
+      },
+      {
+        "name": "Clickable advancements[Forge/Fabric]",
+        "version": "clickadv-1.20.1-3.8.jar",
+        "optional": true,
+        "file": "clickadv-1.20.1-3.8.jar",
+        "type": "mods",
+        "description": "Click advancement in chat to open its location. Helps players getting into different mods",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 511733,
+        "curseForgeFileId": 5293987,
+        "curseForgeProject": {
+          "id": 511733,
+          "name": "Clickable advancements[Forge/Fabric]",
+          "authors": [
+            {
+              "id": 100114338,
+              "name": "someaddon",
+              "url": "https://www.curseforge.com/members/someaddon"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Click advancement in chat to open its location. Helps players getting into different mods",
+          "categories": [
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 423,
+          "classId": 6,
+          "slug": "clickable-advancements",
+          "isFeatured": false,
+          "dateModified": "2024-08-17T22:07:48.33Z",
+          "dateCreated": "2021-08-09T08:45:32.573Z",
+          "dateReleased": "2024-07-21T13:47:55.303Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/clickable-advancements",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/someaddons/ClickableAdvancements/issues",
+            "sourceUrl": "https://github.com/someaddons/ClickableAdvancements"
+          },
+          "logo": {
+            "id": 531807,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/531/807/256/256/637854458573666877.png",
+            "title": "637854458573666877.png",
+            "url": "https://media.forgecdn.net/avatars/531/807/637854458573666877.png",
+            "modId": 511733
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5551406
+        },
+        "curseForgeFile": {
+          "id": 5293987,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "clickadv-1.20.1-3.8.jar",
+          "fileName": "clickadv-1.20.1-3.8.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-04-26T21:14:57.747Z",
+          "fileLength": 16295,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 326652,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 12225610,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2279886392,
+              "name": "clickadv.mixins.json"
+            },
+            {
+              "fingerprint": 3901343399,
+              "name": "clickadv.refmap.json"
+            },
+            {
+              "fingerprint": 1636900954,
+              "name": "com"
+            },
+            {
+              "fingerprint": 1438559181,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "a348e4418676ed8b1ffea6c54755f1ee8656f559",
+              "algo": 1
+            },
+            {
+              "value": "ad368cc571f8ad43e20ead6ddd0c7361",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "NeoForge",
+            "1.20.1",
+            "Forge",
+            "Server"
+          ],
+          "fileFingerprint": 2514218813,
+          "modId": 511733
+        }
+      },
+      {
+        "name": "Biome Music[Forge/Fabric]",
+        "version": "biomemusic-1.20.1-3.5.jar",
+        "optional": true,
+        "file": "biomemusic-1.20.1-3.5.jar",
+        "type": "mods",
+        "description": "change delay between music, more varied music, fix modded biomes not playing music",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 840873,
+        "curseForgeFileId": 6457330,
+        "curseForgeProject": {
+          "id": 840873,
+          "name": "Biome Music[Forge/Fabric]",
+          "authors": [
+            {
+              "id": 100114338,
+              "name": "someaddon",
+              "url": "https://www.curseforge.com/members/someaddon"
+            }
+          ],
+          "gameId": 432,
+          "summary": "change delay between music, more varied music, fix modded biomes not playing music",
+          "categories": [
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Biomes",
+              "slug": "world-biomes",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-biomes",
+              "dateModified": "2014-05-08T17:34:59.587Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 407,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/22/635351492995856506.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 407,
+          "classId": 6,
+          "slug": "biome-music",
+          "isFeatured": false,
+          "dateModified": "2025-04-23T21:29:14.16Z",
+          "dateCreated": "2023-03-23T10:21:30.033Z",
+          "dateReleased": "2025-04-23T21:16:39.35Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/biome-music",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/someaddons/biomemusic/issues",
+            "sourceUrl": "https://github.com/someaddons/biomemusic"
+          },
+          "logo": {
+            "id": 793361,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/793/361/256/256/638151205412587142.png",
+            "title": "638151205412587142.png",
+            "url": "https://media.forgecdn.net/avatars/793/361/638151205412587142.png",
+            "modId": 840873
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 6457333
+        },
+        "curseForgeFile": {
+          "id": 6457330,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "biomemusic-1.20.1-3.5.jar",
+          "fileName": "biomemusic-1.20.1-3.5.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-04-23T21:15:24.057Z",
+          "fileLength": 35324,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 326652,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 839615627,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1438941701,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1471173116,
+              "name": "biomemusic.mixins.json"
+            },
+            {
+              "fingerprint": 1273448800,
+              "name": "biomemusic.refmap.json"
+            },
+            {
+              "fingerprint": 515346319,
+              "name": "com"
+            },
+            {
+              "fingerprint": 1438559181,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "435a1fcffc252591d0f5b7ff95e8fca8a71ccb59",
+              "algo": 1
+            },
+            {
+              "value": "9691af3d668facb52add2199bd2fb6db",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "NeoForge",
+            "1.20.1",
+            "Forge"
+          ],
+          "fileFingerprint": 756474654,
+          "modId": 840873
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1769310027545,
-    "numPlays": 45,
+    "lastPlayed": 1769321602815,
+    "numPlays": 49,
     "lastExportName": "Moco Server Pack",
     "lastExportVersion": "1.20.1",
     "lastExportAuthor": "samunohito",

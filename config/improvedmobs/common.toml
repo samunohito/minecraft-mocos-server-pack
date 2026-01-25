@@ -199,7 +199,7 @@
 #Configs regarding mobs spawning with equipment
 [equipment]
 	#Blacklist items from whole mods. Add modid to prevent items from that mod being equipped. (For individual items use the equipment.json)
-	"Item Blacklist" = ["minecraft:tnt", "minecraft:flint_and_steel", "minecraft:lava_bucket"]
+	"Item Blacklist" = []
 	#Use blacklist as whitelist
 	"Item Whitelist" = false
 	#Blacklist for items mobs should never be able to use.
@@ -211,7 +211,7 @@
 	#<entity registry name-item>
 	#For different items but same entity use multiple lines
 	#Some special names are BOW, TRIDEN, CROSSBOW refering to every bow/trident/crossbow item (So you dont need to type e.g. every bow item)
-	"Entity Item Use Blacklist" = ["minecraft:drowned;TRIDENT", "minecraft:illusioner;BOW", "minecraft:piglin;CROSSBOW", "minecraft:pillager;CROSSBOW", "minecraft:skeleton;BOW", "minecraft:snow_golem;minecraft:snowball", "minecraft:stray;BOW", "minecraft:wither_skeleton;BOW"]
+	"Entity Item Use Blacklist" = ["minecraft:drowned;TRIDENT", "minecraft:illusioner;BOW", "minecraft:piglin;CROSSBOW", "minecraft:pillager;CROSSBOW", "minecraft:skeleton;BOW", "minecraft:snow_golem;minecraft:snowball", "minecraft:stray;BOW", "minecraft:wither_skeleton;BOW", "minecraft:slime;BOW", "minecraft:slime;CROSSBOW", "minecraft:slime;TRIDENT", "minecraft:magma_cube;BOW", "minecraft:magma_cube;CROSSBOW", "minecraft:magma_cube;TRIDENT", "minecraft:ghast;BOW", "minecraft:ghast;CROSSBOW", "minecraft:ghast;TRIDENT", "minecraft:blaze;BOW", "minecraft:blaze;CROSSBOW", "minecraft:blaze;TRIDENT", "minecraft:spider;BOW", "minecraft:spider;CROSSBOW", "minecraft:spider;TRIDENT", "minecraft:cave_spider;BOW", "minecraft:cave_spider;CROSSBOW", "minecraft:cave_spider;TRIDENT"]
 	#Base chance that a mob can have one piece of armor
 	#Range: 0.0 ~ 1.0
 	"Equipment Chance" = 0.10000000149011612
