@@ -5,12 +5,12 @@
 const CONST_SAFETY_MOON_SPAWN_THRESHOLD = 0.75;
 
 /**
- * @param {Internal.EntitySpawnedEventJS_} entity
- * @param {number} threshold 
+ * @param {Internal.EntitySpawnedEventJS_} event
+ * @param {number} threshold
  */
-function debounceMonsterSpawn(entity, threshold) {
+function debounceMonsterSpawn(event, threshold) {
   if (Math.random() < threshold) {
-    entity.cancel();
+    event.cancel();
   }
 }
 
@@ -33,7 +33,7 @@ EntityEvents.spawned(event => {
   switch (enhancedCelestialsData.moonType) {
     case "blue_moon":
     case "harvest_moon": {
-      debounceMonsterSpawn(entity, CONST_SAFETY_MOON_SPAWN_THRESHOLD);
+      debounceMonsterSpawn(event, CONST_SAFETY_MOON_SPAWN_THRESHOLD);
     }
   }
 });
