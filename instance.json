@@ -1184,18 +1184,6 @@
           "summary": "Displays the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked.",
           "categories": [
             {
-              "name": "Map and Information",
-              "slug": "map-information",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
-              "dateModified": "2014-05-08T17:42:23.74Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 423,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Player Transport",
               "slug": "technology-player-transport",
               "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-player-transport",
@@ -1205,6 +1193,18 @@
               "id": 414,
               "iconUrl": "https://media.forgecdn.net/avatars/6/29/635351495383551178.png",
               "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
               "classId": 6
             }
           ],
@@ -4675,14 +4675,14 @@
           "summary": "Unofficial Fork of \"Iris\", made to work with FML",
           "categories": [
             {
-              "name": "Performance",
-              "slug": "performance",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/performance",
-              "dateModified": "2024-01-16T06:56:01.057Z",
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
               "gameId": 432,
               "isClass": false,
-              "id": 6814,
-              "iconUrl": "https://media.forgecdn.net/avatars/933/987/638409849610531091.png",
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
               "parentCategoryId": 6,
               "classId": 6
             },
@@ -4699,14 +4699,14 @@
               "classId": 6
             },
             {
-              "name": "Miscellaneous",
-              "slug": "mc-miscellaneous",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
-              "dateModified": "2014-06-15T04:27:14.543Z",
+              "name": "Performance",
+              "slug": "performance",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/performance",
+              "dateModified": "2024-01-16T06:56:01.057Z",
               "gameId": 432,
               "isClass": false,
-              "id": 425,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "id": 6814,
+              "iconUrl": "https://media.forgecdn.net/avatars/933/987/638409849610531091.png",
               "parentCategoryId": 6,
               "classId": 6
             }
@@ -9229,9 +9229,9 @@
           "classId": 6,
           "slug": "sophisticated-core",
           "isFeatured": false,
-          "dateModified": "2026-01-23T15:57:20.763Z",
+          "dateModified": "2026-01-25T10:59:27.953Z",
           "dateCreated": "2022-04-27T08:17:57.207Z",
-          "dateReleased": "2026-01-23T15:53:07.9Z",
+          "dateReleased": "2026-01-25T10:55:35.16Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-core",
             "sourceUrl": "https://github.com/P3pp3rF1y/SophisticatedCore"
@@ -9246,7 +9246,7 @@
           },
           "allowModDistribution": true,
           "screenshots": [],
-          "mainFileId": 7512394
+          "mainFileId": 7523622
         },
         "curseForgeFile": {
           "id": 7455151,
@@ -13151,18 +13151,6 @@
           "summary": "Add-on for the Farmer's Delight mod. Adds 2 new professions to villagers.",
           "categories": [
             {
-              "name": "Cosmetic",
-              "slug": "cosmetic",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
-              "dateModified": "2014-05-08T17:42:35.597Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 424,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Food",
               "slug": "mc-food",
               "url": "https://www.curseforge.com/minecraft/mc-mods/mc-food",
@@ -13171,6 +13159,18 @@
               "isClass": false,
               "id": 436,
               "iconUrl": "https://media.forgecdn.net/avatars/6/49/635351499265510402.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
               "parentCategoryId": 6,
               "classId": 6
             },
@@ -14861,18 +14861,6 @@
           "summary": "A mod that makes it so nobody misses out on Loot! All loot chests are instanced per player and visually unique.",
           "categories": [
             {
-              "name": "Structures",
-              "slug": "world-structures",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
-              "dateModified": "2014-05-08T17:37:17.173Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 409,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
-              "parentCategoryId": 406,
-              "classId": 6
-            },
-            {
               "name": "Server Utility",
               "slug": "server-utility",
               "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
@@ -14883,6 +14871,18 @@
               "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
               "parentCategoryId": 6,
               "classId": 6
+            },
+            {
+              "name": "Structures",
+              "slug": "world-structures",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
+              "dateModified": "2014-05-08T17:37:17.173Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 409,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
+              "parentCategoryId": 406,
+              "classId": 6
             }
           ],
           "status": 4,
@@ -14890,9 +14890,9 @@
           "classId": 6,
           "slug": "lootr",
           "isFeatured": false,
-          "dateModified": "2026-01-19T11:26:42.45Z",
+          "dateModified": "2026-01-25T10:20:57.447Z",
           "dateCreated": "2020-04-06T16:52:36.183Z",
-          "dateReleased": "2026-01-19T10:45:08.297Z",
+          "dateReleased": "2026-01-25T10:05:54.48Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/lootr",
             "wikiUrl": "",
@@ -15046,7 +15046,7 @@
               "modId": 361276
             }
           ],
-          "mainFileId": 7486983
+          "mainFileId": 7523447
         },
         "curseForgeFile": {
           "id": 7263076,
@@ -16878,9 +16878,9 @@
           "classId": 6,
           "slug": "supermartijn642s-core-lib",
           "isFeatured": false,
-          "dateModified": "2026-01-07T08:11:07.137Z",
+          "dateModified": "2026-01-25T07:42:27.283Z",
           "dateCreated": "2021-03-11T11:16:44.717Z",
-          "dateReleased": "2026-01-07T00:54:07.88Z",
+          "dateReleased": "2026-01-25T02:54:43.4Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib",
             "wikiUrl": "",
@@ -16903,7 +16903,7 @@
           },
           "allowModDistribution": true,
           "screenshots": [],
-          "mainFileId": 7427836
+          "mainFileId": 7522042
         },
         "curseForgeFile": {
           "id": 7426391,
@@ -26921,9 +26921,9 @@
           "classId": 6,
           "slug": "selene",
           "isFeatured": false,
-          "dateModified": "2026-01-23T13:18:18.01Z",
+          "dateModified": "2026-01-25T04:29:25.97Z",
           "dateCreated": "2021-07-05T08:34:45.3Z",
-          "dateReleased": "2026-01-23T13:15:59.447Z",
+          "dateReleased": "2026-01-25T04:21:14.137Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/selene",
             "wikiUrl": "",
@@ -26956,7 +26956,7 @@
               "modId": 499980
             }
           ],
-          "mainFileId": 7511745
+          "mainFileId": 7522322
         },
         "curseForgeFile": {
           "id": 7469722,
@@ -27083,18 +27083,6 @@
           "summary": "Vanilla+ additions: Jars, signposts, faucets, weather vanes spring launchers, sconces, planters, lights, decoration and automation",
           "categories": [
             {
-              "name": "Miscellaneous",
-              "slug": "mc-miscellaneous",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
-              "dateModified": "2014-06-15T04:27:14.543Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 425,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Redstone",
               "slug": "redstone",
               "url": "https://www.curseforge.com/minecraft/mc-mods/redstone",
@@ -27103,18 +27091,6 @@
               "isClass": false,
               "id": 4558,
               "iconUrl": "https://media.forgecdn.net/avatars/32/937/635888173116238506.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Cosmetic",
-              "slug": "cosmetic",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
-              "dateModified": "2014-05-08T17:42:35.597Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 424,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
               "parentCategoryId": 6,
               "classId": 6
             },
@@ -27129,6 +27105,30 @@
               "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
               "parentCategoryId": 6,
               "classId": 6
+            },
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
             }
           ],
           "status": 4,
@@ -27136,9 +27136,9 @@
           "classId": 6,
           "slug": "supplementaries",
           "isFeatured": false,
-          "dateModified": "2026-01-24T14:47:31.2Z",
+          "dateModified": "2026-01-25T04:19:07.777Z",
           "dateCreated": "2020-10-09T18:49:13.9Z",
-          "dateReleased": "2026-01-23T13:14:01.19Z",
+          "dateReleased": "2026-01-25T04:08:22.193Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/supplementaries",
             "wikiUrl": "https://github.com/MehVahdJukaar/Supplementaries/wiki/Customization",
@@ -27275,7 +27275,7 @@
               "modId": 412082
             }
           ],
-          "mainFileId": 7511735
+          "mainFileId": 7522292
         },
         "curseForgeFile": {
           "id": 7431873,
@@ -34614,200 +34614,6 @@
           ],
           "fileFingerprint": 381211649,
           "modId": 280510
-        }
-      },
-      {
-        "name": "Passive Skill Tree",
-        "version": "PassiveSkillTree-1.20.1-BETA-0.7.3a-all.jar",
-        "optional": true,
-        "file": "PassiveSkillTree-1.20.1-BETA-0.7.3a-all.jar",
-        "type": "mods",
-        "description": "Adds customizable skill tree",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 850298,
-        "curseForgeFileId": 7264152,
-        "curseForgeProject": {
-          "id": 850298,
-          "name": "Passive Skill Tree",
-          "authors": [
-            {
-              "id": 100553578,
-              "name": "Daripher",
-              "url": "https://www.curseforge.com/members/daripher"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Adds customizable skill tree",
-          "categories": [
-            {
-              "name": "Adventure and RPG",
-              "slug": "adventure-rpg",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
-              "dateModified": "2014-05-08T17:42:09.54Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 422,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 422,
-          "classId": 6,
-          "slug": "passive-skill-tree",
-          "isFeatured": false,
-          "dateModified": "2025-11-26T11:42:09.237Z",
-          "dateCreated": "2023-04-16T08:11:42.743Z",
-          "dateReleased": "2025-11-26T11:38:48.697Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/passive-skill-tree",
-            "wikiUrl": "",
-            "issuesUrl": "https://github.com/Daripher/Passive-Skill-Tree/issues",
-            "sourceUrl": "https://github.com/Daripher/Passive-Skill-Tree"
-          },
-          "logo": {
-            "id": 817461,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/817/461/256/256/638195458249768499.png",
-            "title": "638195458249768499.png",
-            "url": "https://media.forgecdn.net/avatars/817/461/638195458249768499.png",
-            "modId": 850298
-          },
-          "allowModDistribution": true,
-          "screenshots": [
-            {
-              "id": 1365389,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1365/389/310/172/1-png.png",
-              "title": "Built-in skill tree editor",
-              "url": "https://media.forgecdn.net/attachments/1365/389/1-png.png",
-              "modId": 850298
-            },
-            {
-              "id": 1365387,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1365/387/310/172/1-png.png",
-              "title": "Alchemist class with some stats",
-              "url": "https://media.forgecdn.net/attachments/1365/387/1-png.png",
-              "modId": 850298
-            },
-            {
-              "id": 1365386,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1365/386/310/172/1-png.png",
-              "title": "Class Selection",
-              "url": "https://media.forgecdn.net/attachments/1365/386/1-png.png",
-              "modId": 850298
-            }
-          ],
-          "mainFileId": 7264152
-        },
-        "curseForgeFile": {
-          "id": 7264152,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "PassiveSkillTree-1.20.1-BETA-0.7.3a-all.jar",
-          "fileName": "PassiveSkillTree-1.20.1-BETA-0.7.3a-all.jar",
-          "releaseType": 2,
-          "fileStatus": 4,
-          "fileDate": "2025-11-26T11:38:48.697Z",
-          "fileLength": 1975054,
-          "dependencies": [
-            {
-              "fileId": 0,
-              "modId": 309927,
-              "relationType": 3
-            },
-            {
-              "fileId": 0,
-              "modId": 280510,
-              "relationType": 3
-            }
-          ],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 2038866955,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 3285725190,
-              "name": ".cache"
-            },
-            {
-              "fingerprint": 344672635,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 60974120,
-              "name": "daripher"
-            },
-            {
-              "fingerprint": 1992876444,
-              "name": "data"
-            },
-            {
-              "fingerprint": 3448138527,
-              "name": "pack.mcmeta"
-            },
-            {
-              "fingerprint": 2932339289,
-              "name": "skilltree.mixins.json"
-            },
-            {
-              "fingerprint": 764852882,
-              "name": "skilltree.refmap.json"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "e04bf1dccc78319e30818c9e9b6c3b2483a7a437",
-              "algo": 1
-            },
-            {
-              "value": "c1fe23dd735801aaa6b98c99ef5af56a",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
-              "gameVersionName": "Client"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000020.0000000001",
-              "gameVersion": "1.20.1",
-              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
-              "gameVersionName": "1.20.1"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
-              "gameVersionName": "Server"
-            }
-          ],
-          "gameVersions": [
-            "Client",
-            "1.20.1",
-            "Forge",
-            "Server"
-          ],
-          "fileFingerprint": 1796474250,
-          "modId": 850298
         }
       },
       {
@@ -56341,234 +56147,6 @@
         }
       },
       {
-        "name": "Saturn",
-        "version": "Saturn 0.1.3 for MC 1.20.1",
-        "optional": true,
-        "file": "saturn-mc1.20.1-0.1.3.jar",
-        "type": "mods",
-        "description": "A performance mod designed to optimize Minecraft's memory usage.",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 670986,
-        "curseForgeFileId": 5093785,
-        "curseForgeProject": {
-          "id": 670986,
-          "name": "Saturn",
-          "authors": [
-            {
-              "id": 101777160,
-              "name": "AbdElAziz333",
-              "url": "https://www.curseforge.com/members/abdelaziz333"
-            }
-          ],
-          "gameId": 432,
-          "summary": "A performance mod designed to optimize Minecraft's memory usage.",
-          "categories": [
-            {
-              "name": "Miscellaneous",
-              "slug": "mc-miscellaneous",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
-              "dateModified": "2014-06-15T04:27:14.543Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 425,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Server Utility",
-              "slug": "server-utility",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
-              "dateModified": "2014-05-08T17:44:55.057Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 435,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 425,
-          "classId": 6,
-          "slug": "saturn",
-          "isFeatured": false,
-          "dateModified": "2025-01-30T16:00:47.79Z",
-          "dateCreated": "2022-09-11T10:41:49.483Z",
-          "dateReleased": "2025-01-30T15:57:54.08Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/saturn",
-            "wikiUrl": "",
-            "issuesUrl": "https://github.com/AbdElAziz333/Saturn/issues",
-            "sourceUrl": "https://github.com/AbdElAziz333/Saturn"
-          },
-          "logo": {
-            "id": 930584,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/930/584/256/256/638403456638686065.png",
-            "title": "638403456638686065.png",
-            "url": "https://media.forgecdn.net/avatars/930/584/638403456638686065.png",
-            "modId": 670986
-          },
-          "allowModDistribution": true,
-          "screenshots": [],
-          "mainFileId": 6139965
-        },
-        "curseForgeFile": {
-          "id": 5093785,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "Saturn 0.1.3 for MC 1.20.1",
-          "fileName": "saturn-mc1.20.1-0.1.3.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2024-02-09T19:09:28.503Z",
-          "fileLength": 92319,
-          "dependencies": [],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 1851049188,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 3873388375,
-              "name": "com"
-            },
-            {
-              "fingerprint": 3843780074,
-              "name": "logo.png"
-            },
-            {
-              "fingerprint": 2120678827,
-              "name": "pack.mcmeta"
-            },
-            {
-              "fingerprint": 1170738922,
-              "name": "saturn.mixins.json"
-            },
-            {
-              "fingerprint": 4038125691,
-              "name": "saturn.refmap.json"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "ad93f99d46714c46aaa6a4409aeca506e9fcac99",
-              "algo": 1
-            },
-            {
-              "value": "56a9a1cc126425b04acc5f8bd7ed67f1",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
-              "gameVersionName": "Client"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000020.0000000001",
-              "gameVersion": "1.20.1",
-              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
-              "gameVersionName": "1.20.1"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
-              "gameVersionName": "Server"
-            }
-          ],
-          "gameVersions": [
-            "Client",
-            "1.20.1",
-            "Forge",
-            "Server"
-          ],
-          "fileFingerprint": 1313951597,
-          "modId": 670986
-        },
-        "modrinthProject": {
-          "id": "2eT495vq",
-          "slug": "saturn",
-          "project_type": "mod",
-          "team": "kkfGN3VZ",
-          "title": "Saturn",
-          "description": "A performance mod designed to optimize Minecraft's memory usage.",
-          "body": "### Saturn for Minecraft Forge\n**Saturn** is a performance optimization mod designed to optimize Minecraft's memory usage, It can be installed in either client, server or both.\n**Saturn** aims on optimizing memory usage in a lot of ways, such as fixing in-game memory leaks, reducing GC heap and more, if you want to see all the optimizations added by **Saturn**, press [here](https://github.com/AbdElAziz333/Saturn/wiki/Saturn-Optimizations).\n\n### Modpack Permissions\n\nOf Course, You can include it in your modpack.\n\n### Issues and Feature Requests\n\nPlease use the issue tracker linked at the bottom of the page to report bugs, crashes, and if you want to propose new features or otherwise contribute to the mod, i will gladly accept pull requests, as well!\n\nIf you want to support me, use my code **AbdElAziz333** to get 25% off your first month and enjoy playing with your friends!\n\n[![BisectHosting](https://i.imgur.com/ytD8AVA.png)](https://bisecthosting.com/AbdElAziz333)",
-          "published": "2022-11-02T05:46:48.474943Z",
-          "updated": "2025-01-30T17:18:06.747923Z",
-          "status": "approved",
-          "license": {
-            "id": "LGPL-3.0-only",
-            "name": "GNU Lesser General Public License v3.0 only"
-          },
-          "client_side": "optional",
-          "server_side": "optional",
-          "categories": [
-            "optimization"
-          ],
-          "loaders": [
-            "forge",
-            "neoforge"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/2eT495vq/e031d27b5a54e4a48c014f38407a8cca43f7d6f7_96.webp",
-          "donation_urls": [],
-          "gallery": []
-        },
-        "modrinthVersion": {
-          "id": "Yx85DYaG",
-          "project_id": "2eT495vq",
-          "author_id": "3AXCrCqA",
-          "name": "Saturn 0.1.3 for MC 1.20.1",
-          "version_number": "mc1.20.1-0.1.3",
-          "changelog": "- This update adds a new config system, which allows you to enable or disable any optimization through a toml file.\n- You can find the config file in config\\saturn-optimizations.toml.\n\nAdditions\n\n- New: Cache ResourceLocation array creation in advancement usages to improve performance.\n- Change: Upgrade SheepMixin#createSheepColor() method visibility from private to public.",
-          "date_published": "2024-02-09T19:06:56.795182Z",
-          "version_type": "release",
-          "files": [
-            {
-              "hashes": {
-                "sha512": "8b4b9a69e7b55df8148e83a6d17ef381b9c412d8730d0068974bd48bbdae1a1a43837a5307471bc5dd2b41d3aa821d73c8683a3f480a9d987b2cf0969aa178cc",
-                "sha1": "ad93f99d46714c46aaa6a4409aeca506e9fcac99"
-              },
-              "url": "https://cdn.modrinth.com/data/2eT495vq/versions/Yx85DYaG/saturn-mc1.20.1-0.1.3.jar",
-              "filename": "saturn-mc1.20.1-0.1.3.jar",
-              "primary": true,
-              "size": 92319
-            }
-          ],
-          "dependencies": [
-            {
-              "project_id": "I2K4u1Q7",
-              "dependency_type": "optional"
-            },
-            {
-              "project_id": "qa2H4BS9",
-              "dependency_type": "optional"
-            }
-          ],
-          "game_versions": [
-            "1.20.1"
-          ],
-          "loaders": [
-            "forge"
-          ]
-        }
-      },
-      {
         "name": "Chunky (Forge/NeoForge)",
         "version": "Chunky 1.3.146",
         "optional": true,
@@ -59834,14 +59412,14 @@
           "summary": "A magic mod bringing back the classic RPG spellcasting fantasy.",
           "categories": [
             {
-              "name": "Armor, Tools, and Weapons",
-              "slug": "armor-weapons-tools",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
-              "dateModified": "2014-05-08T17:44:39.057Z",
+              "name": "Magic",
+              "slug": "magic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/magic",
+              "dateModified": "2014-05-08T17:40:24.787Z",
               "gameId": 432,
               "isClass": false,
-              "id": 434,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "id": 419,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/34/635351496247862494.png",
               "parentCategoryId": 6,
               "classId": 6
             },
@@ -59858,6 +59436,18 @@
               "classId": 6
             },
             {
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
               "name": "Mobs",
               "slug": "world-mobs",
               "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
@@ -59867,18 +59457,6 @@
               "id": 411,
               "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
               "parentCategoryId": 406,
-              "classId": 6
-            },
-            {
-              "name": "Magic",
-              "slug": "magic",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/magic",
-              "dateModified": "2014-05-08T17:40:24.787Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 419,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/34/635351496247862494.png",
-              "parentCategoryId": 6,
               "classId": 6
             },
             {
@@ -65154,13 +64732,356 @@
           "fileFingerprint": 756474654,
           "modId": 840873
         }
+      },
+      {
+        "name": "Item Production Lib",
+        "version": "ItemProductionLib-1.20.1-1.0.2a-all.jar",
+        "optional": true,
+        "file": "ItemProductionLib-1.20.1-1.0.2a-all.jar",
+        "type": "mods",
+        "description": "Mod dev tools for tracking item production",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 950401,
+        "curseForgeFileId": 5114036,
+        "curseForgeProject": {
+          "id": 950401,
+          "name": "Item Production Lib",
+          "authors": [
+            {
+              "id": 100553578,
+              "name": "Daripher",
+              "url": "https://www.curseforge.com/members/daripher"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Mod dev tools for tracking item production",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "item-production-lib",
+          "isFeatured": false,
+          "dateModified": "2024-02-17T03:33:23.847Z",
+          "dateCreated": "2023-12-17T09:16:20.253Z",
+          "dateReleased": "2024-02-17T03:25:23.447Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/item-production-lib",
+            "wikiUrl": ""
+          },
+          "logo": {
+            "id": 919785,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/919/785/256/256/638382592632461988.png",
+            "title": "638382592632461988.png",
+            "url": "https://media.forgecdn.net/avatars/919/785/638382592632461988.png",
+            "modId": 950401
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5114036
+        },
+        "curseForgeFile": {
+          "id": 5114036,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "ItemProductionLib-1.20.1-1.0.2a-all.jar",
+          "fileName": "ItemProductionLib-1.20.1-1.0.2a-all.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-02-17T03:25:23.447Z",
+          "fileLength": 171785,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2757353292,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 932230368,
+              "name": "daripher"
+            },
+            {
+              "fingerprint": 4285609196,
+              "name": "itemproductionlib.mixins.json"
+            },
+            {
+              "fingerprint": 3527492008,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 1371252460,
+              "name": "itemproductionlib.refmap.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "d991e54d59d675ff77794dcb7d23b79736c6c253",
+              "algo": 1
+            },
+            {
+              "value": "e4cb83cd8b61bf181d55ea1540a73a1c",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "1.20.1",
+            "Forge",
+            "Server"
+          ],
+          "fileFingerprint": 3254084875,
+          "modId": 950401
+        }
+      },
+      {
+        "name": "Passive Skill Tree",
+        "version": "PassiveSkillTree-1.20.1-BETA-0.6.14a-all.jar",
+        "optional": true,
+        "file": "PassiveSkillTree-1.20.1-BETA-0.6.14a-all.jar",
+        "type": "mods",
+        "description": "Adds customizable skill tree",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 850298,
+        "curseForgeFileId": 5715659,
+        "curseForgeProject": {
+          "id": 850298,
+          "name": "Passive Skill Tree",
+          "authors": [
+            {
+              "id": 100553578,
+              "name": "Daripher",
+              "url": "https://www.curseforge.com/members/daripher"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Adds customizable skill tree",
+          "categories": [
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 422,
+          "classId": 6,
+          "slug": "passive-skill-tree",
+          "isFeatured": false,
+          "dateModified": "2025-11-26T11:42:09.237Z",
+          "dateCreated": "2023-04-16T08:11:42.743Z",
+          "dateReleased": "2025-11-26T11:38:48.697Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/passive-skill-tree",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Daripher/Passive-Skill-Tree/issues",
+            "sourceUrl": "https://github.com/Daripher/Passive-Skill-Tree"
+          },
+          "logo": {
+            "id": 817461,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/817/461/256/256/638195458249768499.png",
+            "title": "638195458249768499.png",
+            "url": "https://media.forgecdn.net/avatars/817/461/638195458249768499.png",
+            "modId": 850298
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 1365389,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1365/389/310/172/1-png.png",
+              "title": "Built-in skill tree editor",
+              "url": "https://media.forgecdn.net/attachments/1365/389/1-png.png",
+              "modId": 850298
+            },
+            {
+              "id": 1365387,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1365/387/310/172/1-png.png",
+              "title": "Alchemist class with some stats",
+              "url": "https://media.forgecdn.net/attachments/1365/387/1-png.png",
+              "modId": 850298
+            },
+            {
+              "id": 1365386,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1365/386/310/172/1-png.png",
+              "title": "Class Selection",
+              "url": "https://media.forgecdn.net/attachments/1365/386/1-png.png",
+              "modId": 850298
+            }
+          ],
+          "mainFileId": 7264152
+        },
+        "curseForgeFile": {
+          "id": 5715659,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "PassiveSkillTree-1.20.1-BETA-0.6.14a-all.jar",
+          "fileName": "PassiveSkillTree-1.20.1-BETA-0.6.14a-all.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2024-09-12T03:23:29.237Z",
+          "fileLength": 2365949,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 309927,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 950401,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 280510,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3293746697,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2077768952,
+              "name": ".cache"
+            },
+            {
+              "fingerprint": 3285696912,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1644065020,
+              "name": "daripher"
+            },
+            {
+              "fingerprint": 2072462820,
+              "name": "data"
+            },
+            {
+              "fingerprint": 3448138527,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 2514158838,
+              "name": "skilltree.mixins.json"
+            },
+            {
+              "fingerprint": 1041703471,
+              "name": "skilltree.refmap.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "2f9355f975bb783b96de80f8a4d303a849c6cd29",
+              "algo": 1
+            },
+            {
+              "value": "5283f7a71763c066c224e62cfb01b637",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "1.20.1",
+            "Forge",
+            "Server"
+          ],
+          "fileFingerprint": 2990847001,
+          "modId": 850298
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1769321602815,
-    "numPlays": 49,
+    "lastPlayed": 1769573049011,
+    "numPlays": 57,
     "lastExportName": "Moco Server Pack",
     "lastExportVersion": "1.20.1",
     "lastExportAuthor": "samunohito",
