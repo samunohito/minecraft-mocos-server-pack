@@ -6,133 +6,9 @@
     "Quality is a modifier applied to the weight. The final weight used is weight + quality * current difficulty"
   ],
   "MAINHAND": {
-    "ars_nouveau:enchanters_sword": [
-      8007,
-      6.632802
-    ],
-    "ars_nouveau:spell_bow": [
-      9778,
-      2.1195521
-    ],
-    "ars_nouveau:spell_crossbow": [
-      10234,
-      1.5245426
-    ],
-    "botania:crystal_bow": [
-      8778,
-      5.0117817
-    ],
-    "botania:elementium_axe": [
-      10202,
-      1.5659617
-    ],
-    "botania:elementium_sword": [
-      10289,
-      1.4534681
-    ],
-    "botania:ender_dagger": [
-      11396,
-      0.018199999
-    ],
-    "botania:livingwood_bow": [
-      8778,
-      5.0117817
-    ],
-    "botania:manasteel_axe": [
-      10916,
-      0.6416611
-    ],
-    "botania:manasteel_sword": [
-      11003,
-      0.5130528
-    ],
-    "botania:star_sword": [
-      7549,
-      7.5865693
-    ],
-    "botania:terra_axe": [
-      7479,
-      7.7322817
-    ],
-    "botania:terra_sword": [
-      7549,
-      7.5865693
-    ],
-    "botania:thunder_sword": [
-      7549,
-      7.5865693
-    ],
-    "cataclysm:athame": [
-      11109,
-      0.0469
-    ],
-    "cataclysm:black_steel_axe": [
-      10151,
-      1.6320775
-    ],
-    "cataclysm:black_steel_sword": [
-      10238,
-      1.5193686
-    ],
-    "cataclysm:final_fractal": [
-      16,
-      23.563541
-    ],
-    "cataclysm:khopesh": [
-      10259,
-      1.4922183
-    ],
-    "cataclysm:zweiender": [
-      16,
-      23.563541
-    ],
     "create:cardboard_sword": [
       11513,
       0.0064999997
-    ],
-    "irons_spellbooks:amethyst_rapier": [
-      8806,
-      4.951788
-    ],
-    "irons_spellbooks:autoloader_crossbow": [
-      9304,
-      3.826627
-    ],
-    "irons_spellbooks:claymore": [
-      9689,
-      2.236861
-    ],
-    "irons_spellbooks:keeper_flamberge": [
-      9648,
-      2.2910256
-    ],
-    "irons_spellbooks:magehunter": [
-      8835,
-      4.889481
-    ],
-    "irons_spellbooks:misery": [
-      9656,
-      2.280451
-    ],
-    "irons_spellbooks:spellbreaker": [
-      8736,
-      5.1015
-    ],
-    "majruszsdifficulty:enderium_axe": [
-      7710,
-      7.2514286
-    ],
-    "majruszsdifficulty:enderium_sword": [
-      7757,
-      7.15358
-    ],
-    "majruszsdifficulty:wither_sword": [
-      10876,
-      0.6959233
-    ],
-    "mekanism:electric_bow": [
-      9778,
-      2.1195521
     ],
     "minecraft:bow": [
       9010,
@@ -260,18 +136,6 @@
     ]
   },
   "OFFHAND": {
-    "ars_nouveau:enchanters_shield": [
-      955,
-      2.053812
-    ],
-    "cataclysm:azure_sea_shield": [
-      927,
-      2.0906117
-    ],
-    "cataclysm:black_steel_targe": [
-      275,
-      4.1986494
-    ],
     "minecraft:ender_pearl": [
       1605,
       1.2102311
@@ -290,42 +154,6 @@
     ]
   },
   "FEET": {
-    "ars_nouveau:arcanist_boots": [
-      3685,
-      1.3709393
-    ],
-    "ars_nouveau:battlemage_boots": [
-      2925,
-      2.3638055
-    ],
-    "ars_nouveau:sorcerer_boots": [
-      4101,
-      0.8363856
-    ],
-    "botania:elementium_boots": [
-      3794,
-      1.2307714
-    ],
-    "botania:manasteel_boots": [
-      3808,
-      1.2127981
-    ],
-    "botania:manaweave_boots": [
-      4589,
-      0.0321
-    ],
-    "botania:terrasteel_boots": [
-      2929,
-      2.3585079
-    ],
-    "cataclysm:cursium_boots": [
-      1264,
-      6.789111
-    ],
-    "cataclysm:ignitium_boots": [
-      54,
-      9.309818
-    ],
     "create:cardboard_boots": [
       4693,
       0.021699999
@@ -337,74 +165,6 @@
     "create:netherite_diving_boots": [
       3275,
       1.9030677
-    ],
-    "irons_spellbooks:archevoker_boots": [
-      2969,
-      2.3055708
-    ],
-    "irons_spellbooks:cryomancer_boots": [
-      2969,
-      2.3055708
-    ],
-    "irons_spellbooks:cultist_boots": [
-      2969,
-      2.3055708
-    ],
-    "irons_spellbooks:electromancer_boots": [
-      2969,
-      2.3055708
-    ],
-    "irons_spellbooks:netherite_mage_boots": [
-      2956,
-      2.3227675
-    ],
-    "irons_spellbooks:plagued_boots": [
-      2969,
-      2.3055708
-    ],
-    "irons_spellbooks:priest_boots": [
-      2969,
-      2.3055708
-    ],
-    "irons_spellbooks:pumpkin_boots": [
-      3004,
-      2.2593102
-    ],
-    "irons_spellbooks:pyromancer_boots": [
-      2969,
-      2.3055708
-    ],
-    "irons_spellbooks:shadowwalker_boots": [
-      2969,
-      2.3055708
-    ],
-    "irons_spellbooks:wandering_magician_boots": [
-      3865,
-      1.1396724
-    ],
-    "majruszsdifficulty:enderium_boots": [
-      2479,
-      4.200942
-    ],
-    "majruszsdifficulty:tattered_boots": [
-      4604,
-      0.030599998
-    ],
-    "mekanism:free_runners": [
-      4280,
-      0.59678036
-    ],
-    "mekanism:free_runners_armored": [
-      4244,
-      0.64716274
-    ],
-    "mekanism:hazmat_boots": [
-      4280,
-      0.59678036
-    ],
-    "mekanism:mekasuit_boots": [
-      2725,
-      3.5910394
     ],
     "minecraft:chainmail_boots": [
       4318,
@@ -444,105 +204,9 @@
     ]
   },
   "LEGS": {
-    "ars_nouveau:arcanist_leggings": [
-      3685,
-      1.3709393
-    ],
-    "ars_nouveau:battlemage_leggings": [
-      2925,
-      2.3638055
-    ],
-    "ars_nouveau:sorcerer_leggings": [
-      4101,
-      0.8363856
-    ],
-    "botania:elementium_leggings": [
-      3794,
-      1.2307714
-    ],
-    "botania:manasteel_leggings": [
-      3808,
-      1.2127981
-    ],
-    "botania:manaweave_leggings": [
-      4589,
-      0.0321
-    ],
-    "botania:terrasteel_leggings": [
-      2929,
-      2.3585079
-    ],
-    "cataclysm:cursium_leggings": [
-      1264,
-      6.789111
-    ],
-    "cataclysm:ignitium_leggings": [
-      54,
-      9.309818
-    ],
     "create:cardboard_leggings": [
       4693,
       0.021699999
-    ],
-    "irons_spellbooks:archevoker_leggings": [
-      2969,
-      2.3055708
-    ],
-    "irons_spellbooks:cryomancer_leggings": [
-      2969,
-      2.3055708
-    ],
-    "irons_spellbooks:cultist_leggings": [
-      2969,
-      2.3055708
-    ],
-    "irons_spellbooks:electromancer_leggings": [
-      2969,
-      2.3055708
-    ],
-    "irons_spellbooks:netherite_mage_leggings": [
-      2956,
-      2.3227675
-    ],
-    "irons_spellbooks:plagued_leggings": [
-      2969,
-      2.3055708
-    ],
-    "irons_spellbooks:priest_leggings": [
-      2969,
-      2.3055708
-    ],
-    "irons_spellbooks:pumpkin_leggings": [
-      3004,
-      2.2593102
-    ],
-    "irons_spellbooks:pyromancer_leggings": [
-      2969,
-      2.3055708
-    ],
-    "irons_spellbooks:shadowwalker_leggings": [
-      2969,
-      2.3055708
-    ],
-    "irons_spellbooks:wandering_magician_leggings": [
-      3865,
-      1.1396724
-    ],
-    "majruszsdifficulty:enderium_leggings": [
-      2479,
-      4.200942
-    ],
-    "majruszsdifficulty:tattered_leggings": [
-      4604,
-      0.030599998
-    ],
-    "mekanism:hazmat_pants": [
-      4280,
-      0.59678036
-    ],
-    "mekanism:mekasuit_pants": [
-      2725,
-      3.5910394
     ],
     "minecraft:chainmail_leggings": [
       4318,
@@ -582,54 +246,6 @@
     ]
   },
   "CHEST": {
-    "ars_nouveau:arcanist_robes": [
-      3685,
-      1.3709393
-    ],
-    "ars_nouveau:battlemage_robes": [
-      2925,
-      2.3638055
-    ],
-    "ars_nouveau:sorcerer_robes": [
-      4101,
-      0.8363856
-    ],
-    "botania:elementium_chestplate": [
-      3794,
-      1.2307714
-    ],
-    "botania:manasteel_chestplate": [
-      3808,
-      1.2127981
-    ],
-    "botania:manaweave_chestplate": [
-      4589,
-      0.0321
-    ],
-    "botania:terrasteel_chestplate": [
-      2929,
-      2.3585079
-    ],
-    "cataclysm:bloom_stone_pauldrons": [
-      2875,
-      3.0056863
-    ],
-    "cataclysm:bone_reptile_chestplate": [
-      1095,
-      7.1410875
-    ],
-    "cataclysm:cursium_chestplate": [
-      1264,
-      6.789111
-    ],
-    "cataclysm:ignitium_chestplate": [
-      54,
-      9.309818
-    ],
-    "cataclysm:ignitium_elytra_chestplate": [
-      54,
-      9.309818
-    ],
     "create:cardboard_chestplate": [
       4693,
       0.021699999
@@ -649,78 +265,6 @@
     "create_jetpack:netherite_jetpack": [
       3275,
       1.9030677
-    ],
-    "irons_spellbooks:archevoker_chestplate": [
-      2969,
-      2.3055708
-    ],
-    "irons_spellbooks:cryomancer_chestplate": [
-      2969,
-      2.3055708
-    ],
-    "irons_spellbooks:cultist_chestplate": [
-      2969,
-      2.3055708
-    ],
-    "irons_spellbooks:electromancer_chestplate": [
-      2969,
-      2.3055708
-    ],
-    "irons_spellbooks:netherite_mage_chestplate": [
-      2956,
-      2.3227675
-    ],
-    "irons_spellbooks:plagued_chestplate": [
-      2969,
-      2.3055708
-    ],
-    "irons_spellbooks:priest_chestplate": [
-      2969,
-      2.3055708
-    ],
-    "irons_spellbooks:pumpkin_chestplate": [
-      3004,
-      2.2593102
-    ],
-    "irons_spellbooks:pyromancer_chestplate": [
-      2969,
-      2.3055708
-    ],
-    "irons_spellbooks:shadowwalker_chestplate": [
-      2969,
-      2.3055708
-    ],
-    "irons_spellbooks:wandering_magician_chestplate": [
-      3865,
-      1.1396724
-    ],
-    "majruszsdifficulty:enderium_chestplate": [
-      2479,
-      4.200942
-    ],
-    "majruszsdifficulty:tattered_chestplate": [
-      4604,
-      0.030599998
-    ],
-    "mekanism:hazmat_gown": [
-      4280,
-      0.59678036
-    ],
-    "mekanism:jetpack": [
-      4280,
-      0.59678036
-    ],
-    "mekanism:jetpack_armored": [
-      4046,
-      0.9074007
-    ],
-    "mekanism:mekasuit_bodyarmor": [
-      2725,
-      3.5910394
-    ],
-    "mekanism:scuba_tank": [
-      4280,
-      0.59678036
     ],
     "minecraft:chainmail_chestplate": [
       4318,
@@ -764,50 +308,6 @@
     ]
   },
   "HEAD": {
-    "ars_nouveau:arcanist_hood": [
-      3651,
-      1.3709393
-    ],
-    "ars_nouveau:battlemage_hood": [
-      2891,
-      2.3638055
-    ],
-    "ars_nouveau:sorcerer_hood": [
-      4067,
-      0.8363856
-    ],
-    "botania:elementium_helmet": [
-      3760,
-      1.2307714
-    ],
-    "botania:manasteel_helmet": [
-      3774,
-      1.2127981
-    ],
-    "botania:manaweave_helmet": [
-      4555,
-      0.0321
-    ],
-    "botania:terrasteel_helmet": [
-      2895,
-      2.3585079
-    ],
-    "cataclysm:bone_reptile_helmet": [
-      1061,
-      7.1410875
-    ],
-    "cataclysm:cursium_helmet": [
-      1230,
-      6.789111
-    ],
-    "cataclysm:ignitium_helmet": [
-      20,
-      9.309818
-    ],
-    "cataclysm:monstrous_helm": [
-      3241,
-      1.9030677
-    ],
     "create:cardboard_helmet": [
       4659,
       0.021699999
@@ -819,78 +319,6 @@
     "create:netherite_diving_helmet": [
       3241,
       1.9030677
-    ],
-    "irons_spellbooks:archevoker_helmet": [
-      2935,
-      2.3055708
-    ],
-    "irons_spellbooks:cryomancer_helmet": [
-      2935,
-      2.3055708
-    ],
-    "irons_spellbooks:cultist_helmet": [
-      2935,
-      2.3055708
-    ],
-    "irons_spellbooks:electromancer_helmet": [
-      2935,
-      2.3055708
-    ],
-    "irons_spellbooks:gold_crown": [
-      3026,
-      2.1854107
-    ],
-    "irons_spellbooks:netherite_mage_helmet": [
-      2922,
-      2.3227675
-    ],
-    "irons_spellbooks:plagued_helmet": [
-      2935,
-      2.3055708
-    ],
-    "irons_spellbooks:priest_helmet": [
-      2935,
-      2.3055708
-    ],
-    "irons_spellbooks:pumpkin_helmet": [
-      2970,
-      2.2593102
-    ],
-    "irons_spellbooks:pyromancer_helmet": [
-      2935,
-      2.3055708
-    ],
-    "irons_spellbooks:shadowwalker_helmet": [
-      2935,
-      2.3055708
-    ],
-    "irons_spellbooks:tarnished_helmet": [
-      4626,
-      0.024999999
-    ],
-    "irons_spellbooks:wandering_magician_helmet": [
-      3831,
-      1.1396724
-    ],
-    "majruszsdifficulty:enderium_helmet": [
-      2445,
-      4.200942
-    ],
-    "majruszsdifficulty:tattered_helmet": [
-      4570,
-      0.030599998
-    ],
-    "mekanism:hazmat_mask": [
-      4246,
-      0.59678036
-    ],
-    "mekanism:mekasuit_helmet": [
-      2691,
-      3.5910394
-    ],
-    "mekanism:scuba_mask": [
-      4246,
-      0.59678036
     ],
     "minecraft:chainmail_helmet": [
       4284,
@@ -939,70 +367,6 @@
     "quark:forgotten_hat": [
       4632,
       0.0244
-    ],
-    "railways:black_conductor_cap": [
-      4246,
-      0.59678036
-    ],
-    "railways:blue_conductor_cap": [
-      4246,
-      0.59678036
-    ],
-    "railways:brown_conductor_cap": [
-      4246,
-      0.59678036
-    ],
-    "railways:cyan_conductor_cap": [
-      4246,
-      0.59678036
-    ],
-    "railways:gray_conductor_cap": [
-      4246,
-      0.59678036
-    ],
-    "railways:green_conductor_cap": [
-      4246,
-      0.59678036
-    ],
-    "railways:light_blue_conductor_cap": [
-      4246,
-      0.59678036
-    ],
-    "railways:light_gray_conductor_cap": [
-      4246,
-      0.59678036
-    ],
-    "railways:lime_conductor_cap": [
-      4246,
-      0.59678036
-    ],
-    "railways:magenta_conductor_cap": [
-      4246,
-      0.59678036
-    ],
-    "railways:orange_conductor_cap": [
-      4246,
-      0.59678036
-    ],
-    "railways:pink_conductor_cap": [
-      4246,
-      0.59678036
-    ],
-    "railways:purple_conductor_cap": [
-      4246,
-      0.59678036
-    ],
-    "railways:red_conductor_cap": [
-      4246,
-      0.59678036
-    ],
-    "railways:white_conductor_cap": [
-      4246,
-      0.59678036
-    ],
-    "railways:yellow_conductor_cap": [
-      4246,
-      0.59678036
     ]
   }
 }

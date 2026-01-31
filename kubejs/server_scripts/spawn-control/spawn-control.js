@@ -22,6 +22,10 @@ function debounceMonsterSpawn(event, threshold) {
 EntityEvents.spawned(event => {
   const { level, entity } = event;
 
+  if (level.isClientSide() || !entity.isMonster()) {
+    return;
+  }
+
   /**
    * @type {(import("../event/enhanced-celestials").EnhancedCelestialsContext) | undefined}
    */
