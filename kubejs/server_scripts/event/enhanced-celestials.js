@@ -18,9 +18,9 @@ function getLunarEventId(level) {
   return null;
 }
 
-/** 
- * @param {import("./enhanced-celestials.js").EnhancedCelestialsEventId} eventId 
- * @return {(import("./enhanced-celestials.js").MoonType|null)} 
+/**
+ * @param {import("./enhanced-celestials.js").EnhancedCelestialsEventId} eventId
+ * @return {(import("./enhanced-celestials.js").MoonType|null)}
  */
 function extractMoonType(eventId) {
   switch (eventId) {
@@ -38,8 +38,8 @@ function extractMoonType(eventId) {
   }
 }
 
-/** 
- * @param {import("./enhanced-celestials.js").EnhancedCelestialsEventId} eventId 
+/**
+ * @param {import("./enhanced-celestials.js").EnhancedCelestialsEventId} eventId
  * @return {boolean}
  */
 function isSuperMoon(eventId) {

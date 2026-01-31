@@ -21,4 +21,17 @@ ServerEvents.recipes(event => {
       D: "minecraft:diamond",
     }
   );
+
+  // アークウッド木材でのチェスト作成
+  event.recipes.minecraft.crafting_shaped(
+    Item.of("minecraft:chest", 1),
+    [
+      'WWW',
+      'W W',
+      'WWW'
+    ],
+    {
+      W: "ars_nouveau:archwood_planks",
+    }
+  );
 })

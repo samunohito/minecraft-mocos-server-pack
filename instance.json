@@ -531,18 +531,6 @@
           "summary": "Teleport back to activated waystones. For Survival, Adventure or Servers.",
           "categories": [
             {
-              "name": "Magic",
-              "slug": "magic",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/magic",
-              "dateModified": "2014-05-08T17:40:24.787Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 419,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/34/635351496247862494.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Player Transport",
               "slug": "technology-player-transport",
               "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-player-transport",
@@ -563,6 +551,18 @@
               "isClass": false,
               "id": 422,
               "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Magic",
+              "slug": "magic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/magic",
+              "dateModified": "2014-05-08T17:40:24.787Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 419,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/34/635351496247862494.png",
               "parentCategoryId": 6,
               "classId": 6
             },
@@ -1184,18 +1184,6 @@
           "summary": "Displays the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked.",
           "categories": [
             {
-              "name": "Player Transport",
-              "slug": "technology-player-transport",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-player-transport",
-              "dateModified": "2014-05-08T17:38:58.357Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 414,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/29/635351495383551178.png",
-              "parentCategoryId": 412,
-              "classId": 6
-            },
-            {
               "name": "Map and Information",
               "slug": "map-information",
               "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
@@ -1205,6 +1193,18 @@
               "id": 423,
               "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
               "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Player Transport",
+              "slug": "technology-player-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-player-transport",
+              "dateModified": "2014-05-08T17:38:58.357Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 414,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/29/635351495383551178.png",
+              "parentCategoryId": 412,
               "classId": 6
             }
           ],
@@ -3468,14 +3468,14 @@
           "summary": "Aesthetic Technology that empowers the Player",
           "categories": [
             {
-              "name": "Cosmetic",
-              "slug": "cosmetic",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
-              "dateModified": "2014-05-08T17:42:35.597Z",
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
               "gameId": 432,
               "isClass": false,
-              "id": 424,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
               "parentCategoryId": 6,
               "classId": 6
             },
@@ -3492,14 +3492,14 @@
               "classId": 6
             },
             {
-              "name": "Technology",
-              "slug": "technology",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
-              "dateModified": "2014-05-08T17:37:54.597Z",
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
               "gameId": 432,
               "isClass": false,
-              "id": 412,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
               "parentCategoryId": 6,
               "classId": 6
             },
@@ -6469,18 +6469,6 @@
           "summary": "Nature's Compass is an item that allows you to locate biomes anywhere in the world.",
           "categories": [
             {
-              "name": "Biomes",
-              "slug": "world-biomes",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-biomes",
-              "dateModified": "2014-05-08T17:34:59.587Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 407,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/22/635351492995856506.png",
-              "parentCategoryId": 406,
-              "classId": 6
-            },
-            {
               "name": "Armor, Tools, and Weapons",
               "slug": "armor-weapons-tools",
               "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
@@ -6490,6 +6478,18 @@
               "id": 434,
               "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
               "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Biomes",
+              "slug": "world-biomes",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-biomes",
+              "dateModified": "2014-05-08T17:34:59.587Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 407,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/22/635351492995856506.png",
+              "parentCategoryId": 406,
               "classId": 6
             },
             {
@@ -8591,42 +8591,6 @@
               "classId": 6
             },
             {
-              "name": "Mobs",
-              "slug": "world-mobs",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
-              "dateModified": "2014-05-08T17:46:59.507Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 411,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
-              "parentCategoryId": 406,
-              "classId": 6
-            },
-            {
-              "name": "World Gen",
-              "slug": "world-gen",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
-              "dateModified": "2017-10-16T21:40:11.473Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 406,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "World Gen",
-              "slug": "world-gen",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
-              "dateModified": "2017-10-16T21:40:11.473Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 406,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Adventure and RPG",
               "slug": "adventure-rpg",
               "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
@@ -8639,14 +8603,14 @@
               "classId": 6
             },
             {
-              "name": "Adventure and RPG",
-              "slug": "adventure-rpg",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
-              "dateModified": "2014-05-08T17:42:09.54Z",
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
               "gameId": 432,
               "isClass": false,
-              "id": 422,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
               "parentCategoryId": 6,
               "classId": 6
             }
@@ -8991,9 +8955,9 @@
           "classId": 6,
           "slug": "more-villagers",
           "isFeatured": false,
-          "dateModified": "2026-01-24T20:49:41.82Z",
+          "dateModified": "2026-01-25T22:02:10.073Z",
           "dateCreated": "2021-05-23T10:27:32.103Z",
-          "dateReleased": "2023-11-10T17:32:53.273Z",
+          "dateReleased": "2026-01-25T21:51:18.737Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/more-villagers",
             "wikiUrl": "",
@@ -9075,7 +9039,7 @@
               "modId": 484954
             }
           ],
-          "mainFileId": 4857287
+          "mainFileId": 7527140
         },
         "curseForgeFile": {
           "id": 4857287,
@@ -9229,9 +9193,9 @@
           "classId": 6,
           "slug": "sophisticated-core",
           "isFeatured": false,
-          "dateModified": "2026-01-25T10:59:27.953Z",
+          "dateModified": "2026-01-26T23:31:21.037Z",
           "dateCreated": "2022-04-27T08:17:57.207Z",
-          "dateReleased": "2026-01-25T10:55:35.16Z",
+          "dateReleased": "2026-01-26T23:22:11.657Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-core",
             "sourceUrl": "https://github.com/P3pp3rF1y/SophisticatedCore"
@@ -9246,7 +9210,7 @@
           },
           "allowModDistribution": true,
           "screenshots": [],
-          "mainFileId": 7523622
+          "mainFileId": 7533046
         },
         "curseForgeFile": {
           "id": 7455151,
@@ -11182,18 +11146,6 @@
               "classId": 6
             },
             {
-              "name": "Adventure and RPG",
-              "slug": "adventure-rpg",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
-              "dateModified": "2014-05-08T17:42:09.54Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 422,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Utility & QoL",
               "slug": "utility-qol",
               "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
@@ -11240,30 +11192,6 @@
               "iconUrl": "https://media.forgecdn.net/avatars/6/34/635351496247862494.png",
               "parentCategoryId": 6,
               "classId": 6
-            },
-            {
-              "name": "Utility & QoL",
-              "slug": "utility-qol",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
-              "dateModified": "2021-11-17T11:45:09.143Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 5191,
-              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Magic",
-              "slug": "magic",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/magic",
-              "dateModified": "2014-05-08T17:40:24.787Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 419,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/34/635351496247862494.png",
-              "parentCategoryId": 6,
-              "classId": 6
             }
           ],
           "status": 4,
@@ -11271,7 +11199,7 @@
           "classId": 6,
           "slug": "kubejs-irons-spells",
           "isFeatured": false,
-          "dateModified": "2026-01-12T15:05:18.79Z",
+          "dateModified": "2026-01-27T18:47:04.877Z",
           "dateCreated": "2024-02-29T10:50:19.11Z",
           "dateReleased": "2025-11-18T06:50:35.783Z",
           "links": {
@@ -12804,18 +12732,6 @@
           "summary": "A cozy expansion to farming and cooking!",
           "categories": [
             {
-              "name": "Food",
-              "slug": "mc-food",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-food",
-              "dateModified": "2014-05-08T17:45:26.55Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 436,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/49/635351499265510402.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Cosmetic",
               "slug": "cosmetic",
               "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
@@ -12837,6 +12753,18 @@
               "id": 416,
               "iconUrl": "https://media.forgecdn.net/avatars/6/31/635351495615556933.png",
               "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Food",
+              "slug": "mc-food",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-food",
+              "dateModified": "2014-05-08T17:45:26.55Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 436,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/49/635351499265510402.png",
+              "parentCategoryId": 6,
               "classId": 6
             }
           ],
@@ -13461,27 +13389,15 @@
           "summary": "New structures for Farmers Delight that teach the player how to use the mechanics of this mod and are just beautiful!",
           "categories": [
             {
-              "name": "Structures",
-              "slug": "world-structures",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
-              "dateModified": "2014-05-08T17:37:17.173Z",
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
               "gameId": 432,
               "isClass": false,
-              "id": 409,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
-              "parentCategoryId": 406,
-              "classId": 6
-            },
-            {
-              "name": "Farming",
-              "slug": "technology-farming",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-farming",
-              "dateModified": "2014-05-08T17:39:21.57Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 416,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/31/635351495615556933.png",
-              "parentCategoryId": 412,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
               "classId": 6
             },
             {
@@ -13497,6 +13413,18 @@
               "classId": 6
             },
             {
+              "name": "Farming",
+              "slug": "technology-farming",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-farming",
+              "dateModified": "2014-05-08T17:39:21.57Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 416,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/31/635351495615556933.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
               "name": "World Gen",
               "slug": "world-gen",
               "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
@@ -13509,15 +13437,15 @@
               "classId": 6
             },
             {
-              "name": "Addons",
-              "slug": "mc-addons",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
-              "dateModified": "2014-05-08T17:09:48.63Z",
+              "name": "Structures",
+              "slug": "world-structures",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
+              "dateModified": "2014-05-08T17:37:17.173Z",
               "gameId": 432,
               "isClass": false,
-              "id": 426,
-              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
-              "parentCategoryId": 6,
+              "id": 409,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
+              "parentCategoryId": 406,
               "classId": 6
             }
           ],
@@ -14489,30 +14417,6 @@
               "classId": 6
             },
             {
-              "name": "Miscellaneous",
-              "slug": "mc-miscellaneous",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
-              "dateModified": "2014-06-15T04:27:14.543Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 425,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Adventure and RPG",
-              "slug": "adventure-rpg",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
-              "dateModified": "2014-05-08T17:42:09.54Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 422,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Adventure and RPG",
               "slug": "adventure-rpg",
               "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
@@ -14861,18 +14765,6 @@
           "summary": "A mod that makes it so nobody misses out on Loot! All loot chests are instanced per player and visually unique.",
           "categories": [
             {
-              "name": "Server Utility",
-              "slug": "server-utility",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
-              "dateModified": "2014-05-08T17:44:55.057Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 435,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Structures",
               "slug": "world-structures",
               "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
@@ -14883,6 +14775,18 @@
               "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
               "parentCategoryId": 406,
               "classId": 6
+            },
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
             }
           ],
           "status": 4,
@@ -14890,9 +14794,9 @@
           "classId": 6,
           "slug": "lootr",
           "isFeatured": false,
-          "dateModified": "2026-01-25T10:20:57.447Z",
+          "dateModified": "2026-01-26T02:56:48.49Z",
           "dateCreated": "2020-04-06T16:52:36.183Z",
-          "dateReleased": "2026-01-25T10:05:54.48Z",
+          "dateReleased": "2026-01-26T02:45:31.147Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/lootr",
             "wikiUrl": "",
@@ -15046,7 +14950,7 @@
               "modId": 361276
             }
           ],
-          "mainFileId": 7523447
+          "mainFileId": 7528375
         },
         "curseForgeFile": {
           "id": 7263076,
@@ -25321,18 +25225,6 @@
               "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
               "parentCategoryId": 6,
               "classId": 6
-            },
-            {
-              "name": "Adventure and RPG",
-              "slug": "adventure-rpg",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
-              "dateModified": "2014-05-08T17:42:09.54Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 422,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
-              "parentCategoryId": 6,
-              "classId": 6
             }
           ],
           "status": 4,
@@ -28718,6 +28610,18 @@
           "summary": "Integrated Dungeons and Structures (aka IDAS) is a mod that adds heavily detailed structures using blocks and mobs from Quark, Biomes O’ Plenty, Alex’s Mobs, and Create.",
           "categories": [
             {
+              "name": "Structures",
+              "slug": "world-structures",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
+              "dateModified": "2014-05-08T17:37:17.173Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 409,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
               "name": "Adventure and RPG",
               "slug": "adventure-rpg",
               "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
@@ -28726,18 +28630,6 @@
               "isClass": false,
               "id": 422,
               "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Armor, Tools, and Weapons",
-              "slug": "armor-weapons-tools",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
-              "dateModified": "2014-05-08T17:44:39.057Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 434,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
               "parentCategoryId": 6,
               "classId": 6
             },
@@ -28754,15 +28646,15 @@
               "classId": 6
             },
             {
-              "name": "Structures",
-              "slug": "world-structures",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
-              "dateModified": "2014-05-08T17:37:17.173Z",
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
               "gameId": 432,
               "isClass": false,
-              "id": 409,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
-              "parentCategoryId": 406,
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "parentCategoryId": 6,
               "classId": 6
             },
             {
@@ -29174,26 +29066,14 @@
               "url": "https://www.curseforge.com/members/fatasiangamer"
             },
             {
-              "id": 104837427,
-              "name": "rdh_old",
-              "url": "https://www.curseforge.com/members/rdh_old"
+              "id": 122971687,
+              "name": "rdh",
+              "url": "https://www.curseforge.com/members/rdh"
             }
           ],
           "gameId": 432,
           "summary": "An expansion to Create that adds a fully-featured host of Create-mod village professions.",
           "categories": [
-            {
-              "name": "Structures",
-              "slug": "world-structures",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
-              "dateModified": "2014-05-08T17:37:17.173Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 409,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
-              "parentCategoryId": 406,
-              "classId": 6
-            },
             {
               "name": "Structures",
               "slug": "world-structures",
@@ -29243,18 +29123,6 @@
               "classId": 6
             },
             {
-              "name": "World Gen",
-              "slug": "world-gen",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
-              "dateModified": "2017-10-16T21:40:11.473Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 406,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Cosmetic",
               "slug": "cosmetic",
               "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
@@ -29272,7 +29140,7 @@
           "classId": 6,
           "slug": "dynamic-village",
           "isFeatured": false,
-          "dateModified": "2024-12-31T20:51:44.853Z",
+          "dateModified": "2026-01-26T22:48:26.573Z",
           "dateCreated": "2023-10-17T08:20:59.897Z",
           "dateReleased": "2024-07-25T18:41:16.94Z",
           "links": {
@@ -35173,18 +35041,6 @@
               "classId": 6
             },
             {
-              "name": "Miscellaneous",
-              "slug": "mc-miscellaneous",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
-              "dateModified": "2014-06-15T04:27:14.543Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 425,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "API and Library",
               "slug": "library-api",
               "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
@@ -35193,30 +35049,6 @@
               "isClass": false,
               "id": 421,
               "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "API and Library",
-              "slug": "library-api",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
-              "dateModified": "2014-05-23T03:21:44.06Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 421,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "World Gen",
-              "slug": "world-gen",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
-              "dateModified": "2017-10-16T21:40:11.473Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 406,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
               "parentCategoryId": 6,
               "classId": 6
             },
@@ -40060,6 +39892,18 @@
           "summary": "This mod fixes memory leaks of some mods, Neoforge and Minecraft until they implement their fixes.",
           "categories": [
             {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
               "name": "Performance",
               "slug": "performance",
               "url": "https://www.curseforge.com/minecraft/mc-mods/performance",
@@ -40080,18 +39924,6 @@
               "isClass": false,
               "id": 6821,
               "iconUrl": "https://media.forgecdn.net/avatars/934/473/638410713616155958.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Server Utility",
-              "slug": "server-utility",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
-              "dateModified": "2014-05-08T17:44:55.057Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 435,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
               "parentCategoryId": 6,
               "classId": 6
             }
@@ -42513,18 +42345,6 @@
               "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
               "parentCategoryId": 6,
               "classId": 6
-            },
-            {
-              "name": "API and Library",
-              "slug": "library-api",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
-              "dateModified": "2014-05-23T03:21:44.06Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 421,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
-              "parentCategoryId": 6,
-              "classId": 6
             }
           ],
           "status": 4,
@@ -42532,9 +42352,9 @@
           "classId": 6,
           "slug": "creativecore",
           "isFeatured": false,
-          "dateModified": "2026-01-13T09:52:39.25Z",
+          "dateModified": "2026-01-27T13:54:06.16Z",
           "dateCreated": "2017-01-23T11:57:10.153Z",
-          "dateReleased": "2026-01-13T09:48:26.427Z",
+          "dateReleased": "2026-01-27T13:47:05.717Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/creativecore",
             "wikiUrl": "",
@@ -42551,7 +42371,7 @@
           },
           "allowModDistribution": true,
           "screenshots": [],
-          "mainFileId": 7454088
+          "mainFileId": 7535729
         },
         "curseForgeFile": {
           "id": 6383884,
@@ -43209,9 +43029,9 @@
           "classId": 6,
           "slug": "configured",
           "isFeatured": false,
-          "dateModified": "2025-12-14T12:37:10.123Z",
+          "dateModified": "2026-01-26T14:12:37Z",
           "dateCreated": "2021-03-18T11:33:27.723Z",
-          "dateReleased": "2025-12-14T12:05:35.3Z",
+          "dateReleased": "2026-01-26T14:06:29.323Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/configured",
             "wikiUrl": "",
@@ -43301,7 +43121,7 @@
               "modId": 457570
             }
           ],
-          "mainFileId": 7332060
+          "mainFileId": 7530375
         },
         "curseForgeFile": {
           "id": 5180900,
@@ -43859,18 +43679,6 @@
           "summary": "[NEW] Custom JEI Categories & Jade Integration",
           "categories": [
             {
-              "name": "KubeJS",
-              "slug": "kubejs",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/kubejs",
-              "dateModified": "2022-04-24T06:59:45.66Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 5314,
-              "iconUrl": "https://media.forgecdn.net/avatars/538/559/637863803856518049.png",
-              "parentCategoryId": 426,
-              "classId": 6
-            },
-            {
               "name": "API and Library",
               "slug": "library-api",
               "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
@@ -43880,6 +43688,18 @@
               "id": 421,
               "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
               "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "KubeJS",
+              "slug": "kubejs",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/kubejs",
+              "dateModified": "2022-04-24T06:59:45.66Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5314,
+              "iconUrl": "https://media.forgecdn.net/avatars/538/559/637863803856518049.png",
+              "parentCategoryId": 426,
               "classId": 6
             },
             {
@@ -46564,15 +46384,15 @@
               "classId": 6
             },
             {
-              "name": "Addons",
-              "slug": "mc-addons",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
-              "dateModified": "2014-05-08T17:09:48.63Z",
+              "name": "Create",
+              "slug": "create",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/create",
+              "dateModified": "2023-06-16T15:13:08.513Z",
               "gameId": 432,
               "isClass": false,
-              "id": 426,
-              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
-              "parentCategoryId": 6,
+              "id": 6484,
+              "iconUrl": "https://media.forgecdn.net/avatars/834/490/638225251884617502.png",
+              "parentCategoryId": 426,
               "classId": 6
             },
             {
@@ -46588,15 +46408,15 @@
               "classId": 6
             },
             {
-              "name": "Create",
-              "slug": "create",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/create",
-              "dateModified": "2023-06-16T15:13:08.513Z",
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
               "gameId": 432,
               "isClass": false,
-              "id": 6484,
-              "iconUrl": "https://media.forgecdn.net/avatars/834/490/638225251884617502.png",
-              "parentCategoryId": 426,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
               "classId": 6
             }
           ],
@@ -51266,6 +51086,18 @@
           "summary": "Using async path-tracing to hide Tiles/Entities that are not visible",
           "categories": [
             {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
               "name": "Miscellaneous",
               "slug": "mc-miscellaneous",
               "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
@@ -51274,30 +51106,6 @@
               "isClass": false,
               "id": 425,
               "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Utility & QoL",
-              "slug": "utility-qol",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
-              "dateModified": "2021-11-17T11:45:09.143Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 5191,
-              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Utility & QoL",
-              "slug": "utility-qol",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
-              "dateModified": "2021-11-17T11:45:09.143Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 5191,
-              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
               "parentCategoryId": 6,
               "classId": 6
             }
@@ -52823,9 +52631,9 @@
           "classId": 6,
           "slug": "ferritecore",
           "isFeatured": false,
-          "dateModified": "2025-12-09T17:17:32.557Z",
+          "dateModified": "2026-01-25T14:10:23.05Z",
           "dateCreated": "2020-12-30T12:29:46.167Z",
-          "dateReleased": "2025-12-09T17:14:49.52Z",
+          "dateReleased": "2026-01-25T14:07:53.403Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/ferritecore",
             "wikiUrl": "",
@@ -52842,7 +52650,7 @@
           },
           "allowModDistribution": true,
           "screenshots": [],
-          "mainFileId": 7312355
+          "mainFileId": 7524515
         },
         "curseForgeFile": {
           "id": 4810975,
@@ -54007,18 +53815,6 @@
           "summary": "Speed up immediate mode rendering in Minecraft",
           "categories": [
             {
-              "name": "Performance",
-              "slug": "performance",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/performance",
-              "dateModified": "2024-01-16T06:56:01.057Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 6814,
-              "iconUrl": "https://media.forgecdn.net/avatars/933/987/638409849610531091.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Utility & QoL",
               "slug": "utility-qol",
               "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
@@ -54029,6 +53825,18 @@
               "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
               "parentCategoryId": 6,
               "classId": 6
+            },
+            {
+              "name": "Performance",
+              "slug": "performance",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/performance",
+              "dateModified": "2024-01-16T06:56:01.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 6814,
+              "iconUrl": "https://media.forgecdn.net/avatars/933/987/638409849610531091.png",
+              "parentCategoryId": 6,
+              "classId": 6
             }
           ],
           "status": 4,
@@ -54036,9 +53844,9 @@
           "classId": 6,
           "slug": "immediatelyfast",
           "isFeatured": false,
-          "dateModified": "2025-12-18T12:17:04.683Z",
+          "dateModified": "2026-01-27T21:36:38.1Z",
           "dateCreated": "2022-10-09T07:07:07.437Z",
-          "dateReleased": "2025-12-18T12:12:13.483Z",
+          "dateReleased": "2026-01-27T21:25:39.987Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/immediatelyfast",
             "wikiUrl": "",
@@ -54055,7 +53863,7 @@
           },
           "allowModDistribution": true,
           "screenshots": [],
-          "mainFileId": 7349686
+          "mainFileId": 7537854
         },
         "curseForgeFile": {
           "id": 7313094,
@@ -57127,7 +56935,7 @@
           "classId": 6,
           "slug": "spark",
           "isFeatured": false,
-          "dateModified": "2025-12-10T09:13:52.303Z",
+          "dateModified": "2026-01-26T20:46:59.243Z",
           "dateCreated": "2020-02-06T18:52:51.83Z",
           "dateReleased": "2025-12-10T09:05:41.927Z",
           "links": {
@@ -57136,6 +56944,20 @@
             "issuesUrl": "https://github.com/lucko/spark/issues",
             "sourceUrl": "https://github.com/lucko/spark"
           },
+          "socialLinks": [
+            {
+              "type": "3",
+              "url": "https://spark.lucko.me/"
+            },
+            {
+              "type": "13",
+              "url": "https://github.com/lucko/spark"
+            },
+            {
+              "type": "2",
+              "url": "https://discord.gg/PAGT2fu"
+            }
+          ],
           "logo": {
             "id": 495151,
             "description": "",
@@ -59105,6 +58927,30 @@
           "summary": "This mod allows specific mobs to be attracted to certain blocks or items held by players. Configurable in a .toml file, you can customize which mobs, blocks, and items act as lures, along with search radius and stop distance for optimized performance",
           "categories": [
             {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Mobs",
+              "slug": "world-mobs",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
+              "dateModified": "2014-05-08T17:46:59.507Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 411,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
               "name": "Adventure and RPG",
               "slug": "adventure-rpg",
               "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
@@ -59126,78 +58972,6 @@
               "id": 435,
               "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
               "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Adventure and RPG",
-              "slug": "adventure-rpg",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
-              "dateModified": "2014-05-08T17:42:09.54Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 422,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Mobs",
-              "slug": "world-mobs",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
-              "dateModified": "2014-05-08T17:46:59.507Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 411,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
-              "parentCategoryId": 406,
-              "classId": 6
-            },
-            {
-              "name": "Utility & QoL",
-              "slug": "utility-qol",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
-              "dateModified": "2021-11-17T11:45:09.143Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 5191,
-              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Utility & QoL",
-              "slug": "utility-qol",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
-              "dateModified": "2021-11-17T11:45:09.143Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 5191,
-              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Server Utility",
-              "slug": "server-utility",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
-              "dateModified": "2014-05-08T17:44:55.057Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 435,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Mobs",
-              "slug": "world-mobs",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
-              "dateModified": "2014-05-08T17:46:59.507Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 411,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
-              "parentCategoryId": 406,
               "classId": 6
             }
           ],
@@ -59797,14 +59571,14 @@
           "summary": "An addon for Iron's Spells and Spellbooks and L_Ender's Cataclysm",
           "categories": [
             {
-              "name": "Magic",
-              "slug": "magic",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/magic",
-              "dateModified": "2014-05-08T17:40:24.787Z",
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
               "gameId": 432,
               "isClass": false,
-              "id": 419,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/34/635351496247862494.png",
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
               "parentCategoryId": 6,
               "classId": 6
             },
@@ -59821,14 +59595,14 @@
               "classId": 6
             },
             {
-              "name": "Armor, Tools, and Weapons",
-              "slug": "armor-weapons-tools",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
-              "dateModified": "2014-05-08T17:44:39.057Z",
+              "name": "Magic",
+              "slug": "magic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/magic",
+              "dateModified": "2014-05-08T17:40:24.787Z",
               "gameId": 432,
               "isClass": false,
-              "id": 434,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "id": 419,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/34/635351496247862494.png",
               "parentCategoryId": 6,
               "classId": 6
             },
@@ -60770,30 +60544,6 @@
           "summary": "Adds a bunch of new features for Create Packages",
           "categories": [
             {
-              "name": "Utility & QoL",
-              "slug": "utility-qol",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
-              "dateModified": "2021-11-17T11:45:09.143Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 5191,
-              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Utility & QoL",
-              "slug": "utility-qol",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
-              "dateModified": "2021-11-17T11:45:09.143Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 5191,
-              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Create",
               "slug": "create",
               "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/create",
@@ -60806,30 +60556,6 @@
               "classId": 6
             },
             {
-              "name": "Technology",
-              "slug": "technology",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
-              "dateModified": "2014-05-08T17:37:54.597Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 412,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Storage",
-              "slug": "storage",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
-              "dateModified": "2014-05-08T17:41:17.203Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 420,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Storage",
               "slug": "storage",
               "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
@@ -60850,6 +60576,18 @@
               "isClass": false,
               "id": 412,
               "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
               "parentCategoryId": 6,
               "classId": 6
             }
@@ -63768,18 +63506,6 @@
               "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
               "parentCategoryId": 6,
               "classId": 6
-            },
-            {
-              "name": "Utility & QoL",
-              "slug": "utility-qol",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
-              "dateModified": "2021-11-17T11:45:09.143Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 5191,
-              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
-              "parentCategoryId": 6,
-              "classId": 6
             }
           ],
           "status": 4,
@@ -65075,13 +64801,916 @@
           "fileFingerprint": 2990847001,
           "modId": 850298
         }
+      },
+      {
+        "name": "Beautiful Enchanted Books [MOD EDITION]",
+        "version": "Unknown",
+        "optional": true,
+        "file": "BEB-Forge-1.20.1-6.0.0.jar",
+        "type": "mods",
+        "description": "Forget about the boring aspects of enchanted books! Now they will have new aspects that are much more beautiful and characteristic of their theme.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 1083202,
+        "curseForgeFileId": 7268147,
+        "curseForgeProject": {
+          "id": 1083202,
+          "name": "Beautiful Enchanted Books [MOD EDITION] | 6.0 UPDATE!",
+          "authors": [
+            {
+              "id": 101842572,
+              "name": "Lupin",
+              "url": "https://www.curseforge.com/members/lupin"
+            },
+            {
+              "id": 102066449,
+              "name": "Cerbon",
+              "url": "https://www.curseforge.com/members/cerbon"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Forget about the boring aspects of enchanted books! Now the books will have new aspects related to their theme, and support for more than 85 important mods has been added!",
+          "categories": [
+            {
+              "name": "Ores and Resources",
+              "slug": "world-ores-resources",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-ores-resources",
+              "dateModified": "2014-05-08T17:36:41.233Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 408,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/23/635351494012336510.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Storage",
+              "slug": "storage",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
+              "dateModified": "2014-05-08T17:41:17.203Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 420,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 424,
+          "classId": 6,
+          "slug": "beautiful-enchanted-books",
+          "isFeatured": false,
+          "dateModified": "2025-11-27T15:43:49.457Z",
+          "dateCreated": "2024-08-14T07:52:26.18Z",
+          "dateReleased": "2025-11-27T15:38:58.997Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/beautiful-enchanted-books",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/CERBON-s-Comissions/Beautiful-Enchanted-Books/issues",
+            "sourceUrl": "https://github.com/CERBON-s-Comissions/Beautiful-Enchanted-Books"
+          },
+          "logo": {
+            "id": 1059990,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1059/990/256/256/638591533953639737.webp",
+            "title": "638591533953639737.webp",
+            "url": "https://media.forgecdn.net/avatars/1059/990/638591533953639737.webp",
+            "modId": 1083202
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 939980,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/939/980/310/172/beautiful-enchanted-books-5.jpg",
+              "title": "Beautiful Enchanted Books",
+              "url": "https://media.forgecdn.net/attachments/939/980/beautiful-enchanted-books-5.jpg",
+              "modId": 1083202
+            },
+            {
+              "id": 939979,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/939/979/310/172/beautiful-enchanted-books-4.jpg",
+              "title": "Beautiful Enchanted Books",
+              "url": "https://media.forgecdn.net/attachments/939/979/beautiful-enchanted-books-4.jpg",
+              "modId": 1083202
+            },
+            {
+              "id": 939978,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/939/978/310/172/beautiful-enchanted-books-3.jpg",
+              "title": "Beautiful Enchanted Books",
+              "url": "https://media.forgecdn.net/attachments/939/978/beautiful-enchanted-books-3.jpg",
+              "modId": 1083202
+            },
+            {
+              "id": 939976,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/939/976/310/172/beautiful-enchanted-books-2.jpg",
+              "title": "Beautiful Enchanted Books",
+              "url": "https://media.forgecdn.net/attachments/939/976/beautiful-enchanted-books-2.jpg",
+              "modId": 1083202
+            },
+            {
+              "id": 939975,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/939/975/310/172/beautiful-enchanted-books-1.jpg",
+              "title": "Beautiful Enchanted Books",
+              "url": "https://media.forgecdn.net/attachments/939/975/beautiful-enchanted-books-1.jpg",
+              "modId": 1083202
+            }
+          ],
+          "mainFileId": 7268164
+        },
+        "curseForgeFile": {
+          "id": 7268147,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[Forge] Beautiful Enchanted Books - MC 1.20.1 - 6.0.0",
+          "fileName": "BEB-Forge-1.20.1-6.0.0.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-11-27T15:34:50.787Z",
+          "fileLength": 1884205,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2085288339,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2819581543,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 573696360,
+              "name": "beb-common.mixins.json"
+            },
+            {
+              "fingerprint": 2881215912,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 4193052719,
+              "name": "BEB-Common-1.20.1-common-refmap.json"
+            },
+            {
+              "fingerprint": 2028624015,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 300813764,
+              "name": "beb.mixins.json"
+            },
+            {
+              "fingerprint": 1493072104,
+              "name": "BEB-Forge-1.20.1-forge-refmap.json"
+            },
+            {
+              "fingerprint": 3823896010,
+              "name": "com"
+            },
+            {
+              "fingerprint": 3278893106,
+              "name": "architectury_inject_BeautifulEnchantedBooks_common_3738aba0c4714bdabe771139f2ff568b_b59f2e9cf5a342febe34aca787e709b4eae9922a19782a83209628b4bef25d4bBEBCommon1201600devjar"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "b35d1bc56693633a6f619347a9e1fe66277058d6",
+              "algo": 1
+            },
+            {
+              "value": "6e67d3d36f6bce94ca27d7ea235453d9",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.20.1",
+            "Forge"
+          ],
+          "fileFingerprint": 3768222669,
+          "modId": 1083202
+        },
+        "modrinthProject": {
+          "id": "pcqEicMM",
+          "slug": "beautiful-enchanted-books-mod-edition",
+          "project_type": "mod",
+          "team": "k8XXeM5k",
+          "title": "Beautiful Enchanted Books [MOD EDITION]",
+          "description": "Forget about the boring aspects of enchanted books! Now they will have new aspects that are much more beautiful and characteristic of their theme.",
+          "body": "![Banner](https://www.bisecthosting.com/images/CF/Beautiful_Enchanted_Books/BH_BEB_header1.webp)\n\nThis mod aims to improve the appearance of enchanted books, now each one will be different!\n\nWe have also added support for over 85 mods, including:\n<details>\n<summary>Spoiler</summary>\n\nAd Astra: Giselle Addon, Additional Additions, Additional Enchanted Miner, Alex's Caves, Alex's Caves: Stuff & Torpedoes, Alex's Mobs, Alexs Caves Exemplified, Allurement, Apotheosis, Apothic Enchanting, Apothic Spawners, Ars Additions, Ars Elemental, Ars Nouveau, Arthropofia, AzureLib, Backpacked, Better Archeology, Better End, BetterNether, Biome Makeover, Box of Horros, Celestisynth, Clutter, CoFH Core, Combat Roll, Corail Tombstone, Create, Create Stuff & Additions, Darker Depths, Death Knights, Deep Aether, Deeper and Darker, Draconic Evolution, EnderIO, Ensorcellation, Eternal Starlight, EvilCraft, Farmer's Delight, Fins and Tails, Forbidden Arcanus, Galosphere, gofish, Golden Foods, Hunter's Return, Jaden's Nether Expansion, Just a lot more enchantments, Just Enough Guns, Kobolds, Malum, Midnight, MineColonies, My Nether Delight, Mystical Agriculture, Mythic Charms, MythicBotania, Nature's Aura, Nether Depths Upgrade, Opposint Forge, Piglin Proliferation, Railcraft Reborn, Reliquary Reincarnations, Species, Spawner+, Spell Engine, Spell Power Attribute, Stalwart Dungeons, Stellarity, Supplementaries, Terramity, The Bumblezone, The Deep Void, The End of Herobrine, The Twilight Forest, The Undergarden, The Undead Revamp, Things, Too Many Bows, Trials Chambers, Unusual Fish, UtilitiX, Vampirism, Vein Mining, When Dungeons Arise and You're in Grave Danger and Yomai Style.\n\n\n</details>\n\n\nThis is something that the Minecraft community has asked the creators on countless occasions, since this way they will be able to differentiate themselves from each other. For this reason, we have created this fantastic resource pack that has unique textures related to the theme of each book.\n\nPreviously, we had released a resourcepack, but since the first version, we have received countless requests to transform it into a mod, and without requiring any other mod to work... Well, it is now available! This mod does NOT require any other mod to modify the look of the books!\n\n### Do you need a server to play with your friends?\n\n<p><span style=\"font-size: 24px;\"><a href=\"https://bisecthosting.com/Lupin\"><span style=\"font-family: comic sans ms, sans-serif;\"><strong><img src=\"https://www.bisecthosting.com/images/CF/Beautiful_Enchanted_Books/BH_BEB_promo.webp\" width=\"1920\" height=\"302\" /></strong></span></a></span></p>\n\nFor exceptional server hosting services, look no further than **[BisectHosting](https://bisecthosting.com/lupin)**. Of course, you can install all the mods or modpacks you want, and their support team is always available to help you.\n\n**[With the code \"Lupin\" you will get a 25% discount! Click here!](https://bisecthosting.com/lupin)**\n\n![Summary](https://www.bisecthosting.com/images/CF/Beautiful_Enchanted_Books/BH_BEB_summary.webp)\n\nThe goal of Beautiful Enchanted Books is simple, and it's none other than to give a fresh look to all Minecraft books - no longer will they all have the same boring look!\n\nIn addition, they will all have the same tone depending on the theme or the use they can be given, plus of course, unique features that will make them stand out from the rest. We are sure you are going to love these features!\n\n![FAQ](https://www.bisecthosting.com/images/CF/Beautiful_Enchanted_Books/BH_BEB_FAQ.webp)\n\n### Does it work on servers?\n### \nSure! Remember that the best way to play with mods and friends is with BisectHosting, and by **[clicking on this link you can get a 25% discount](https://bisecthosting.com/lupin).**\n\n### Can this mod be used in modpacks?\n### \nOf course! As long as it is published only on Modrinth or CurseForge. Uploading it to any other platform would be violating our rights and is not allowed at all.\n\nHowever, we are really grateful if you consider adding it to your Modrinth or CurseForge modpack. If you need any small changes or have any questions, contact us!\n\n![Screenshots 1](https://cdn.modrinth.com/data/pcqEicMM/images/4cf885c1731bc23979b344e9fa5e74f734e144a4.jpeg)\n\n![Screenshots 2](https://cdn.modrinth.com/data/pcqEicMM/images/65ebec2ffdac4988f6610c69da0f9143ea7b92a1.jpeg)\n\n![Screenshots 3](https://cdn.modrinth.com/data/pcqEicMM/images/84176cf1af8c5dc9569f6f460abc2e54a68a3fb0.jpeg)\n\n[![DISCORD](https://www.bisecthosting.com/images/CF/MultiRecipe/BH_Lupin_Discord.webp)](https://discord.gg/X8VY5WMbe4)\n\n.",
+          "published": "2024-08-13T17:39:19.089621Z",
+          "updated": "2025-11-27T15:49:47.263542Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": ""
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "decoration",
+            "equipment",
+            "utility"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/pcqEicMM/633fe2daa2937ef7f6591d2770cabdac8b1578eb_96.webp",
+          "issues_url": "https://github.com/CERBON-s-Comissions/Beautiful-Enchanted-Books/issues",
+          "source_url": "https://github.com/CERBON-s-Comissions/Beautiful-Enchanted-Books",
+          "discord_url": "https://discord.gg/X8VY5WMbe4",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/pcqEicMM/images/c4a774ba5e777ab48ae19cb88241d0f7e7ee8f21_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/pcqEicMM/images/4cf885c1731bc23979b344e9fa5e74f734e144a4.jpeg",
+              "featured": true,
+              "title": "Beautiful Enchanted Books",
+              "created": "2024-08-13T17:45:19.552308Z",
+              "ordering": 1.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/pcqEicMM/images/65ebec2ffdac4988f6610c69da0f9143ea7b92a1_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/pcqEicMM/images/65ebec2ffdac4988f6610c69da0f9143ea7b92a1.jpeg",
+              "featured": false,
+              "title": "Beautiful Enchanted Books",
+              "created": "2024-08-13T17:45:29.829449Z",
+              "ordering": 2.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/pcqEicMM/images/84176cf1af8c5dc9569f6f460abc2e54a68a3fb0_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/pcqEicMM/images/84176cf1af8c5dc9569f6f460abc2e54a68a3fb0.jpeg",
+              "featured": false,
+              "title": "Beautiful Enchanted Books",
+              "created": "2024-08-13T17:45:24.806727Z",
+              "ordering": 3.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/pcqEicMM/images/2491404ac75f8772ec382dd26247231460e93bfa_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/pcqEicMM/images/c14a89389bfb7ba462769b0a0a036fbab02c3933.jpeg",
+              "featured": false,
+              "title": "Beautiful Enchanted Books",
+              "created": "2024-08-13T17:45:34.587934Z",
+              "ordering": 4.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/pcqEicMM/images/404db215a7f52451f03017e904c9c734254d10a0_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/pcqEicMM/images/cf318d20b7d7b2eef66328a2c7d2b39d778322d2.jpeg",
+              "featured": false,
+              "title": "Beautiful Enchanted Books",
+              "created": "2024-08-13T17:45:40.779066Z",
+              "ordering": 5.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "53MxOoFH",
+          "project_id": "pcqEicMM",
+          "author_id": "6zuOmBfF",
+          "name": "[Forge] Beautiful Enchanted Books - MC 1.20.1 - 6.0.0",
+          "version_number": "6.0.0",
+          "changelog": "**MC 1.20.1 - 6.0.0**\n\n- Added support for the following mods: Additional Additions, Alex's Caves, Alex's Caves: Stuff & Torpedoes, Alexs Caves Exemplified, Allurement, Arthropofia, Better Archeology, Biome Makeover, Box of Horros, Celestisynth, Clutter, Combat Roll, Create Stuff & Additions, Darker Depths, Eternal Starlight, gofish, Just a lot more enchantments, Just Enough Guns, Malum, Midnight, Mythic Charms, Opposint Forge, Species, Stellarity, Terramity, The Bumblezone, The Deep Void, The End of Herobrine, The Undead Revamp, Things, Too Many Bows, Trials Chambers and Yomai Style.\n\n### Do you need a server to play with your friends?\n\n<p><span style=\"font-size: 24px;\"><a href=\"https://bisecthosting.com/Lupin\"><span style=\"font-family: comic sans ms, sans-serif;\"><strong><img src=\"https://www.bisecthosting.com/images/CF/Beautiful_Enchanted_Books/BH_BEB_promo.webp\" width=\"1920\" height=\"302\" /></strong></span></a></span></p>\n\nFor exceptional server hosting services, look no further than **[BisectHosting](https://bisecthosting.com/lupin)**. Of course, you can install all the mods or modpacks you want, and their support team is always available to help you.\n\n**[With the code \"Lupin\" you will get a 25% discount! Click here!](https://bisecthosting.com/lupin)**",
+          "date_published": "2025-11-27T15:48:07.462819Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "4912af061e28abbabe54aa38025a8748c00b6cf1a0f3ab9dab35f6afec3fd9c3f92e7d0d15228bc35ba9e4fbd4aef0abfe7ef6f97652586382e973080759477a",
+                "sha1": "b35d1bc56693633a6f619347a9e1fe66277058d6"
+              },
+              "url": "https://cdn.modrinth.com/data/pcqEicMM/versions/53MxOoFH/BEB-Forge-1.20.1-6.0.0.jar",
+              "filename": "BEB-Forge-1.20.1-6.0.0.jar",
+              "primary": true,
+              "size": 1884205
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
+      },
+      {
+        "name": "Create: Enchantable Machinery",
+        "version": "Unknown",
+        "optional": true,
+        "file": "createenchantablemachinery-3.4.3+mc1.20.1-forge.jar",
+        "type": "mods",
+        "description": "This mod allows you to apply some vanilla enchantment to Create blocks.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 1061749,
+        "curseForgeFileId": 7172776,
+        "curseForgeProject": {
+          "id": 1061749,
+          "name": "Create: Enchantable Machinery",
+          "authors": [
+            {
+              "id": 100789897,
+              "name": "Cotrin",
+              "url": "https://www.curseforge.com/members/cotrin"
+            }
+          ],
+          "gameId": 432,
+          "summary": "This mod allows you to apply some vanilla enchantment to Create blocks.",
+          "categories": [
+            {
+              "name": "Create",
+              "slug": "create",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/create",
+              "dateModified": "2023-06-16T15:13:08.513Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 6484,
+              "iconUrl": "https://media.forgecdn.net/avatars/834/490/638225251884617502.png",
+              "parentCategoryId": 426,
+              "classId": 6
+            },
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 6484,
+          "classId": 6,
+          "slug": "create-enchantable-machinery",
+          "isFeatured": false,
+          "dateModified": "2025-11-01T04:06:48.13Z",
+          "dateCreated": "2024-07-11T13:32:02.513Z",
+          "dateReleased": "2025-11-01T03:44:23.72Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/create-enchantable-machinery",
+            "issuesUrl": "https://github.com/cotrin8672/CreateEnchantableMachinery/issues",
+            "sourceUrl": "https://github.com/cotrin8672/CreateEnchantableMachinery"
+          },
+          "logo": {
+            "id": 1228494,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1228/494/256/256/638805706133372066.png",
+            "title": "638805706133372066.png",
+            "url": "https://media.forgecdn.net/avatars/1228/494/638805706133372066.png",
+            "modId": 1061749
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 913598,
+              "description": "2024-07-11_20.06.30.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/913/598/310/172/2024-07-11_20.png",
+              "title": "2024-07-11_20.06.30.png",
+              "url": "https://media.forgecdn.net/attachments/913/598/2024-07-11_20.png",
+              "modId": 1061749
+            },
+            {
+              "id": 913597,
+              "description": "2024-07-11_20.03.42.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/913/597/310/172/2024-07-11_20.png",
+              "title": "2024-07-11_20.03.42.png",
+              "url": "https://media.forgecdn.net/attachments/913/597/2024-07-11_20.png",
+              "modId": 1061749
+            },
+            {
+              "id": 913596,
+              "description": "2024-07-11_19.26.05.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/913/596/310/172/2024-07-11_19.png",
+              "title": "2024-07-11_19.26.05.png",
+              "url": "https://media.forgecdn.net/attachments/913/596/2024-07-11_19.png",
+              "modId": 1061749
+            }
+          ],
+          "mainFileId": 7172776
+        },
+        "curseForgeFile": {
+          "id": 7172776,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Create: Enchantable Machinery 3.4.3 Forge",
+          "fileName": "createenchantablemachinery-3.4.3+mc1.20.1-forge.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-11-01T03:44:23.72Z",
+          "fileLength": 579821,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 351264,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 328085,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1008994960,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1707693950,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 422837476,
+              "name": "createenchantablemachinery.mixins.json"
+            },
+            {
+              "fingerprint": 3990667614,
+              "name": "createenchantablemachinery.refmap.json"
+            },
+            {
+              "fingerprint": 4204789045,
+              "name": "data"
+            },
+            {
+              "fingerprint": 4230210332,
+              "name": "io"
+            },
+            {
+              "fingerprint": 1806728485,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 4113810056,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "e3fcddcd2d355e6ef17bad525b79a2392242d341",
+              "algo": 1
+            },
+            {
+              "value": "b279bfcd49e8a294e0208138daa15e6a",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "1.20.1",
+            "Forge",
+            "Server"
+          ],
+          "fileFingerprint": 2869260508,
+          "modId": 1061749
+        },
+        "modrinthProject": {
+          "id": "eqrvp4NK",
+          "slug": "create-enchantable-machinery",
+          "project_type": "mod",
+          "team": "X57tZwW8",
+          "title": "Create: Enchantable Machinery",
+          "description": "This mod allows you to apply some vanilla enchantment to Create blocks.",
+          "body": "# Create: Enchantable Machinery\nThis add-on mod for Create has been crafted with one thing in mind: enhancement. Realizing that the dynamic machinations and animated contraptions of Create could be even more exciting and magical, we've developed Create: Enchantable Machinery.\n\nCreate: Enchantable Machinery allows you to enchant various blocks added with Create, elevating both their aesthetics and functionality.\n\n![Replace this with a description](https://cdn.modrinth.com/data/cached_images/bc5b9dfb09fe32e0397eb26269c5b491db193623.png)\n\n# From Beta to Official Release!\nWe are euphoric to announce the significant leap of our Mod from Beta to its **Official Release**! We have successfully implemented all planned enhancements, including the ability to apply enchantments to the Mechanical Drill, Saw, and Harvester.\nYour unwavering support and constructive feedback during the Beta phase have been instrumental in this achievement. We wholeheartedly extend our gratitude for your contributions. Now, dive in, download the latest version, and enhance your mechanical tools with enchantments! Happy gaming!\n\n# Features\n![Replace this with a description](https://cdn.modrinth.com/data/cached_images/33e8f5abd4e4dd3ca9230ffd8723bbaf1b7431a3.png)\n\nBy enchanting the Create block, you can use it more conveniently and efficiently.\n\n![Replace this with a description](https://cdn.modrinth.com/data/cached_images/bd50422073fc223a714daa84b9346144dcc7ef34_0.webp)\n\nBy wearing goggles, you can see what kind of enchantment a block has.\n\n![Replace this with a description](https://cdn.modrinth.com/data/cached_images/1a48cc0922bb46c39b6831de29afe70849c38014.png)\n\nWe've supercharged Create: Enchantable Machinery with a fantastic update! Now, our mod seamlessly meshes with enchants from other mods, bringing you greater flexibility in enchanting. Brace yourselves for enchantments never seen before!\n- Example of integration with other mods: [Majrusz's Enchantments](https://www.curseforge.com/minecraft/mc-mods/wonderful-enchantments)'s smelting enchantment\n![](https://storage.googleapis.com/zenn-user-upload/eb56a9c02f45-20240731.gif)\n\n# Applicable Enchantments\n### Mechanical Drill\n - Efficiency\n - Fortune\n - SilkTouch\n - Additional enchantments applicable for pickaxe\n### Mechanical Saw\n - Efficiency\n - Fortune\n - SilkTouch\n### Mechanical Harvester\n - Fortune\n### Mechanical Plough\n - Efficiency\n### Encased Fan\n - Efficiency\n### Millstone\n - Efficiency\n### Crushing Wheel\n - Efficiency\n - SilkTouch\n### Mechanical Press\n - Efficiency\n### Mechanical Mixer\n - Efficiency\n\nYou can also enchant blocks using the enchantment table.\n\n**Note**: The enchantment glint effect applied to blocks in the world is an **experimental feature**. If you're using this feature alongside shader mods and encounter any issues, please make sure to install and use the [Iris & Flywheel Compatibility](https://www.curseforge.com/minecraft/mc-mods/iris-flywheel-compat) mod to resolve potential conflicts and improve performance.",
+          "published": "2024-07-11T09:57:28.077286Z",
+          "updated": "2025-11-01T03:44:13.548714Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License",
+            "url": "https://github.com/cotrin8672/CreateEnchantableMachinery?tab=MIT-1-ov-file"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "technology",
+            "utility"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge",
+            "quilt"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/eqrvp4NK/245c9219d033286021178416a33240f848321b5f_96.webp",
+          "issues_url": "https://github.com/cotrin8672/CreateEnchantableMachinery/issues",
+          "source_url": "https://github.com/cotrin8672/CreateEnchantableMachinery",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/eqrvp4NK/images/1a48cc0922bb46c39b6831de29afe70849c38014_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/eqrvp4NK/images/1a48cc0922bb46c39b6831de29afe70849c38014.png",
+              "featured": false,
+              "title": "Enchanting with enchant table.",
+              "created": "2024-07-11T11:22:35.814765Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/eqrvp4NK/images/33e8f5abd4e4dd3ca9230ffd8723bbaf1b7431a3_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/eqrvp4NK/images/33e8f5abd4e4dd3ca9230ffd8723bbaf1b7431a3.png",
+              "featured": false,
+              "title": "Add enchantment to Mechanical Drill with anvil.",
+              "created": "2024-07-11T11:19:01.145465Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/eqrvp4NK/images/501a1c95a6eb382fafe485ae97cdc5df59658071_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/eqrvp4NK/images/8928fd30f4b196fa3a166937855ef5141a90ce37.png",
+              "featured": false,
+              "title": "By wearing goggles, you can see what kind of enchantment a block",
+              "created": "2024-07-11T11:22:03.037812Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/eqrvp4NK/images/a6b896e93073465ed61c785fada0e7f99194df2e.gif",
+              "raw_url": "https://cdn.modrinth.com/data/eqrvp4NK/images/a6b896e93073465ed61c785fada0e7f99194df2e.gif",
+              "featured": false,
+              "title": "Integration with other mods: Majrusz's Enchantments' smelting",
+              "created": "2024-07-30T17:26:00.572030Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "HM6wtOMY",
+          "project_id": "eqrvp4NK",
+          "author_id": "o81OxBTn",
+          "name": "Create: Enchantable Machinery 3.4.3 Forge",
+          "version_number": "3.4.3+mc1.20.1-forge",
+          "changelog": "# Support for Create v6.0.7\n",
+          "date_published": "2025-11-01T03:44:13.548714Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "bc06c3ccbebd4be00fd85a742796b1c4c84f0859a627b2ad4954a9a8f9f45b802822010e6cfe4c84212d8d8b3a8ca979150f7f6b7acbb84eaec2c6ed45eedee5",
+                "sha1": "e3fcddcd2d355e6ef17bad525b79a2392242d341"
+              },
+              "url": "https://cdn.modrinth.com/data/eqrvp4NK/versions/HM6wtOMY/createenchantablemachinery-3.4.3%2Bmc1.20.1-forge.jar",
+              "filename": "createenchantablemachinery-3.4.3+mc1.20.1-forge.jar",
+              "primary": true,
+              "size": 579821
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "LNytGWDc",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "ordsPcFz",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
+      },
+      {
+        "name": "AppleSkin",
+        "version": "appleskin-forge-mc1.20.1-2.5.1.jar",
+        "optional": true,
+        "file": "appleskin-forge-mc1.20.1-2.5.1.jar",
+        "type": "mods",
+        "description": "Adds some useful information about food/hunger to the HUD",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 248787,
+        "curseForgeFileId": 4770828,
+        "curseForgeProject": {
+          "id": 248787,
+          "name": "AppleSkin",
+          "authors": [
+            {
+              "id": 13914149,
+              "name": "squeek502",
+              "url": "https://www.curseforge.com/members/squeek502"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Adds some useful information about food/hunger to the HUD",
+          "categories": [
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Food",
+              "slug": "mc-food",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-food",
+              "dateModified": "2014-05-08T17:45:26.55Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 436,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/49/635351499265510402.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 436,
+          "classId": 6,
+          "slug": "appleskin",
+          "isFeatured": false,
+          "dateModified": "2026-01-24T11:33:20.557Z",
+          "dateCreated": "2016-08-13T20:28:19.243Z",
+          "dateReleased": "2026-01-24T11:28:01.64Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/appleskin",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/squeek502/AppleSkin/issues",
+            "sourceUrl": "https://github.com/squeek502/AppleSkin"
+          },
+          "logo": {
+            "id": 47527,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/47/527/256/256/636066936394500688.png",
+            "title": "636066936394500688.png",
+            "url": "https://media.forgecdn.net/avatars/47/527/636066936394500688.png",
+            "modId": 248787
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 7517407
+        },
+        "curseForgeFile": {
+          "id": 4770828,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "appleskin-forge-mc1.20.1-2.5.1.jar",
+          "fileName": "appleskin-forge-mc1.20.1-2.5.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-09-27T04:39:49.087Z",
+          "fileLength": 47428,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3491573360,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1383794256,
+              "name": "appleskin.png"
+            },
+            {
+              "fingerprint": 3447702788,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3071333817,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 2361881143,
+              "name": "squeek"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "81919356f84eab14258db98924b66c3c38e372b1",
+              "algo": 1
+            },
+            {
+              "value": "dae63cea9c951dda542a4005ceef3953",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "NeoForge",
+            "1.20.1",
+            "Forge"
+          ],
+          "fileFingerprint": 1671637789,
+          "modId": 248787
+        },
+        "modrinthProject": {
+          "id": "EsAfCjCV",
+          "slug": "appleskin",
+          "project_type": "mod",
+          "team": "2RI7njA8",
+          "title": "AppleSkin",
+          "description": "Food/hunger-related HUD improvements",
+          "body": "Adds various food-related HUD improvements. This is a mostly client-side mod, but it needs to be on the server in order to display accurate saturation/exhaustion values on the client.\n\n---\n\n*Note: AppleSkin provides information about some mechanics that are invisible by default (it does not add or change any mechanics). To read about Minecraft's exhaustion and saturation mechanics, see the [Minecraft wiki article on Hunger](https://minecraft.wiki/w/Hunger#Mechanics)*\n\n---\n\n### Features\n\n* Adds food value information to tooltips:\n\n![](https://github.com/user-attachments/assets/8a2dcbad-57dd-4184-ac4b-a6df311ec3be)\n\n* Adds a visualization of saturation and exhaustion to the HUD:\n\n![](https://github.com/user-attachments/assets/1afaec0a-9e9d-4320-8ed3-ada98eacf186)\n\n* Adds a visualization of potential hunger/saturation restored while holding food:\n\n![](https://github.com/user-attachments/assets/361e3104-1079-4334-a173-316af652d48d)\n\n* Adds a visualization of potential health restored while holding food:\n\n![](https://github.com/user-attachments/assets/fa6ad0dd-bbd2-42a5-aa3b-565f9405993d)\n\n* Adds hunger/saturation/exhaustion info to the debug overlay (F3)\n* Syncs the value of saturation and exhaustion to the client.\n\n---\n\n### Misc\nYou are welcome to add this mod to any modpack you'd like.\n\n---\n\n### Use on vanilla servers\n\nOne of the following plugins can be used to get the saturation/exhaustion to work when connecting to vanilla Minecraft servers:\n\n- https://github.com/Siebrenvde/AppleSkinSpigot\n- https://github.com/jmattingley23/AppleSkinSpigot\n- https://www.curseforge.com/minecraft/bukkit-plugins/paperapple\n",
+          "published": "2021-11-20T23:37:39.568172Z",
+          "updated": "2026-01-24T11:36:18.257687Z",
+          "status": "approved",
+          "license": {
+            "id": "Unlicense",
+            "name": "The Unlicense"
+          },
+          "client_side": "optional",
+          "server_side": "optional",
+          "categories": [
+            "food",
+            "utility"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge",
+            "quilt"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/EsAfCjCV/icon.png",
+          "issues_url": "https://github.com/squeek502/AppleSkin/issues",
+          "source_url": "https://github.com/squeek502/AppleSkin",
+          "donation_urls": [
+            {
+              "id": "github",
+              "platform": "Github",
+              "url": "https://github.com/sponsors/squeek502"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "XdXDExVF",
+          "project_id": "EsAfCjCV",
+          "author_id": "qB1TNdUc",
+          "name": "appleskin-forge-mc1.20.1-2.5.1",
+          "version_number": "2.5.1+mc1.20.1",
+          "changelog": "- Fixed potential crash from unexpectedly large health/absorption values ([#266](https://github.com/squeek502/AppleSkin/issues/266))\n- Fixed large hunger/saturation text being drawn on top of the icon in tooltips ([#262](https://github.com/squeek502/AppleSkin/issues/262))",
+          "date_published": "2023-09-27T05:07:37.394825Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "81919356f84eab14258db98924b66c3c38e372b1",
+                "sha512": "3176f928fb6c60d27f5edb610ca4ab0236175404eebf32797a1ec6cdd794bb294a260231579578536d03571377e43c6181adc75d8dd2c0733f17fce4f7e636b9"
+              },
+              "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/XdXDExVF/appleskin-forge-mc1.20.1-2.5.1.jar",
+              "filename": "appleskin-forge-mc1.20.1-2.5.1.jar",
+              "primary": true,
+              "size": 47428
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1769573049011,
-    "numPlays": 57,
+    "lastPlayed": 1769851419913,
+    "numPlays": 66,
     "lastExportName": "Moco Server Pack",
     "lastExportVersion": "1.20.1",
     "lastExportAuthor": "samunohito",
